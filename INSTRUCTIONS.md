@@ -18,13 +18,13 @@ When a job description is provided in `JobDesc.md`, follow these steps to genera
     -   **Formatting:** Maintain the **exact** LaTeX structure, formatting, margins, and style of `Original.tex`. Do not change the name, contact info, or education sections unless specifically relevant to the job (generally these stay the same).
 
 4.  **Generate Customized LaTeX:**
-    -   Create a new file named `<company>-resume.tex` (e.g., `google-resume.tex`).
+    -   Create a new file named `resumes/<company>-resume.tex` (e.g., `resumes/google-resume.tex`).
     -   Uncomment selected experiences/projects if they were commented in the original, and comment out the ones not selected.
 
-5.  **PDF Management:**
+5.  **GitHub Workflow & PDF Management:**
     -   Ensure a `resumes/` subdirectory exists in the project root.
-    -   Run the GitHub workflow to generate the PDF from the newly created `.tex` file.
-    -   Store the resulting PDF in the `resumes/` directory.
+    -   Pushing the new `.tex` file to GitHub will trigger an automated workflow to generate the PDF.
+    -   The workflow will compile all `.tex` files in the `resumes/` directory and save the PDFs in the same location.
 
 ---
 *Note: This workflow is triggered by updates to `JobDesc.md`.*
