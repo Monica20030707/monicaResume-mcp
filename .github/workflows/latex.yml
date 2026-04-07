@@ -1,8 +1,19 @@
 name: Compile LaTeX Resumes
-on: [push]
+on:
+  push:
+    paths:
+      - 'resumes/*.tex'
+      - 'JobDesc.md'
+      - '.github/workflows/latex.yml'
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   build_latex:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Set up Git repository
         uses: actions/checkout@v4
@@ -11,16 +22,30 @@ jobs:
         uses: xu-cheng/latex-action@v3
         with:
           root_file: resumes/*.tex
-          working_directory: .
           args: "-pdf -interaction=nonstopmode"
 
       - name: Move PDFs to pdfs folder
         run: |
           mkdir -p pdfs
-          find resumes/ -name "*.pdf" -exec mv {} pdfs/ \;
+          # Move PDFs and ensure we capture them even if they are in the root or resumes folder
+          find . -maxdepth 2 -name "*.pdf" -not -path "./pdfs/*" -exec mv -v {} pdfs/ \;
+          ls -R pdfs/
+
+      - name: Commit and Push PDFs
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add pdfs/*.pdf
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Auto-generate PDFs from LaTeX [skip ci]"
+            git push
+          fi
 
       - name: Upload PDF Artifacts
         uses: actions/upload-artifact@v4
         with:
           name: resumes-pdf
           path: pdfs/*.pdf
+          if-no-files-found: error
