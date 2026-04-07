@@ -22,9 +22,9 @@ When a job description is provided in `JobDesc.md`, follow these steps to genera
     -   Uncomment selected experiences/projects if they were commented in the original, and comment out the ones not selected.
 
 5.  **GitHub Workflow & PDF Management:**
-    -   Ensure a `resumes/` subdirectory exists in the project root.
-    -   Pushing the new `.tex` file to GitHub will trigger an automated workflow to generate the PDF.
-    -   The workflow will compile all `.tex` files in the `resumes/` directory and save the PDFs in the same location.
+    -   Ensure a `resumes/` subdirectory exists for `.tex` files and a `pdfs/` subdirectory exists for generated PDFs.
+    -   Pushing a new `.tex` file to GitHub will trigger an automated workflow.
+    -   The workflow will compile all `.tex` files from the `resumes/` directory and save the resulting PDFs into the `pdfs/` directory.
 
 ---
 *Note: This workflow is triggered by updates to `JobDesc.md`.*

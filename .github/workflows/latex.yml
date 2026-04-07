@@ -14,8 +14,13 @@ jobs:
           working_directory: .
           args: "-pdf -interaction=nonstopmode"
 
+      - name: Move PDFs to pdfs folder
+        run: |
+          mkdir -p pdfs
+          find resumes/ -name "*.pdf" -exec mv {} pdfs/ \;
+
       - name: Upload PDF Artifacts
         uses: actions/upload-artifact@v4
         with:
           name: resumes-pdf
-          path: resumes/*.pdf
+          path: pdfs/*.pdf
