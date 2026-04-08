@@ -1,70 +1,41 @@
 Job Description
-Launch your sales career at a global technology leader powering the future of payments. 
+As a New College Graduate Software Engineer at Visa, you will join one of our technology organizations, working on impactful projects that power the future of digital payments. Your specific assignment will be based on your skills, interests, and team needs, giving you the opportunity to learn, grow, and contribute from day one.  
 
-Visa’s Sales Development Program (SDP) is a two-year immersive experience designed for new college graduates who want to build worldclass sales capabilities from day one. You’ll gain deep product knowledge, hands- on selling experience, senior-level mentorship, and exposure to Visa’s industry leading clients across the U.S.  
+Some job duties and projects could include: 
 
-What Visa Offers You 
+Write optimized, secure and scalable code that also follows best practices such as unit testing and peer reviews. 
+Formulate creative solutions to solve problems that meet the objectives of both the product roadmap and technology roadmap. 
+Participate in and develop end-to-end technology solutions that solve our business needs. 
+Work closely with multiple stakeholders in a cross-functional organization within an Agile environment. 
+Troubleshoot and debug software applications, identifying root causes and implementing effective solutions
+Contribute to the design and architecture of systems that meet high availability, performance, and security requirements
+Build and improve internal tools to enhance developer productivity and system monitoring
+Remember, at Visa, we see our employees as our most valuable asset and we are excited to support and witness your growth within our organization. 
 
-A structured two-year program with continuous learning and professional development 
-Exposure to Visa’s next generation sales transformation efforts with long term organizational priorities.  
-Mentorship from industry experts, leadership visibility, and a strong early career community 
-Opportunities for travel, relocation, and long-term career pathways across Sales, Product, or Account Management 
-A chance to make a real impact driving growth for one of the world’s most trusted technology companies 
-Career pathways across Sales, Product or Account Management.  
-About the Program 
-
-Year 1: Sales Foundations + Digital Sales Rotation (Atlanta, GA) 
-
-Getting started: Sales Bootcamp 
-
-Kick off your journey with an intensive, instructor led bootcamp where you will learn: 
-How Visa’s clients grow using our products, services, and data 
-Core sales skills including prospecting, decisionmaker identification, objection handling, negotiation, presentation delivery, and closing techniques 
-How to navigate Visa’s sales tools, platforms, and CRM systems  
-Year One: Digital Sales Rotation 
-
-Generate and qualify inbound and outbound leads, contributing directly to pipeline growth 
-Conduct client research to identify new opportunities and understand market trends 
-Support customer communications via phone, video, digital whiteboards, and webcasts  
-Collaborate with the Digital Sales team to optimize strategies, improve processes, and ensure accurate data tracking 
-Participate in ongoing digital sales training 
-Gain experience with essential sales technologies like CRM and analytics tools 
-Year 2: Enterprise Field Sales Rotation (Various U.S. Locations)  
-
-Graduate into Visa’s Field Sales Organization, relocating to one or our market offices in the US or in Atlanta supporting markets remotely. 
-
-Partner with an experienced Senior Seller to support and manage enterprise level client relationships 
-Participate in sales meetings, business reviews, and client strategy sessions 
-Understand the full sales cycle - from prospecting to negotiation to contract signature 
-Deepen your product, industry, and customer expertise as you learn hands-on what it takes to manage complex, high value accounts 
-Specialize in either generalist or specialist sales depending on interest and business needs level client relationships on what it takes to manage complex, high value accounts 
-Who You Are: Ideal Candidate 
-
-You’re a motivated self-starter excited about building a long-term career in sales, even if you’ve never done it before.  
-
-Key Traits 
-
-Strong interest in sales, technology, payments, or financial services 
-Excellent written, verbal, and presentation communication skills 
-Willingness to learn, take feedback, and continuously improve 
-Comfortable managing multiple tasks in a fast-paced environment  
-Willing to relocate for different rotations and client opportunities 
-Collaborative mindset and enthusiasm for working on diverse teams 
 Qualifications
 Basic Qualifications 
 
-Bachelor's or Master's degree graduating December 2025 - August 2026 with less than 6 months of relevant work experience  
-Must be available to start working August/September 2026 – no early or late start dates to ensure a common onboarding experience and development opportunities 
-Willingness to be onsite in Atlanta for Year 1 and in a U.S field sales location for Year 2. 
+Bachelor's or Master's degree in Computer Science, Computer Engineering, CIS/MIS, Cybersecurity, Business or a related field, graduating May 2025 - August 2026. 
 Preferred Qualifications 
 
-Prior experience in customer service, sales, or client facing roles  
-Familiarity with CRM systems, digital sales tools, or data analysis platforms (e.g., Excel, Tableau, SQL) 
-Strong analytical, research, and problem-solving abilities 
-Interest in the technology, fintech, and digital commerce landscape 
-Excellent written and verbal communication skills, demonstrated through clear, professional, errorfree interactions 
-Ability to take on challenges, seek feedback, and show continuous improvement 
-Strong collaboration skills and ability to work effectively on diverse teams 
-Highly driven, resourceful, and results oriented 
-Familiarity, experience, or interest in GenAI tools and emerging technologies 
-Minor, concentration, or certification in Sales, Sales Leadership, Business Analytics, or related areas  
+Proficiency in at least one programming language or technology including, but not limited, to Java, C/C++, C#, .NET, Python, Javascript, HTML, Golang
+Experience with Write utilities / automation tools using Selenium, Java, REST, Python, Groovy, Ruby, and more
+Experience with front-end frameworks including, but not limited to, Angular, React, Vuejs, etc.
+Knowledge or Experience using Gen AI tools (GPT, Copilot, OpenAI, Gemini, etc.)
+Exposure to emerging and cloud technologies: Familiarity with AWS, MySQL, PowerBI
+Exposure or experience in fine-tuning, integrating LLM(e.g., GPT, LLaMA)
+Knowledge of prompt engineering and scalable LLM architectures
+Knowledge or experience with ML models with MLOps activities
+Familiarity with software testing principles 
+Solid understanding of software engineering concepts and methodologies 
+Document process, designs, test results, and analysis 
+Lead root cause analysis and track defect resolution to completion 
+Review and provide feedback on development code, test designs and test cases 
+Communicate status frequently to project stakeholders 
+Strong communications skills, specifically, the absence of repeated grammatical or typographical errors, clear and concise written and spoken communications, and communications that demonstrate professional judgment. 
+The ability to take on challenges and address problems head-on 
+Strong ability to collaborate 
+Highly driven, resourceful and results oriented 
+Good team player and excellent interpersonal skills 
+Good analytical and problem-solving skills 
+Demonstrated ability to lead and navigate through ambiguity
