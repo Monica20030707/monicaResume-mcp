@@ -1,43 +1,35 @@
-Roles & Responsibilities:
+As a Product (Frontend UX/UI) Software Engineer, you’ll bridge the gap between our fusion machine operators and our software stack. You’ll own both the design and the implementation of the interfaces our fusion machine operators use every day. You’ll work directly with operators in the control room, learning their workflows, tools, and pain points to design and implement curated interfaces that improve speed, clarity, and confidence. You’ll own the frontend of critical operator tools, building real-time data visualizations, actionable alerts, and streamlined interactions that let our teams operate the fusion machine with efficiency, safety, and confidence. This is a hands-on role where you’ll design, prototype, and build production-ready software, collaborating across software, hardware, and operator teams. This is an onsite role that reports directly to the Lead Electrical Engineer at our Everett, WA office.
 
-As a Software Developer at MITRE, you will enjoy a collaborative environment where you work closely with others in an organization that encourages and values collaboration, mentoring, and continuous learning. You will have the opportunity to leverage and grow your hands-on software engineering expertise as you contribute to real challenges across a variety of domains. As part of the Software Engineering Innovation Center, you will develop your software architecture and engineering skills while delivering computing capabilities to address the challenges of our sponsors.
+You Will
 
-While responding to these challenges, you will leverage and grow your hands-on skills with software design and development, engaging in the full software engineering lifecycle using modern technologies.
+Blend frontend engineering and UX/UI design skills to create operator-facing applications.
+Embed yourself with machine operators to deeply understand workflows, tools, and challenges.
+Work with other software vendors to integrate other applications into our product.
+Translate workflows into prototypes, mockups, and then production-ready code.
+Consolidate and unify fragmented applications into coherent user experiences.
+Build real-time dashboards, alerts, and visualizations that improve situational awareness.
+Collaborate with backend/data engineers to integrate complex real-time data streams.
+Establish and maintain design patterns, component libraries, and UX standards.
+Advocate for operator needs within the broader product and software teams.
 
-You will gain experience with one or more of the following: 
+Required Skills
 
-Cloud Engineering 
-DevSecOps 
-Full-Stack Development 
-Embedded Systems and Internet of Things 
-Practical Applications of Machine Learning and Artificial Intelligence 
-Familiarity with user-centered design principles as applied throughout the software development cycle
-Develops wireframes, mockups, and prototypes to effectively communicate design ideas
-Mission-based software engineering and deployment
+Strong experience with modern frontend frameworks (React, Vue, or Angular).
+Proficiency in JavaScript/Typescript, HTML, and CSS.
+Ability to translate user workflows into intuitive UX/UI designs.
+Experience with prototyping and design tools (Figma, Sketch, Adobe XD, etc.).
+Hands-on experience building real-time dashboards or data visualization UIs.
+Strong collaboration and communication skills across technical and non-technical teams.
+Comfortable owning the end-to-end lifecycle: research → design → implementation → iteration.
+Comfortable embedding with end-users and adapting to a fast-paced engineering environment.
 
-Basic Qualifications:
+Desired Skills
 
-Requires less than 1 year of related experience with a related Bachelor’s degree in a technical field, or equivalent combination of related education and work experience.
-Must be a US citizen able to obtain and maintain a US government security clearance.
-Hands-on skills in at least one and ideally multiple modern programming languages (e.g., Java, JavaScript/TypeScript, C/C++, C#, Python, Go, or Rust).
-Familiarity with DevSecOps principles and practices (desirable also includes exposure to Continuous Integration, Continuous Delivery, Infrastructure-as-Code, Automation for Security and Testing, etc.).
-Demonstrated ability and desire to quickly learn and apply new technologies.
-Ability to work both independently and collaboratively with colleagues.
-High level desire to help our nation solve its most critical challenges.
-Exposure to software development tools and frameworks, including source control management tools (e.g., Git).
-Proficiency in JavaScript, HTML, CSS, D3, and modern JavaScript Frameworks such as Angular, Vue, React, and/or similar libraries.
-Proficiency in utilizing wireframe design software.
-Requires a minimum of 50% hybrid onsite.
-
-Preferred Qualifications: 
-
-Preference given to candidates who have completed an advanced degree in a technical discipline (including but not limited to Software Engineering, Computer Science, Computer Engineering, Mathematics, etc.)
-Preference given to qualified candidates with active clearance.
-Familiarity with Agile software development methodologies.
-Familiarity with Cloud Services Providers (AWS, Azure, Google, etc.).
-Knowledge of software design patterns.
-Knowledge of database technologies, including relational or NoSQL.
-Knowledge of Generative Pretrained and Large Language Models and use in the Software Development Lifecycle.
-Knowledge of user-centric engineering tools and techniques and a passion for developing user-centric systems that contribute to mission success
-Strong interpersonal skills, coupled with excellent verbal and written communication abilities.
-Entrepreneurial and innovative spirit and the curiosity to explore and push the boundaries of software development and software solutions
+Experience with real-time or streaming data visualization.
+Familiarity with UX research methods (interviews, shadowing, usability testing).
+Knowledge of accessibility standards (WCAG, ARIA) and inclusive design.
+Experience with alerting/monitoring tools and designing for critical operations.
+Background in human factors engineering or industrial HMI (Human-Machine Interfaces).
+Experience with visualization libraries (D3.js, Plotly, Recharts).
+Familiarity with backend APIs, WebSockets, or GraphQL for data integration.
+Exposure to operator-driven domains (aerospace, defense, energy, industrial control).

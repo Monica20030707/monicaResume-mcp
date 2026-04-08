@@ -42,7 +42,8 @@ When a job description is provided in `JobDesc.md`, follow these steps to genera
 - **Note:** Only slightly tweak wording; do not change the tone or make it corporate.
 
 ## 5. Execution
-- Generate the text and save it to `cover-letters/<company>-cover-letter.txt`.
+- Create a new file using the following naming convention: `cover-letters/Thuy-<PositionShort>-<Company>-CoverLetter.txt` (e.g., `cover-letters/Thuy-SDE-Google-CoverLetter.txt`).
+- Use standard abbreviations for PositionShort: SDE, ADE, SWE, etc.
 - Perform a final check: Does it sound like a real person wrote it? Would you say it out loud?
 
 ---
