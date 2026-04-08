@@ -1,49 +1,24 @@
-Cognex is the world’s leading provider of vision systems, software, sensors, and industrial barcode readers used in manufacturing automation.   Cognex vision helps companies improve product quality, eliminate production errors, lower manufacturing costs, and exceed consumer expectations for high quality products at an affordable price. Typical applications for machine vision include detecting defects, monitoring production lines, guiding assembly robots, and tracking, sorting and identifying parts. 
+Parachute Health is transforming post-acute care through the leading digital ordering platform for medical equipment and supplies. We replace the outdated, error-prone paper and fax process, which negatively impacts over 30 million patients annually, with a system that’s 10 times faster. Our platform connects a vast network of Home Medical Equipment (HME) providers, clinicians, and payors across all 50 states, ensuring millions of patients get the life-saving products they need quickly and efficiently. 
+ 
+Join our team and make a difference in patient care.
+Are you passionate about software engineering and looking for an exciting remote opportunity to gain hands-on experience? We're looking for a talented and motivated Software Engineer Intern to join our team at Parachute Health.
 
-Cognex serves an international customer base from offices located throughout the Americas, Europe, Mexico and Asia, and through a global network of integration and distribution partners. The company is headquartered in the US.
+As a Software Engineer Intern at Parachute Health, you'll have the opportunity to work on a mission-oriented team, learn new skills, and contribute to the development of innovative solutions that will help us continue to improve patient outcomes. Plus, you'll be gaining experience working with a team that values creativity, curiosity and collaboration! We believe in the value of asking questions and learning out loud together.
 
-Essential Functions of an Associate Territory Sales Engineer  
+You will:
 
-Responsible for achieving a defined sales quota for both current and prospective customers in the designated territory  
+Receive 1:1 mentorship
+Design, develop, and implement solutions that support our mission to modernize healthcare communication
+Write clean, maintainable, and efficient code that meets the needs of our stakeholders
+Collaborate with cross-functional teams to identify and solve complex problems related to healthcare communication
+Participate in code reviews, testing, and debugging to ensure high-quality software delivery
+Use the company’s approved AI tools as appropriate for your work
+Your qualifications:
 
-Achieve activities-based business objectives, including customer visits, new customer acquisition, and new product introduction  
-
-Prospect for new sales opportunities via cold and warm leads, cultivate sales leads, schedule customer site visits with the goal of ultimately obtaining a purchase order  
-
-Travel to customer manufacturing facilities to demonstrate Cognex products and review applications/issues in order to provide solutions to these applications  
-
-Capture competitive data and continuously update other project details in CRM system  
-
-Assist at trade shows and other marketing events to generate qualified leads  
-
-Generate leads for other Cognex sales teams by collecting information on customer’s complex vision applications beyond the capabilities of assigned ID and Vision Sensor products  
-
-Knowledge, Skills and Abilities  
-
-Interested in a career in technical sales  
-
-Action and result-oriented mindset  
-
-Ability to solve technical problems and learn new automation technology  
-
-Ability to work independently in a field sales environment with limited overnight travel (up to 20%)  
-
-Willingness to relocate and pursue career ambition outside of familiar surroundings  
-
-Good listening and communication skills  
-
-Fit Cognex culture of Work Hard, Play Hard, and Move Fast  
-
-PC literate with a working knowledge of MS Windows applications  
-
-  
-
-Minimum Education and Work Experience Required  
-
-Minimum two years of sales training and field experience in a metric driven, sales environment 
-
-4-year college degree from reputable universities  
-
-STEM major helpful but not required 
-
-Must be able to able to visit multiple accounts on the same day via own means of transport 
+We expect successful results from college students, bootcamp grads, self-taught developers, open source developers, or back-to-workforce career status. No professional engineering experience expected
+Proficiency in Ruby and/or React
+Must be willing and able to ask endless questions!
+Excellent written and verbal communication skills
+Strong problem-solving and analytical skills
+Work effectively in a team: be able to collaborate with teammates while giving and taking action on received feedback
+Although we leverage AI tools during our day today, you will not have access to these during our interview

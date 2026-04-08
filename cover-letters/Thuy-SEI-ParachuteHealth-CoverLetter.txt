@@ -1,0 +1,13 @@
+TO RECRUITING TEAM,
+
+I am a recent Computer Science graduate, and I am excited to apply for the Software Engineer Intern position. I have been following Parachute Health’s mission to modernize post-acute care, and your focus on replacing outdated paper and fax processes with a digital platform that ensures millions of patients receive life-saving supplies really stands out to me. I am eager to contribute to a mission-oriented team that values curiosity and "learning out loud."
+
+Through my experience as an Associate Full Stack Developer and my previous internship at METY Technology, I’ve worked on building and shipping real applications where reliability and clean code mattered. I’ve developed full-stack features using React and Node.js, built APIs, and managed production release lifecycles. I try to approach development from the user’s perspective, thinking about how performance and maintainability affect the overall patient care experience. Getting something working is not enough; making it stable, intuitive, and maintainable is what matters.
+
+I also enjoy finding ways to simplify systems and automate repetitive work. Whether it’s improving data flow between services, refining UI interactions with React, or using AI tools to explore new ideas faster, I like experimenting and learning as I go. I’m someone who asks endless questions, takes feedback seriously, and thrives in collaborative environments. I value thoughtful design, high-quality software delivery through testing, and being part of a team where people support each other to solve complex problems in healthcare communication.
+
+Thank you for considering my application. I’d love the chance to bring my curiosity, persistence, and hands-on verification mindset to Parachute Health. I don’t come from a flashy background, but I prove myself by shipping reliable work and learning fast. I’m excited to grow and contribute on a team doing meaningful work for patients across the country. Please feel free to contact me via email or phone should you have any questions or require additional information.
+
+With Gratitude,
+
+THUY NGUYEN
