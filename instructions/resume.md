@@ -16,7 +16,6 @@ When a job description is provided in `JobDesc.md`, follow these steps to genera
     -   **Experience Limit:** Select and include exactly **4 experiences** that best match the job description.
     -   **Project Limit:** Select and include exactly **2 projects** that best match the job description.
     -   **Skill Customization:** Modify the "Skills" section (Languages, Skills, Tools) to prioritize keywords from the `JobDesc.md`. Do NOT create new sections; keep the existing three categories.
-    -   **One-Page Limit:** Ensure the generated LaTeX code remains within a **single page**. If content is too long, prioritize the most relevant bullet points.
     -   **Formatting:** Maintain the **exact** LaTeX structure, formatting, margins, and style of `templates/resume_template.tex`. Do not change the name, contact info, or education sections unless specifically relevant to the job.
 
 4.  **Generate Customized LaTeX:**
