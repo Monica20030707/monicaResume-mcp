@@ -1,48 +1,49 @@
-As a Fall 2026 Co-op - Maintenance and Engineering at Keurig Dr Pepper (KDP) in our Sumner, WA plant, you will gain hands-on experience at large-scale manufacturing environment, supporting cross functional teams and contributing to key initiatives across Safety, Quality, Maintenance, Operations, and Planning. You’ll be exposed to the full production process – from green bean receiving to roasting, grinding and packaging. As part of the Maintenance team, you will develop a strong business mindset and gain insight into key performance indicators that drive operational decisions.
+Cognex is the world’s leading provider of vision systems, software, sensors, and industrial barcode readers used in manufacturing automation.   Cognex vision helps companies improve product quality, eliminate production errors, lower manufacturing costs, and exceed consumer expectations for high quality products at an affordable price. Typical applications for machine vision include detecting defects, monitoring production lines, guiding assembly robots, and tracking, sorting and identifying parts. 
 
-Shift/Schedule:
+Cognex serves an international customer base from offices located throughout the Americas, Europe, Mexico and Asia, and through a global network of integration and distribution partners. The company is headquartered in the US.
 
-The KDP Fall 2026 Co-op Program will run from July 13 – December 11, 2026 
-Location: Sumner, WA (Plant)
-Full-time; 40 hours per week 
-Monday-Friday 
-8:00am until 5:00pm
-In-person
+Essential Functions of an Associate Territory Sales Engineer  
 
+Responsible for achieving a defined sales quota for both current and prospective customers in the designated territory  
 
-As a Maintenance and Engineering Co-op, you will: 
+Achieve activities-based business objectives, including customer visits, new customer acquisition, and new product introduction  
 
-Collaborate closely with Mechanics, Operations and Engineering Teams. 
-Conduct data analysis to identify opportunities for improving machine efficiency and performance.
-Gain hand on experience with maintenance operational process, including Inventory Control and Preventative Maintenance.
-Support change management through best practice sharing and standard work documentation
-Gain knowledge in executing operational plans and projects, including DMS (Daily Management Systems) for day-to-day operations, new equipment startups, and innovative product qualifications
-Assist with TPM (Total Productive Maintenance) implementation and Lean activities, including participation in Continuous Improvement or Kaizen events and developing, implementing and improving autonomous and preventive maintenance workstreams
-Support daily manufacturing operations to deliver targeted safety, quality, production, and cost results
-Prepare standard reports/documentation to communicate results to all levels including senior management 
-Undertake and successfully complete simple or basic project development tasks to include any of the following: writing and/or verifying specifications, maintaining product/process documentation, testing processes, equipment, raw materials and product, and validating equipment and processes 
-Be a contributor to problem solving, cost reduction, quality, and continuous improvement initiatives 
-Recommend methods for improving efficiency and reducing waste of materials and utilities
-Collect and calculate savings data on improvement projects
-Balance work priorities to meet the day-to-day requirements of the plant business teams
+Prospect for new sales opportunities via cold and warm leads, cultivate sales leads, schedule customer site visits with the goal of ultimately obtaining a purchase order  
 
+Travel to customer manufacturing facilities to demonstrate Cognex products and review applications/issues in order to provide solutions to these applications  
 
-Elements of the KDP 2026 Co-op Program include:
+Capture competitive data and continuously update other project details in CRM system  
 
-Engaging and partnering on innovative projects to gain experience in a fast paced, cross functional team environment
-Receive mentor support for your professional development
-Participate in meet & greets and lunch & learns with KDP executives and other organization leaders
-Receive professional development training such as networking, professional skills development and presenting
-Complete a project from start to finish and present it and your takeaways to your team, department, and senior leaders to highlight your project work and impact on the business
+Assist at trade shows and other marketing events to generate qualified leads  
 
-Requirements:
+Generate leads for other Cognex sales teams by collecting information on customer’s complex vision applications beyond the capabilities of assigned ID and Vision Sensor products  
 
-Undergraduate currently enrolled in a full-time academic program from an accredited college or university, majoring in Engineering or another Manufacturing related field.
+Knowledge, Skills and Abilities  
 
+Interested in a career in technical sales  
 
-Helpful Skills (not required, but beneficial):
+Action and result-oriented mindset  
 
-Technical Tools: SQL, Python, Excel, Power BI, SolidWorks or other CAD software
-Automation & Controls: PLC Ladder Logic
-Process Improvement: Lean and Six Sigma tools and methodologies
-Systems Integration: Experience with system or data integration
+Ability to solve technical problems and learn new automation technology  
+
+Ability to work independently in a field sales environment with limited overnight travel (up to 20%)  
+
+Willingness to relocate and pursue career ambition outside of familiar surroundings  
+
+Good listening and communication skills  
+
+Fit Cognex culture of Work Hard, Play Hard, and Move Fast  
+
+PC literate with a working knowledge of MS Windows applications  
+
+  
+
+Minimum Education and Work Experience Required  
+
+Minimum two years of sales training and field experience in a metric driven, sales environment 
+
+4-year college degree from reputable universities  
+
+STEM major helpful but not required 
+
+Must be able to able to visit multiple accounts on the same day via own means of transport 
