@@ -1,27 +1,21 @@
-Solution Engineering Support Specialist 
+About the team
+This Customer Solutions Engineer will be responsible for partnering with external clients such as ISVs and merchants, to better improve their experience in working with TikTok Shop. They will be responsible for understanding the TikTok Shop platform ecosystem, and continue to design integration solutions for varying business scenarios. 
+   
+Responsibilities
+- Gain deep understanding of TikTok Shop API capabilities and the platform ecosystem, and design integration solutions tailored to various business scenarios.
+- Collaborate with key merchants, ISVs, and partner technical teams to guide them through API integration implementation and performance optimization.
+- Develop and maintain standardized solution architectures, reference designs, and best practice documentation, and drive adoption internally and externally.
+- Evaluate integration feasibility for new product features, providing optimization recommendations to align platform capabilities with market needs.
+- Partner with product, engineering, and ecosystem teams to gather feedback, address integration challenges, and support API capability iterations.
+- Provide technical consultation during pre-sales and post-sales phases, including solution review, technical troubleshooting, and ensuring high-quality delivery.
+- Advocate TikTok Shop API integration solutions through industry events, partner training, and developer community engagement to drive adoption.
 
-Position Overview 
-
-The Technical Support Specialist is responsible for providing exceptional technical assistance to clients via phone and email, managing escalations, and collaborating across internal teams to ensure seamless issue resolution. This role requires strong communication, problem-solving skills, and attention to detail when handling hardware, system processes, and client coordination. 
-
- 
-
-Key Responsibilities 
-
-Client Support: Respond to technical questions and troubleshoot issues via phone calls and emails, ensuring timely and accurate resolutions. 
-
-Escalation Management: Process and document client escalations efficiently, following established procedures. 
-
-Cross-Team Collaboration: Partner with internal departments to resolve complex technical cases and maintain customer satisfaction. 
-
-System Updates: Maintain and update Smartsheets and other tracking systems as needed to ensure data accuracy and visibility. 
-
-Order Processing: Manage add-ons and service requests, verifying order completeness and technical requirements. 
-
-Hardware Verification: Confirm hardware configurations, complexity, and site locations before passing requests to coordination teams. 
-
-Agency Outreach: Engage with new partner agencies (“Net New agencies”) to introduce services and facilitate technical setup. 
-
-Technical Walkthroughs: Conduct virtual or onsite walkthroughs for WOS (Work Order System) installations to ensure proper setup and client understanding. 
-
-Don’t meet every single requirement? That's ok. At Axon, we Aim Far. We think big with a long-term view because we want to reinvent the world to be a safer, better place. We are also committed to building diverse teams that reflect the communities we serve.
+Qualifications
+Minimum Qualifications
+- Bachelor’s degree or above in Computer Science, Software Engineering, Information Systems, or a related field.
+- 3+ years of experience in technical solution design, solution engineering, or pre-sales engineering, preferably in e-commerce platforms or SaaS products.
+- Proficiency in RESTful API design and debugging, with solid understanding of data structures and system architecture.
+- Experience integrating with e-commerce, ERP, OMS, PIM, or WMS systems is a strong plus.
+- Strong business acumen with the ability to translate complex business requirements into practical technical solutions.
+- Excellent cross-functional collaboration and client communication skills, with the ability to manage multiple stakeholders.
+- Fast learner with the ability to adapt to new technologies and thrive in a dynamic, fast-paced environment.
