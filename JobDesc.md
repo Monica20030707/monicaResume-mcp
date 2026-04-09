@@ -1,24 +1,27 @@
-At IBM Global Sales, we bring together innovation, collaboration, and expertise to help clients solve their most complex business challenges. Working across industries and geographies, you’ll partner with colleagues, clients, and partners to co-create solutions that drive digital transformation and lasting impact.Success in Global Sales is built on curiosity, empathy, and collaboration. You’ll connect technical understanding with strong people skills, building trusted relationships and shaping solutions that improve business and society. With world-class onboarding, continuous learning, and a supportive culture, IBM offers the tools and opportunities to grow your career. Join us and be part of a global team that’s passionate about driving innovation and making a difference.
+Solution Engineering Support Specialist 
 
-Your Role And Responsibilities
+Position Overview 
 
-As a Customer Success Engineer, you will design viable client solutions by leveraging current product capabilities and remove technical inhibitors to sales opportunities. You will work with clients to drive adoption and expansion of IBM products to accelerate client value. Your primary responsibilities will include:
+The Technical Support Specialist is responsible for providing exceptional technical assistance to clients via phone and email, managing escalations, and collaborating across internal teams to ensure seamless issue resolution. This role requires strong communication, problem-solving skills, and attention to detail when handling hardware, system processes, and client coordination. 
 
- Deliver Technical Proof Points: Create and deliver technical proof points through technical accelerators, such as demonstrations, POTs, POCs, Workshops, Solution Design, and MVPs, to demonstrate the value of IBM products to clients.
- Drive Customer Value: Activate entitlements by finding sponsors, conducting use-case workshops, and establishing measurable business outcomes with client sponsors and stakeholders.
- Develop Success Plans: Create a success plan that describes deployment roadmap(s), milestones, and outcomes with client sponsors and stakeholders to ensure successful adoption and expansion of IBM products.
- Understand Client Challenges: Deeply understand clients' main challenges and become a trusted guide for their modernization and adoption of IBM's technology portfolio.
+ 
 
-The primary focus of this role is to drive direct customer adoption of IBM’s Guardium Data Security portfolio, including capabilities such as Data Compliance, Data Detection and Response (DDR), Data Security Posture Management (DSPM), AI Security, and Quantum Safe. This position plays a critical role in expanding IBM’s security software footprint across the US market.
+Key Responsibilities 
 
-Preferred Education
+Client Support: Respond to technical questions and troubleshoot issues via phone calls and emails, ensuring timely and accurate resolutions. 
 
-Bachelor's Degree
+Escalation Management: Process and document client escalations efficiently, following established procedures. 
 
-Required Technical And Professional Expertise
+Cross-Team Collaboration: Partner with internal departments to resolve complex technical cases and maintain customer satisfaction. 
 
- Technical Solution Design: Exposure to designing viable client solutions by leveraging current product capabilities, removing technical inhibitors to sales opportunities, and creating technical proof points.
- Product Demonstration: Experience working with technical accelerators, such as demonstrations, POTs, POCs, Workshops, Solution Design, and MVPs, to demonstrate the value of products to clients.
- Client Engagement: Exposure to working with clients to drive adoption and expansion of products, including activating entitlements, conducting use-case workshops, and establishing measurable business outcomes.
- Technical Portfolio Knowledge: Experience working with a technology portfolio, including understanding client challenges and identifying opportunities for modernization and adoption.
- Solution Development: Exposure to creating success plans, including deployment roadmaps, milestones, and outcomes, to ensure successful adoption and expansion of products.
+System Updates: Maintain and update Smartsheets and other tracking systems as needed to ensure data accuracy and visibility. 
+
+Order Processing: Manage add-ons and service requests, verifying order completeness and technical requirements. 
+
+Hardware Verification: Confirm hardware configurations, complexity, and site locations before passing requests to coordination teams. 
+
+Agency Outreach: Engage with new partner agencies (“Net New agencies”) to introduce services and facilitate technical setup. 
+
+Technical Walkthroughs: Conduct virtual or onsite walkthroughs for WOS (Work Order System) installations to ensure proper setup and client understanding. 
+
+Don’t meet every single requirement? That's ok. At Axon, we Aim Far. We think big with a long-term view because we want to reinvent the world to be a safer, better place. We are also committed to building diverse teams that reflect the communities we serve.
