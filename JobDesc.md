@@ -1,24 +1,24 @@
-Parachute Health is transforming post-acute care through the leading digital ordering platform for medical equipment and supplies. We replace the outdated, error-prone paper and fax process, which negatively impacts over 30 million patients annually, with a system that’s 10 times faster. Our platform connects a vast network of Home Medical Equipment (HME) providers, clinicians, and payors across all 50 states, ensuring millions of patients get the life-saving products they need quickly and efficiently. 
- 
-Join our team and make a difference in patient care.
-Are you passionate about software engineering and looking for an exciting remote opportunity to gain hands-on experience? We're looking for a talented and motivated Software Engineer Intern to join our team at Parachute Health.
+At IBM Global Sales, we bring together innovation, collaboration, and expertise to help clients solve their most complex business challenges. Working across industries and geographies, you’ll partner with colleagues, clients, and partners to co-create solutions that drive digital transformation and lasting impact.Success in Global Sales is built on curiosity, empathy, and collaboration. You’ll connect technical understanding with strong people skills, building trusted relationships and shaping solutions that improve business and society. With world-class onboarding, continuous learning, and a supportive culture, IBM offers the tools and opportunities to grow your career. Join us and be part of a global team that’s passionate about driving innovation and making a difference.
 
-As a Software Engineer Intern at Parachute Health, you'll have the opportunity to work on a mission-oriented team, learn new skills, and contribute to the development of innovative solutions that will help us continue to improve patient outcomes. Plus, you'll be gaining experience working with a team that values creativity, curiosity and collaboration! We believe in the value of asking questions and learning out loud together.
+Your Role And Responsibilities
 
-You will:
+As a Customer Success Engineer, you will design viable client solutions by leveraging current product capabilities and remove technical inhibitors to sales opportunities. You will work with clients to drive adoption and expansion of IBM products to accelerate client value. Your primary responsibilities will include:
 
-Receive 1:1 mentorship
-Design, develop, and implement solutions that support our mission to modernize healthcare communication
-Write clean, maintainable, and efficient code that meets the needs of our stakeholders
-Collaborate with cross-functional teams to identify and solve complex problems related to healthcare communication
-Participate in code reviews, testing, and debugging to ensure high-quality software delivery
-Use the company’s approved AI tools as appropriate for your work
-Your qualifications:
+ Deliver Technical Proof Points: Create and deliver technical proof points through technical accelerators, such as demonstrations, POTs, POCs, Workshops, Solution Design, and MVPs, to demonstrate the value of IBM products to clients.
+ Drive Customer Value: Activate entitlements by finding sponsors, conducting use-case workshops, and establishing measurable business outcomes with client sponsors and stakeholders.
+ Develop Success Plans: Create a success plan that describes deployment roadmap(s), milestones, and outcomes with client sponsors and stakeholders to ensure successful adoption and expansion of IBM products.
+ Understand Client Challenges: Deeply understand clients' main challenges and become a trusted guide for their modernization and adoption of IBM's technology portfolio.
 
-We expect successful results from college students, bootcamp grads, self-taught developers, open source developers, or back-to-workforce career status. No professional engineering experience expected
-Proficiency in Ruby and/or React
-Must be willing and able to ask endless questions!
-Excellent written and verbal communication skills
-Strong problem-solving and analytical skills
-Work effectively in a team: be able to collaborate with teammates while giving and taking action on received feedback
-Although we leverage AI tools during our day today, you will not have access to these during our interview
+The primary focus of this role is to drive direct customer adoption of IBM’s Guardium Data Security portfolio, including capabilities such as Data Compliance, Data Detection and Response (DDR), Data Security Posture Management (DSPM), AI Security, and Quantum Safe. This position plays a critical role in expanding IBM’s security software footprint across the US market.
+
+Preferred Education
+
+Bachelor's Degree
+
+Required Technical And Professional Expertise
+
+ Technical Solution Design: Exposure to designing viable client solutions by leveraging current product capabilities, removing technical inhibitors to sales opportunities, and creating technical proof points.
+ Product Demonstration: Experience working with technical accelerators, such as demonstrations, POTs, POCs, Workshops, Solution Design, and MVPs, to demonstrate the value of products to clients.
+ Client Engagement: Exposure to working with clients to drive adoption and expansion of products, including activating entitlements, conducting use-case workshops, and establishing measurable business outcomes.
+ Technical Portfolio Knowledge: Experience working with a technology portfolio, including understanding client challenges and identifying opportunities for modernization and adoption.
+ Solution Development: Exposure to creating success plans, including deployment roadmaps, milestones, and outcomes, to ensure successful adoption and expansion of products.

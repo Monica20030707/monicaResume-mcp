@@ -1,0 +1,13 @@
+TO RECRUITING TEAM,
+
+I am a recent Computer Science graduate, and I am excited to apply for the Customer Success Engineer position. I have been following IBM’s leadership in the security space, and your focus on driving adoption of the Guardium Data Security portfolio—especially in areas like AI Security and Quantum Safe—really stands out to me. I admire how IBM doesn't just sell products but partners with clients to co-create solutions that solve complex digital transformation challenges.
+
+Through my experience as an Associate Full Stack Developer and my current role in technical sales, I’ve worked on building and shipping real applications where usability and reliability mattered. I have experience designing technical proof points, such as MVPs and live demonstrations, and I understand that getting a solution working is not enough. Making it stable, intuitive, and maintainable is what truly drives client value and long-term adoption. I enjoy the process of removing technical inhibitors and showing clients exactly how a product can modernize their operations.
+
+I also enjoy finding ways to simplify systems and automate repetitive work. Whether it’s architecting data-flow pipelines for real-time dashboards or using event-driven cloud services to automate compliance checks, I approach every project with a user-centric mindset. I am someone who asks questions, takes feedback seriously, and enjoys collaborating with stakeholders to establish measurable business outcomes. I value curiosity and continuous learning, and I am eager to apply my technical background to help IBM clients achieve their deployment milestones.
+
+Thank you for considering my application. I’d love the chance to bring my curiosity, persistence, and hands-on verification mindset to IBM. I don’t come from a flashy background, but I prove myself by shipping reliable work and learning fast. I’m excited to grow and contribute on a team doing meaningful work. Please feel free to contact me via email or phone should you have any questions or require additional information.
+
+With Gratitude,
+
+THUY NGUYEN
