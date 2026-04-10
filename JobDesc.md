@@ -1,31 +1,42 @@
-The Solution Engineer is a role that we often hire at Salesforce. If you are interested in any type of Solution Engineering role, you've come to the right place. We look forward to reviewing your application and finding the right role for you! By applying to the Solution Engineer role, recruiters and hiring managers who support multiple cloud offerings and verticals across the organization will review your resume. Our goal is for you to apply once and have your resume reviewed by multiple hiring teams. Please note some of these positions may be office-based, office-flexible or remote depending on the team.
+The AI Intern is responsible for supporting the Architecture and business teams during an 8-12 week program by helping to identify, document, and support the delivery of AI use cases and workloads leveraging Azure toolsets. The AI Intern will report to the Director, Architecture.
 
-Do you want to be part of an outstanding team that is selling into the worlds top organizations? Come join us at the Salesforce Solution Engineering team. Through collaboration with the customer, the Products team, and Professional Services the Solutions Engineers develop thoughtful solutions that help our customers connect with their customers in new ways. This unique perspective creates an opportunity for the SE to interact with the entire customer lifecycle. If you enjoy a fast-paced environment full of exciting challenges and opportunities to build compelling Solutions then the Solution Engineering Team is the department for you. The SE world is a dynamic, constantly evolving environment where expertise in design, business consulting and technology is used every day to drive innovation.
+ 
 
-The Solution Engineer must have a strong desire to demonstrate their technical and/or sales skills, including the ability to solicit business requirements, develop a technical sales strategy, configure and successfully demonstrate the solutions that address these requirements and provide business value.
+What Will You Be Doing?
 
-What roles are we looking to fill in Solutions Engineering? 
-The SE team is organized into several smaller teams based on the products they are selling, or the industry/vertical they are selling into aligning with the sales teams. In addition, we have Core Teams that sell the entire Salesforce Platform while our Co Prime teams specialize in a specific cloud solution including but not limited to Marketing Cloud, Service Cloud, Commerce Cloud, Heroku, Quip and more. We hire based on skills/experience and are open to hiring at all levels for the right candidate.
+Collaborate with cross-functional business teams to understand processes, pain points, and goals related to potential AI solutions.
+Assist in identifying and documenting AI use cases, including problem statements, desired outcomes, and measures of success.
+Aid in developing material to help teams and individuals confidently explore and make effective use of Copilot prompts and agent technologies.
+Support the Architecture team in designing and prototyping AI solutions using Azure toolsets, following established patterns and standards.
+Help prepare and organize data, perform basic data validation, and support testing activities for AI workloads.
+Assist with documenting solution concepts, user guides, and simple support or run materials for AI solutions.
+Job shadow Architecture and business team members and assist them as needed.
+Participate in intern cohort activities including professional development workshops, warehouse tours, and meetings with leadership.
+Perform other duties as assigned.
+Comply with all policies and standards.
+ 
 
-Responsibilities
+What Are We Looking For?
 
-A Solution Engineer plays a pivotal role in aligning innovative strategies to technology solutions within complex accounts. This role focuses on partnering with clients and collaborating with internal team members and C-level client contacts to drive consensus on multi-product technology solutions across the various Salesforce product lines.
-Solutions Engineers work on a wide array of assignments including business development, operations and IT strategies, as well as executive level product demonstrations. This person must assume the role of trusted advisor for driving innovative solutions forward while also improving business performance.
-Business Problem Solving: Take ambiguous and sophisticated business problems and using research and business assessment capabilities, define the problem, drive innovative ideas, define the opportunity set, and recommend practical next steps.
-Innovation Management: Bring focus to a client's decision making process by communicating and evaluating solution options, and driving consensus among key collaborators. In some instances, we help our clients develop new decision frameworks and governance processes that continue to deliver value far beyond a particular engagement.
-Connect Experiences: Demonstrate through software demos and rapid prototyping how connected experiences come to life with The Salesforce Solutions. This includes the delivery of executive level software demonstrations, construction of future state customer journey strategies, and developing long term IT roadmaps.
-"Solutioning" is fundamental to the SE role. It is important to realize that a component of the responsibilities will include assisting the customer, Account Executive and Professional Services team with the discovery, analysis and ultimately the recommendation of strategic solutions for the customer by delivering transformational pitches based in live product demonstrations to validate. These Solutions will use all of the Salesforce technologies to address the core challenges and objectives that are uniquely identified for each customer.
-Discover the customer's business needs, and position the best Salesforce solution to achieve those business objectives
-Build and present customized solutions and demonstrations focused on Salesforce products to multiple customer personas showing how Salesforce will accelerate their business strategies and a path to value.
-Convey a deep understanding of the customer's architecture as it pertains to Salesforce's solutions
-Orchestrate and lead cross-functional solutions guides, and align them to the opportunity strategy
-Develop and deliver the story of the customer experience aided by Salesforce technologies
-Participate in all appropriate product, sales, and procedural training and certifications to acquire and maintain the knowledge vital to be effective in the position
-Ability to travel based on territory alignment and region.
-Required Qualifications:
+Currently enrolled in an undergraduate or graduate program, ideally in Computer Science, Data Science, Information Systems, or a related field
+Strong desire to continue learning and using AI, Azure, and applied use cases with a professional drive to experiment and iterate.
+Basic familiarity with at least one of the following (coursework or personal projects are acceptable): o Programming or scripting (e.g., Python, JavaScript, or similar). o Cloud concepts (e.g., Microsoft Azure). o Data concepts (databases, APIs, or analytics tools).
+Strong attention to detail, organizational, analytic, and problem‑solving skills
+Ability to take direction, absorb information quickly, and ask good questions
+Excellent verbal and written communication skills; comfortable working with both technical and non‑technical stakeholders
+Ability to work independently and as part of a small, collaborative team
+Eagerness to learn and adapt to new technologies, tools, and challenges in a fast‑changing AI landscape
+Prior internship, coursework, or personal projects involving AI, cloud, or software development are a plus
+ 
 
-B.S. Computer Science, Software Engineering, MIS or equivalent relevant experience required. Experience will be evaluated based on the core competencies for the role (e.g. extracurricular leadership roles, military experience, volunteer roles, work experience, etc.)
-Knowledge of related applications, relational database and web technology
-Solid oral, written, presentation, collaboration and interpersonal communication skills
-Ability to work as part of a team to solve technical problems in varied political environments
-Minimum of 4 years of professional experience
+What's Our Offer?
+
+Pay: You`ll earn $25.00 on an hourly basis.
+
+Paid Time Off: You`ll accrue paid time off on a weekly basis based on hours worked.
+
+ 
+
+What Should You Expect?
+
+Office: While performing the duties of this job, the employee is regularly required to sit; reach with hands and arms and talk or hear. The employee is frequently required to use hands to finger, handle or feel, and stand and walk. Specific vision abilities required by this job include close vision, distance vision, color vision, peripheral vision, depth perception and ability to adjust focus. Ability to work on computer and mobile phone for multiple hours; with frequent interruptions. The employee may be required to lift and/or move up to 15 pounds. Work environment is moderately quiet. Required to travel in elevator or stairwells to attend meetings and engage with associates on multiple floors throughout building. SanMar's Eastpointe office is located near Seattle, WA and our standard working hours are 8:00-5:00 PST. Quarterly travel may be required.
