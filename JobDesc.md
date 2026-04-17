@@ -1,41 +1,25 @@
-Dyson launched in the US in 2002, and since then operations have grown exponentially. Our US headquarters is based in Chicago's Fulton Market neighborhood. We also have employees working in field sales, our service centers, and in our growing number of Beauty and technology Demo Store’s across the country.
+It all started with an idea at Block in 2013. Initially built to take the pain out of peer-to-peer payments, Cash App has gone from a simple product with a single purpose to a dynamic ecosystem, developing unique financial products, including Afterpay/Clearpay, to provide a better way to send, spend, invest, borrow and save to our 50+ million monthly active customers. We want to redefine the world’s relationship with money to make it more relatable, instantly available, and universally accessible.
 
-We are a beauty and technology global enterprise. We’re growing fast and our ambition is huge - more categories, more locations and more people.
+Today, Cash App has thousands of employees working globally across office and remote locations, with a culture geared toward innovation, collaboration and impact. We’ve been a distributed team since day one, and many of our roles can be done remotely from the countries where Cash App operates. No matter the location, we tailor our experience to ensure our employees are creative, productive, and happy.
 
-Our Customer Service team forms a direct link between the business and Beauty and technology owners. The team are technology experts, trained to give specialist advice and guidance to solve real problems for people. Working to daily targets, they resolve technical queries, provide product information, deliver excellent customer service and upsell.
+The Role
+Afterpay is looking for a high-energy, results-driven, and motivated individual with advanced communication skills to join our elite team. As an Outbound SMB BDR in North America, you will be on the front-lines of a fast-growing e-commerce payments business - talking commerce and payments with business owners and executives at small to medium size businesses. You should be comfortable on the phone, have excellent email drafting skills, and a genuine curiosity in the operations of various types of online businesses and their structures. Importantly, you should be comfortable with, or quick to learn, the user interfaces of software programs (like Salesforce CRM) that support you in ramping and maintaining your pipeline.
 
-About The Role
+As an Outbound SMB Business Development Representative, you will identify, prospect, and outreach to prospective small and medium sized businesses.You will use personalized efforts to authentically connect with potential customers and spark curiosity and desire to learn more about our vast product suite.
 
-Hours are typically Tuesday through Saturday, with schedules subject to business needs and customer demand 
-This is a full-time on-site role located in the area
-Perform in-person diagnosis, troubleshooting, and repair of Dyson products including vacuums, purifiers, fans, hair care devices, and related technologies
-Use consultative questioning to understand customer needs beyond the immediate product concern and recommend appropriate service or product solutions
-Communicate repair findings, maintenance recommendations, and replacement options clearly to customers
-Promote relevant Dyson products, accessories, and services through trust-based cross-selling conversations
-Provide excellent customer service while managing customer expectations in real time
-Process customer transactions and service details accurately within Dyson systems
-Complete daily and weekly operational reporting as required
-Manage parts usage, inventory accuracy, and service documentation
-Follow Dyson service processes, quality standards, and escalation procedures
-Support escalated repair cases and collaborate with broader service teams when needed
-Maintain a calm, solution-focused approach while handling multiple customer priorities in a fast-paced environment
-Guide customer conversations professionally by explaining repair options, product value, and available replacement solutions
-Build customer trust through clear technical explanation and recommendation of the most appropriate repair or replacement path
-Support daily performance goals by balancing technical service, paid repair opportunities, and relevant product recommendations
-Handle objection-based conversations professionally while maintaining a premium customer experience
-
-
-About You
-
-6+ months of Experience in customer service, retail sales, service operations, or related customer-facing environments
-Ability to communicate confidently with customers, including during objection handling or service-related discussions
-Aptitude for learning technical diagnosis and repair procedures
-Curiosity to uncover hidden product needs beyond stated complaints.
-Demonstrates empathy and provides clear guidance to ensure customers choose the best long-term solution
-Strong verbal, written, and interpersonal communication skills
-Ability to prioritize in a fast-paced environment
-Experience using Microsoft Office including Microsoft Excel, Microsoft Outlook, and Word
-Collaborative mindset with proven success in team environments
-Ability to lift and move up to 50 lbs
-High School Diploma or equivalent preferred
-Must be at least 18 years of age
+You Will
+Use cold outreach strategies to develop new leads and opportunities with retailers
+Develop & maintain a high-volume sales pipeline to deliver on monthly and quarterly KPIs and targets
+Engage new accounts & maintain existing accounts to drive interest in Afterpay and Cash App Pay
+Conduct needs analysis to understand the specific requirements and pain points of potential clients
+Maintain accurate and up-to-date records in Salesforce in order to ensure smooth handover to Account Executive
+You Have
+1+ year of relevant experience in customer service or sales type role (outbound sales experience is a plus)
+Demonstrated track record of meeting & exceeding KPIs and targets
+Exceptional communication skills in writing and on the phone
+Excellent organizational & time management skills
+Self-motivated, competitive individual with the ability to work fast & smart 
+No fear in cold calling and in speaking with C-level executives/business owners
+High level of enthusiasm and energy
+Expertise with common software (salesloft, g-suite, salesforce, etc) preferred
+Payments/ecommerce experience preferred.
