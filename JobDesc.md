@@ -29,4 +29,3 @@ Comfortable managing priorities in a fast-paced, evolving environment
 Coachable — you’re open to feedback and eager to grow
 Curious — you ask great questions and are always looking to learn
 Familiarity with sales tools like Salesforce, Outreach, and Sales Navigator is a plus
- 
