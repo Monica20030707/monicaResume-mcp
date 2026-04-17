@@ -9,10 +9,12 @@ When a job description is provided in `JobDesc.md`, follow these steps to genera
 
 ## 2. Analyze Job Description
 - Extract the company name, position name, and key themes (e.g., scalability, user experience, automation, collaboration).
+- **Knowledge Base Search:** Look through the YAML files in `knowledge/job/` and `knowledge/project/` to find specific achievements or "human" details that match these themes. Use the `bullet_variants` in those files to describe your work in a way that aligns with the job's focus (e.g., use the 'impact' variants for sales-heavy roles).
 - Identify the company's mission or product impact to reference naturally.
 
 ## 3. Content & Tone Rules
 - **Human Tone:** Use a professional but slightly casual voice. Sound like a real person, not a corporate bot.
+- **Show, Don't Tell:** Instead of saying you are "skilled in X," use a detail from a `technical` or `impact` bullet variant in your knowledge base to *prove* it.
 - **Style Constraints:** 
   - NO em dashes (—).
   - Avoid overly long sentences and filler phrases.
@@ -42,7 +44,7 @@ When a job description is provided in `JobDesc.md`, follow these steps to genera
 - **Note:** Only slightly tweak wording; do not change the tone or make it corporate.
 
 ## 5. Execution
-- Create a new file using the following naming convention: `cover-letters/Thuy-<PositionShort>-<Company>-CoverLetter.txt` (e.g., `cover-letters/Thuy-SDE-Google-CoverLetter.txt`).
+- Create a new file using the following naming convention: `data/cover-letters/Thuy-<PositionShort>-<Company>-CoverLetter.txt` (e.g., `data/cover-letters/Thuy-SDE-Google-CoverLetter.txt`).
 - Use standard abbreviations for PositionShort: SDE, ADE, SWE, etc.
 - Perform a final check: Does it sound like a real person wrote it? Would you say it out loud?
 

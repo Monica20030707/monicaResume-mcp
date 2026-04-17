@@ -2,7 +2,7 @@ name: Compile LaTeX Resumes
 on:
   push:
     paths:
-      - 'resumes/*.tex'
+      - 'data/resumes/*.tex'
       - 'JobDesc.md'
       - '.github/workflows/latex.yml'
 
@@ -21,21 +21,21 @@ jobs:
       - name: Compile LaTeX Resumes
         uses: xu-cheng/latex-action@v3
         with:
-          root_file: resumes/*.tex
+          root_file: data/resumes/*.tex
           args: "-pdf -interaction=nonstopmode"
 
       - name: Move PDFs to pdfs folder
         run: |
-          mkdir -p pdfs
+          mkdir -p data/pdfs
           # Move PDFs and ensure we capture them even if they are in the root or resumes folder
-          find . -maxdepth 2 -name "*.pdf" -not -path "./pdfs/*" -exec mv -v {} pdfs/ \;
-          ls -R pdfs/
+          find . -maxdepth 3 -name "*.pdf" -not -path "./data/pdfs/*" -exec mv -v {} data/pdfs/ \;
+          ls -R data/pdfs/
 
       - name: Commit and Push PDFs
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add pdfs/*.pdf
+          git add data/pdfs/*.pdf
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
@@ -47,5 +47,5 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: resumes-pdf
-          path: pdfs/*.pdf
+          path: data/pdfs/*.pdf
           if-no-files-found: error
