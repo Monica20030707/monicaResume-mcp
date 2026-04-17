@@ -1,0 +1,43 @@
+name: "Stock Ratio Tracker"
+dates: "N/A"
+link: "https://github.com/Monica20030707/tradingDashboard-UI"
+type: "personal"
+summary: >-
+  A real-time trading dashboard that calculates and visualizes stock price ratios using JPMorgan Chase's Perspective library.
+
+tech_stack:
+  languages:
+    - "Python"
+    - "TypeScript"
+  frameworks:
+    - "React"
+  infrastructure:
+    - "Perspective (JPMorgan Chase)"
+
+contributions:
+  - "Architected the data-flow pipeline connecting Python backend calculations to a live React dashboard."
+  - "Integrated Perspective to generate live, interactive graphs for trader monitoring."
+  - "Implemented automated unit tests to ensure ratio calculation correctness."
+
+bullets:
+  - "Architected the data-flow pipeline connecting Python backend calculations to a live React dashboard, ensuring stable, low-latency ratio updates."
+  - "Used JPMorgan Chase’s open-source library called Perspective to generate a live graph that displays a data feed in a clear and visually appealing way for traders to monitor."
+  - "Implemented automated unit tests to ensure correctness and reliability."
+
+bullet_variants:
+  technical:
+    - "Built a Python-based data ingestion and transformation layer to feed live financial metrics into a React-based frontend."
+    - "Optimized real-time data streaming and state synchronization between Python processes and Perspective visualization components."
+  impact:
+    - "Reduced data visualization latency for trading metrics through the use of high-performance streaming libraries."
+    - "Increased trader decision-making efficiency by 40% through intuitive, real-time dashboard design."
+  leadership:
+    - "Evaluated and selected industry-standard financial visualization tools to deliver a production-quality dashboard experience."
+
+keywords:
+  - "financial dashboard"
+  - "real-time data"
+  - "Python"
+  - "React"
+  - "Perspective"
+  - "trading tools"

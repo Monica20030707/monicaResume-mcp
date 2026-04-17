@@ -1,0 +1,39 @@
+name: "MNIST Handwritten Digit Classifier"
+dates: "N/A"
+link: "https://github.com/Monica20030707/Artificial-Neutral-Network_ML"
+type: "personal"
+summary: >-
+  An Artificial Neural Network (ANN) built from scratch using NumPy to classify handwritten digits from the MNIST dataset.
+
+tech_stack:
+  languages:
+    - "Python"
+  frameworks:
+    - "NumPy"
+
+contributions:
+  - "Built an Artificial Neural Network (ANN) from scratch to classify handwritten digits."
+  - "Implemented the backpropagation algorithm for model training."
+  - "Achieved over 90% accuracy on the test dataset."
+
+bullets:
+  - "Built an Artificial Neural Network (ANN) from scratch to classify handwritten digits (0-9) using Python and NumPy."
+  - "Achieved over 90% accuracy using the Backpropagation algorithm, demonstrating deep understanding of machine learning fundamentals."
+
+bullet_variants:
+  technical:
+    - "Engineered a multi-layer perceptron architecture from mathematical foundations, implementing forward and backward propagation without high-level ML libraries."
+    - "Optimized matrix operations using NumPy vectorization to reduce training time and improve computational efficiency."
+  impact:
+    - "Attained 90%+ classification accuracy on the standard MNIST benchmark, verifying model correctness."
+    - "Demonstrated ability to implement complex mathematical algorithms as functional, efficient code."
+  leadership:
+    - "Documented mathematical derivations and implementation steps for public open-source educational use."
+
+keywords:
+  - "machine learning"
+  - "neural networks"
+  - "backpropagation"
+  - "NumPy"
+  - "Python"
+  - "deep learning fundamentals"

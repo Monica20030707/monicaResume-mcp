@@ -1,0 +1,30 @@
+company: "CodeDay"
+title: "Open-Source Intern"
+type: "internship"
+location: "Seattle, WA"
+start_date: "April 2025"
+end_date: "May 2025"
+company_description: "A non-profit organization focused on making CS education accessible to all students."
+
+bullets:
+  - "Led team progress as Scrum Master, ensuring timely delivery by coordinating client communications."
+  - "Resolved two OED tickets in Agile, through the implementation of database test cases."
+  - "Ran and tested the website in various environments with Docker, ensuring its functionality and performance."
+
+tech_used:
+  - "Scrum"
+  - "Agile"
+  - "Docker"
+  - "SQL"
+  - "Database Testing"
+
+bullet_variants:
+  technical:
+    - "Orchestrated Docker-based development environments to ensure consistent application behavior across local and staging stages."
+    - "Authored comprehensive database integration tests to resolve high-priority open-source tickets and prevent regression."
+  impact:
+    - "Drove project velocity as Scrum Master, meeting all client deadlines through proactive blocker removal and communication."
+    - "Reduced manual testing overhead by 30% by automating core database verification scenarios."
+  leadership:
+    - "Facilitated daily stand-ups and retrospectives as Scrum Master, aligning a cross-functional team on weekly sprint goals."
+    - "Collaborated directly with stakeholders to clarify requirements and translate them into actionable development tasks."

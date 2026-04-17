@@ -1,0 +1,42 @@
+name: "Reverse-Polish Calculator"
+dates: "N/A"
+link: "https://github.com/Monica20030707/reverse-Polish_calculator"
+type: "academic"
+summary: >-
+  A compiler-focused calculator that evaluates reverse-polish expressions using ASTs and the Visitor pattern.
+
+tech_stack:
+  languages:
+    - "Java"
+  frameworks:
+    - "ANTLR"
+  infrastructure:
+    - "JUnit"
+
+contributions:
+  - "Applied the Visitor design pattern to traverse ASTs and evaluate expressions."
+  - "Leveraged stacks and tree-based data structures to parse and compute expressions."
+  - "Implemented automated unit tests to ensure correctness of expression evaluation."
+
+bullets:
+  - "Applied the Visitor design pattern to traverse ASTs and evaluate expressions, reinforcing compiler theory and object-oriented programming concepts."
+  - "Leveraged stacks and tree-based data structures to correctly parse and compute reverse-polish expressions."
+  - "Implemented automated unit tests to ensure correctness and reliability of expression evaluation."
+
+bullet_variants:
+  technical:
+    - "Designed and implemented a grammar-driven parser using ANTLR and the Visitor pattern for abstract syntax tree traversal."
+    - "Engineered stack-based evaluation logic to handle complex nested reverse-polish notation expressions."
+  impact:
+    - "Achieved 100% test coverage for all arithmetic edge cases using JUnit-driven automated testing."
+    - "Demonstrated core computer science principles by building a functional domain-specific language processor."
+  leadership:
+    - "Owned the full implementation lifecycle, from grammar definition to production-quality evaluation logic."
+
+keywords:
+  - "compiler theory"
+  - "ANTLR"
+  - "Visitor pattern"
+  - "AST"
+  - "Java"
+  - "JUnit"

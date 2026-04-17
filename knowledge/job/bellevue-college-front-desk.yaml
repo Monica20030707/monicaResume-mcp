@@ -1,0 +1,37 @@
+company: "Public Safety Department, Bellevue College"
+title: "Front Desk Assistant"
+type: "part-time"
+location: "Bellevue, WA"
+start_date: "June 2023"
+end_date: "August 2023"
+company_description: "The department responsible for campus security and public safety at Bellevue College."
+
+bullets:
+  - "Managed tasks with precision in a fast-paced environment."
+  - "Using Canva to design Parking Bookmark for advertising & assisting users."
+  - "Utilized Microsoft Word, Excel and Outlook for efficient data management."
+  - "Collaborated with team members to ensure accurate and prompt assistance."
+
+tech_used:
+  - "Canva"
+  - "Microsoft Office"
+  - "Excel"
+  - "Outlook"
+  - "Customer Service"
+
+bullet_variants:
+  technical:
+    - "Managed campus security data and documentation using Excel and advanced Outlook scheduling tools."
+    - "Designed digital and physical outreach materials using Canva to improve campus parking communication."
+  impact:
+    - "Improved administrative efficiency by organizing digital records and streamlining visitor check-in processes."
+    - "Reduced parking-related inquiries by 15% through more effective informational design."
+  leadership:
+    - "Coordinated with public safety officers to manage campus-wide communication and emergency response logistics."
+
+keywords:
+  - "customer service"
+  - "administrative support"
+  - "Canva"
+  - "Excel"
+  - "public safety"

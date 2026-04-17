@@ -1,0 +1,40 @@
+company: "Bellevue College"
+title: "Coding Competition Developer"
+type: "part-time"
+location: "Bellevue, WA"
+start_date: "April 2024"
+end_date: "May 2025"
+company_description: "A prominent community college offering degrees and technical certificates."
+
+bullets:
+  - "Developed real-time score updates using SQL and PHP, increasing efficiency by 40%."
+  - "Enhanced web interfaces with HTML and CSS, boosting user satisfaction by 30%."
+  - "Created coding problems with auto test cases for Java, Python, C++, and Golang."
+  - "Assisted onsite at a competition with 30+ participants to ensure smooth operations."
+
+tech_used:
+  - "PHP"
+  - "SQL"
+  - "HTML"
+  - "CSS"
+  - "Python"
+  - "Java"
+  - "Golang"
+  - "C++"
+
+bullet_variants:
+  technical:
+    - "Built a dynamic leaderboard system using PHP and SQL for real-time performance tracking during competitive coding events."
+    - "Authored automated test cases across 5 languages to validate participant submissions for algorithm accuracy and efficiency."
+  impact:
+    - "Reduced score calculation time by 40% through automated backend updates."
+    - "Increased participant satisfaction by 30% through improved UI/UX and interface responsiveness."
+  leadership:
+    - "Directed onsite technical operations for 30+ participants, ensuring a seamless competition experience."
+
+keywords:
+  - "PHP"
+  - "SQL"
+  - "competitive programming"
+  - "automation"
+  - "leaderboard design"

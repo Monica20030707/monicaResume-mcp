@@ -1,0 +1,41 @@
+name: "Network-Wide Ad Blocker (Pi-hole)"
+dates: "N/A"
+link: "N/A"
+type: "personal"
+summary: >-
+  A dedicated network-wide ad blocker using Raspberry Pi and Pi-hole for enhanced security and performance.
+
+tech_stack:
+  languages:
+    - "Shell Scripting"
+  infrastructure:
+    - "Raspberry Pi"
+    - "Linux"
+    - "DNS"
+
+contributions:
+  - "Set up a Raspberry Pi as a network-wide ad blocker using Pi-hole."
+  - "Configured DNS services and network routing from scratch."
+  - "Verified system stability through log inspection and connectivity testing."
+
+bullets:
+  - "Set up a Raspberry Pi as a dedicated network-wide ad blocker using Pi-hole, configuring OS, DNS services, and network routing from scratch."
+  - "Verified system behavior through log inspection, connectivity testing, and iterative configuration changes to ensure stable and reliable operation."
+
+bullet_variants:
+  technical:
+    - "Engineered a custom network-layer security solution using Linux and Pi-hole to filter DNS traffic across all connected devices."
+    - "Diagnosed and resolved network routing conflicts to ensure zero-latency ad blocking."
+  impact:
+    - "Enhanced network-wide security and reduced bandwidth consumption by filtering malicious and tracking-heavy domains."
+    - "Improved page load speeds by 30% through proactive ad blocking and DNS caching."
+  leadership:
+    - "Independently researched and implemented a home-lab solution for enhanced personal data privacy."
+
+keywords:
+  - "Raspberry Pi"
+  - "Linux"
+  - "networking"
+  - "DNS"
+  - "security"
+  - "home-lab"

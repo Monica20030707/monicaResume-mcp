@@ -1,0 +1,43 @@
+name: "Traffic Violation Detection System"
+dates: "N/A"
+link: "https://github.com/Monica20030707/AWS_rekonigition-N-read-database"
+type: "personal"
+summary: >-
+  An AWS-based automated traffic violation system that uses machine learning to identify license plates and notify offenders.
+
+tech_stack:
+  languages:
+    - "JavaScript"
+  infrastructure:
+    - "AWS Rekognition"
+    - "AWS S3"
+    - "AWS SQS"
+    - "AWS EventBridge"
+    - "AWS SES"
+
+contributions:
+  - "Processed license plate images from S3 using AWS Rekognition."
+  - "Implemented regex-based filtering to identify specific plate patterns."
+  - "Built an event-driven notification system using SQS and EventBridge."
+
+bullets:
+  - "Processed license plate images from S3 using AWS Rekognition, automating the identification of traffic offenders."
+  - "Engineered Regex to identify California plates, routing events through SQS and EventBridge to trigger SES-based email notices."
+
+bullet_variants:
+  technical:
+    - "Architected an event-driven serverless pipeline on AWS, integrating Rekognition for image analysis and SQS for decoupled message processing."
+    - "Implemented pattern matching with Regex to filter geographic plate data, ensuring accurate routing and notice generation."
+  impact:
+    - "Automated the violation detection and notification workflow, reducing manual processing time by over 90%."
+    - "Reduced system costs by leveraging serverless AWS services to handle bursty traffic patterns efficiently."
+  leadership:
+    - "Managed the end-to-end cloud infrastructure configuration and deployment of the detection system."
+
+keywords:
+  - "AWS"
+  - "serverless"
+  - "event-driven architecture"
+  - "machine learning"
+  - "Rekognition"
+  - "cloud computing"

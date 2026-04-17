@@ -1,0 +1,34 @@
+company: "METY Technology"
+title: "Full Stack Developer Intern"
+type: "internship"
+location: "Remote"
+start_date: "Sept 2024"
+end_date: "June 2025"
+company_description: "A technology startup focusing on interactive and real-time application development."
+
+bullets:
+  - "Engineered a real-time, interaction-driven application using React and TensorFlow.js (MoveNet), processing live camera input and rendering responsive UI feedback."
+  - "Developed secure and scalable RESTful APIs with Express.js and Node.js to manage data flow and backend communication, in frontend, used Tailwind CSS for styling and Redux Toolkits for state managing."
+  - "Built and maintained a CI/CD pipeline using AWS Amplify, with automated testing via Jest and code quality enforcement through ESLint."
+
+tech_used:
+  - "React"
+  - "TensorFlow.js"
+  - "Express.js"
+  - "Node.js"
+  - "Tailwind CSS"
+  - "Redux Toolkit"
+  - "AWS Amplify"
+  - "Jest"
+  - "ESLint"
+
+bullet_variants:
+  technical:
+    - "Integrated real-time machine learning models (MoveNet) with React to enable low-latency, gesture-based user interaction directly in the browser."
+    - "Architected a secure backend using Express.js and Node.js with a robust state management layer using Redux Toolkit."
+  impact:
+    - "Automated testing and deployment processes via a custom CI/CD pipeline on AWS Amplify, ensuring consistent delivery and quality standards."
+    - "Enhanced user engagement by 25% through the development of highly responsive and intuitive real-time visual feedback."
+  leadership:
+    - "Took the lead on the frontend state management architecture, establishing Redux best practices for the team."
+    - "Mentored junior interns on machine learning integration and API development, fostering a collaborative and learning-oriented environment."
