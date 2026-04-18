@@ -1,125 +1,53 @@
-About the Position
+As a Solutions Engineer, you will be a key member of the Dynatrace sales engine and will be responsible for providing high‑quality technical support to customers and internal teams across North America.
 
-Are you an ambitious outbound seller with 1–2 years of experience and a passion for software sales? Ready to accelerate your career into full cycle account management and close deals—not just source them for other sales reps who share your commission?
+This is for individuals either early in or starting their Solutions Engineering career and align with the Solutions Engineer profile who are motivated to grow into the full scope, expectations, and impact of the role through hands‑on experience and mentorship. Prior experience in a sales or pre‑sales role is not required, but curiosity, strong technical fundamentals, and the ability to communicate clearly with customers are essential.
 
+In this role, you will partner with Sales, Customer Success, Product, and Engineering teams to deliver compelling demonstrations, support technical evaluations, and help customers understand Dynatrace’s unique approach to advanced observability and application performance.
 
-
-This 6 month Software Sales Acceleration Program is designed to fast track high potential talent into our Software Account Management (SAM) organization.
-
-
-
-This is a temporary program role with full benefits and a clear outcome at the end of six months:
-
-Top performers will advance directly into a Software Account Representative (SAR) role
-Exceptional performers may be considered for Sr Software Account Representative (Sr SAR) placement
-Those who do not meet performance expectations may conclude participation at the end of the program
-
-
-If you want a true pathway into Software Account Management, you will want to take a close look at this role.
-
-
+This is a fully remote role, with optional hybrid office access for those who prefer a mix of remote and in‑office work.
 
 Responsibilities
 
-In this role, you’ll work in a high energy, outbound sales environment built to strengthen your SaaS selling foundation while preparing you for full cycle responsibilities.
+Act as a technical expert on the Dynatrace platform, supporting customer engagements across discovery, evaluation, and solution design
+Execute and support live and remote product demonstrations that highlight Dynatrace’s differentiated value
+Provide technical guidance in the Discovery, Solution Evaluation, and Solution Proposal stages of the opportunity sales cycle.
+Participate in and support proof‑of‑concept (PoC) engagements, working closely with customers and internal teams
+Partner with a large Sales team to identify and support new sales opportunities and expansions within existing accounts
+Assist with RFIs, RFPs, and technical documentation, learning how potential clients evaluate solutions
+Build strong technical relationships with customers and prospects, positioning Dynatrace as a trusted partner
+Gather, qualify and provide feedback from customers to Product Management to improve Dynatrace’s market share and meet the market needs.
+Collaborate across teams including Product, Engineering, Expert Services, Customer Success, and Marketing
+Build best practices and share knowledge the team to continuously develop and enhance both your personal and team capabilities.
+Create and modify Dynatrace template presentations, in order to attend the specific demands of each customer.
+Continuously develop technical, presentation, and customer‑facing skills through structured enablement and mentorship
+Position might be filled at a higher level based on candidate experience.
 
+About You
 
+To ensure your success as a Solutions Engineer at Dynatrace, you are an ambitious, motivated, and coachable individual with a strong interest in modern cloud technologies and customer‑facing technical work.
 
-You will:
+You do not need prior Solutions Engineering or sales experience to succeed in this role. Instead, we are looking for individuals who demonstrate technical aptitude, strong communication skills, and a desire to grow into a trusted technical advisor.
 
-Own outbound prospecting, targeted outreach, and pipeline generation
-Qualify opportunities and create momentum for SAM sales cycles
-Deliver compelling messaging to SMB and mid-market prospects
-Execute structured call, email, and LinkedIn cadences
-Collaborate with SAM leaders and sales partners to refine conversion strategies
-Strengthen your SaaS sales acumen through ongoing coaching, training, and immersion in our platform
-Demonstrate performance and consistency across a structured evaluation framework
+Location: Hybrid or Remote will be based upon individuals specific location
 
+Minimum Requirements
 
-You’ll get exposure to real selling, not just booking meetings—setting you up for success as you transition into the SAM family.
+What will help you succeed
 
+Bachelor’s degree in Computer Science, Engineering, Information Systems, or equivalent practical experience
+Familiarity with cloud platforms such as AWS, Azure, or GCP
+Ability to troubleshoot technical issues to produce a working outcome and be able to manage and document this process.
+Fundamental understanding and experience with command line interfaces; bash, powershell, etc
+Excellent communication and presentation skills, with the ability to communicate technical value into business value.
+Interest in application performance, observability, cloud platforms, or distributed systems
+Strong problem‑solving skills and technical curiosity
+The ability to learn quickly, adapt to an evolving environment, and incorporate feedback
+Comfort supporting multiple customer engagements with guidance from experienced teammates
 
+Preferred Requirements
 
-Who We’re Looking For
-
-Associate's degree or equivalent experience, required
-1 to 2 years of outbound sales experience, required.
-2+ years of related experience, preferred.
-Confidence communicating with decision makers via phone, email, and social
-Ability to manage volume, objection handling, and pipeline creation
-Desire to learn full cycle sales and move into a closing role
-Comfort with structured goals, metrics, and performance accountability
-A growth mindset and coachability
-Ability to travel less than 5% of the time.
-Must be 18 years of age or older.
-Must successfully complete pre-employment screening process, as required.
-Must successfully complete any required training or orientation courses, as needed.
-
-
-What’s in It for You
-
-
-
-This role is intentionally designed as a launchpad into Software Account Management, offering:
-
-
-
-A 6‑month accelerated program focused on outbound software selling
-Competitive base pay + an uncapped performance incentive
-Hands‑on exposure to our SAM teams and full sales cycle
-Real opportunity to move into SAR or Sr SAR based on performance following 6-months’ performance
-Skill‑building that positions you for long‑term career growth in software sales
-
-
-This isn’t just another outbound role—it’s a career advancement program.
-
-
-
-Program Outcomes
-
-
-
-At the end of the 6‑month program:
-
-
-
-High performers → Software Account Representative (SAR)
-Exceptional performers → Sr SAR
-Non‑performers → Program completion without transition
-
-
-This creates a fair, performance‑based path and allows you to take ownership of your growth which doesn’t end with the Sr SAR role:
-
-
-
-SAM Family
-
-Software Account Representative “SAR”
-
-Sr Software Account Representative “Sr SAR”
-
-Software Account Executive “SAE”
-
-Sr Software Account Executive “Sr SAE”
-
-Key Software Account Executive “Key SAE”
-
-
-
-What We Offer
-
-Life requires balance. So we provide benefits around health and wellness, continued education, and work/life balance to help you live your best life when you’re working…and when you’re not.
-
-Medical, dental, and vision plans, plus a wellness program with added incentives
-401(k) savings plan with company match and employee stock purchase plan
-Continuing education benefits with tuition assistance programs
-Paid time off including holidays, vacation, sick, personal, and year-end close
-
-
-Who We Are
-
-At Thryv, we’re a team fiercely devoted to the success of local businesses. We’ve been around for over 100 years, always with one goal in mind — helping small businesses compete, win and succeed. We provide the technology, software and local business automation tools small business owners need to better manage their time, communicate with clients, and get paid, so they can take control of their business and be more successful. We support businesses across the U.S., and we have team members all around the country (even internationally). In fact, we’re a work-from-anywhere company, because that’s how we get work done.
-
-
-
-Culture is vital at Thryv because it shapes our identity and, therefore, our measurements for growth. We have an identified set of values that hold all of us accountable paving the way for our company success and our legacy. All of this helps us deliver results for our clients and creates success for our employees. At Thryv, making a positive impact within our team and in our local community is the reason we get out of bed every morning.
+Exposure to observability, monitoring, APM, or logging tools
+Experience developing or maintaining application code or infrastructure
+A foundational understanding of software systems, infrastructure, cloud, or DevOps concepts
+Experience with containers, Kubernetes, CI/CD pipelines, or scripting languages
+Previous experience working as part of a sales, pre‑sales, or customer‑facing technical team
