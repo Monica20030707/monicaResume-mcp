@@ -1,64 +1,31 @@
-Description and Requirements
-The Infrastructure Solutions (ISG) Inside Sales Specialist is responsible for meeting revenue targets, delivering strong customer and partner experiences, and supporting Lenovo’s One Lenovo go-to-market strategy. This role is based in Morrisville, NC and focuses on Corporate accounts. The position supports acquisition of accounts across Lenovo’s Infrastructure Solutions Group (ISG), including servers, storage, networking, software, and services.
+Why Hover wants you
+As a Sales Engineer at Hover, you will play a critical role in shaping how our largest and most strategic insurance customers evaluate and adopt our products. You’ll partner closely with Account Executives to lead technical discovery, deliver compelling product demonstrations, and ensure customers clearly understand how Hover fits into their workflows and broader ecosystems.
 
-The ideal candidate brings strong sales acumen, technical understanding of infrastructure and data center solutions, and experience building trusted customer relationships. The role requires clear communication of technical concepts, strong operational discipline, and the ability to deliver measurable business outcomes.
+This is a unique opportunity to join a growing function within our Insurance vertical, where you’ll have the autonomy to help define how we engage customers technically and influence how the team scales. You’ll operate at the intersection of customer needs, product innovation, and revenue growth—making a direct impact on our $1M+ customer segment.
+
+You will contribute by
+You will serve as the technical product expert throughout the sales process, partnering closely with Account Executives to guide customers from discovery through pilot execution. You’ll lead product demonstrations, scope customer workflows, and ensure that technical requirements are well understood before implementation.
+
+You will also act as a critical feedback loop between customers and Product, surfacing insights that shape our roadmap and improve our offerings. In this role, you will collaborate cross-functionally with GTM teams, Product, and Engineering to ensure alignment across customer needs and internal execution.
+
+As you build deep expertise across Hover’s product suite and its place within the broader ecosystem, you’ll help drive more effective and scalable sales processes. Over time, you’ll have the opportunity to influence how this function evolves and potentially grow into a leadership role as the team expands.
 
 Key Responsibilities
 
-Achieve revenue and profit targets for assigned Corporate ISG accounts
-
-Develop and execute acquisition-focused strategies, including research and targeted prospecting
-
-Build and maintain strong client and partner relationships as a trusted advisor for infrastructure and end user technology
-
-Lead account strategy, identify growth opportunities, and manage both new and existing business
-
-Recommend complete ISG solutions, including servers, storage, networking, software, and services
-
-Manage complex sales cycles and drive opportunities to closure
-
-Create, negotiate, and manage configurations, pricing, and proposals while maintaining catalog accuracy
-
-Provide proactive follow-up, virtual account support, and product guidance
-
-Use MS Dynamics and other CRM tools for pipeline management, forecasting, and multi‑quarter planning
-
-Leverage AI and digital tools to improve prospecting, insights, and sales productivity
-
-Stay current on Lenovo ISG portfolio updates and broader IT industry trends
-
-Participate in weekly forecasting, opportunity reviews, and cross-functional collaboration
-
-Execute outbound prospecting through cold calling, email outreach, Vidyard, ZoomInfo, and LinkedIn Sales Navigator
-
-Operate effectively in a fast-paced environment and manage competing timelines
-
-Basic Qualifications
-
-2+ years of professional inside or outside sales experience in the technology or IT industry
-
-Bachelor’s degree or equivalent professional experience
-
-In-office requirement: 3 days per week
-
-Preferred Qualifications
-
-Strong communication and collaboration skills
-
-Experience building relationships with business and IT stakeholders
-
-Proven hunter
-
-Experience selling data center and infrastructure solutions
-
-Ability to communicate technical concepts clearly to varied audiences
-
-Proven success managing pipeline, forecasting, and revenue growth
-
-Ability to travel occasionally for customer or team needs
-
-Strong consultative approach with an ability to align solutions to business outcomes
-
-Self‑driven, goal oriented, and adaptable in a dynamic environment
-
-Proficiency in MS Office, Outlook, and CRM systems
+Partner with Account Executives to lead technical discovery and solution design
+Deliver tailored product demos for prospective and existing customers
+Scope and validate customer workflows prior to pilot execution
+Act as the primary technical point of contact during the pre-sales process
+Translate customer needs into actionable product and engineering insights
+Collaborate with GTM, Product, and Engineering teams to improve customer outcomes
+Your background includes
+3–6 years of experience in Sales Engineering, Solutions Engineering, or a similar pre-sales role supporting complex products
+Experience working in fast-paced or startup environments, with comfort navigating ambiguity and evolving processes
+Strong ability to communicate complex technical concepts to both technical and non-technical audiences
+Proven experience partnering closely with sales teams to drive customer outcomes
+Demonstrated ability to collaborate cross-functionally across Product, Engineering, and GTM teams
+Strong problem-solving skills with a proactive approach to identifying and addressing challenges
+Nice-to-haves
+Experience working within insurance, property tech, or adjacent ecosystems
+Familiarity with enterprise customer workflows and integrations
+Experience supporting pilots, proofs of concept, or technical evaluations 
