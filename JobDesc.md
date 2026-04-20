@@ -1,28 +1,64 @@
-An extraordinarily talented group of individuals work together every day to drive TNS' success, from both professional and personal perspectives.  Come join the excellence!
+Description and Requirements
+The Infrastructure Solutions (ISG) Inside Sales Specialist is responsible for meeting revenue targets, delivering strong customer and partner experiences, and supporting Lenovo’s One Lenovo go-to-market strategy. This role is based in Morrisville, NC and focuses on Corporate accounts. The position supports acquisition of accounts across Lenovo’s Infrastructure Solutions Group (ISG), including servers, storage, networking, software, and services.
 
-Overview
-About Us: We develop cutting-edge mobile telecommunication applications that protect users on the largest mobile networks worldwide. As an intern, you'll implement mobile applications and test tools for Android and iOS devices, working within a cross-discipline development team to support product integration and validation.
-Responsibilities
-Internship Overview:
+The ideal candidate brings strong sales acumen, technical understanding of infrastructure and data center solutions, and experience building trusted customer relationships. The role requires clear communication of technical concepts, strong operational discipline, and the ability to deliver measurable business outcomes.
 
-Duration: Approximately 3 months
-Skills Required: Strong software development background, analytical and problem-solving skills, effective communication, and the ability to work collaboratively in a team environment.
-What You'll Learn:
+Key Responsibilities
 
-Design and Implementation: Develop mobile device software for iOS, Android, and React Native.
-Quality Assurance: Create software components that meet company standards, implement unit tests, and conduct code reviews.
-Agile Environment: Participate in an agile team with representatives from design, product, QA, and project management.
-Communication: Proactively engage with team members and produce technical documentation.
-Mentorship: Work under the guidance of a senior developer who will act as your mentor.
-Additional Responsibilities: May be assigned as needed.
-Qualifications
-Preferred Qualifications That Will Put You Ahead:
+Achieve revenue and profit targets for assigned Corporate ISG accounts
 
-Education: Pursuing a degree in Computer Science, Computer Engineering, Electrical Engineering, or a related technical field, with at least two years of study completed.
-Technical Skills:
-Basic to intermediate development courses in JAVA or a related language.
-Knowledge of data structures, object-oriented programming, networking basics, and scripting.
-Familiarity with web development using JavaScript, HTML, and CSS.
-Experience with mobile platforms (Android, iOS, React Native) is a plus.
-Software Development Lifecycle: Understanding of scoping, planning, conception, design, implementation, deployment, and maintenance.
-For this role, we anticipate paying $18 - $22 per hour. Any compensation range provided for a role is an estimate determined by available market data. The actual amount may be higher or lower than the range provided considering each candidate’s knowledge, skills, abilities, and geographic location.
+Develop and execute acquisition-focused strategies, including research and targeted prospecting
+
+Build and maintain strong client and partner relationships as a trusted advisor for infrastructure and end user technology
+
+Lead account strategy, identify growth opportunities, and manage both new and existing business
+
+Recommend complete ISG solutions, including servers, storage, networking, software, and services
+
+Manage complex sales cycles and drive opportunities to closure
+
+Create, negotiate, and manage configurations, pricing, and proposals while maintaining catalog accuracy
+
+Provide proactive follow-up, virtual account support, and product guidance
+
+Use MS Dynamics and other CRM tools for pipeline management, forecasting, and multi‑quarter planning
+
+Leverage AI and digital tools to improve prospecting, insights, and sales productivity
+
+Stay current on Lenovo ISG portfolio updates and broader IT industry trends
+
+Participate in weekly forecasting, opportunity reviews, and cross-functional collaboration
+
+Execute outbound prospecting through cold calling, email outreach, Vidyard, ZoomInfo, and LinkedIn Sales Navigator
+
+Operate effectively in a fast-paced environment and manage competing timelines
+
+Basic Qualifications
+
+2+ years of professional inside or outside sales experience in the technology or IT industry
+
+Bachelor’s degree or equivalent professional experience
+
+In-office requirement: 3 days per week
+
+Preferred Qualifications
+
+Strong communication and collaboration skills
+
+Experience building relationships with business and IT stakeholders
+
+Proven hunter
+
+Experience selling data center and infrastructure solutions
+
+Ability to communicate technical concepts clearly to varied audiences
+
+Proven success managing pipeline, forecasting, and revenue growth
+
+Ability to travel occasionally for customer or team needs
+
+Strong consultative approach with an ability to align solutions to business outcomes
+
+Self‑driven, goal oriented, and adaptable in a dynamic environment
+
+Proficiency in MS Office, Outlook, and CRM systems
