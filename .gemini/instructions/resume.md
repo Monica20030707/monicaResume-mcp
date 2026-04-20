@@ -13,7 +13,7 @@ When a job description is provided in `JobDesc.md`, follow these steps to genera
 
 3.  **Template Integrity & Content Selection:**
     -   Use `templates/resume_template.tex` as the base template. **Never modify or overwrite `templates/resume_template.tex`.**
-    -   **Content Selection Pool:** Select exactly **4 experiences** and **2 projects** from the template.
+    -   **Content Selection Pool:** Select exactly **3 experiences** and **2 projects** from the template.
     -   **Smart Tailoring:** For the selected items, look up their corresponding YAML file in `knowledge/`. 
         -   If the job is highly technical, prioritize bullets from the `technical` variant.
         -   If the job emphasizes results or sales, use the `impact` variant.
