@@ -1,34 +1,33 @@
-Join the Network Infrastructure IP and Optical Sales Engineer team on the T-Mobile account, where you will thrive in a dynamic environment working on cutting edge technology. Your technical expertise and customer first mentality will directly influence customer buying decisions and help power T-Mobile’s and Nokia’s success.   You’ll engage with external clients, understand their business strategies, and position our cutting-edge solutions to drive impactful results. Embrace a consultative selling approach that focuses on future technologies, all while being part of a motivated team dedicated to making Nokia the go-to IP and Optical solutions partner for T-Mobile.   Enjoy a competitive sales incentive plan and contribute to transformative projects that make a real difference!
+Job Overview 
 
- 
+Fluke Calibration is looking for an Inside Sales Account Manager for our calibration hardware and software solutions as well as our innovative SaaS products.  
 
-Your responsibilities
- Your Responsibilities: 
+Inside Sales Account Managers are responsible for facilitating the sales process to generate new sales opportunities or upsell of company products via telephone, email or other electronic communication. You will oversee responses to customer order and quotation requests for all levels of accounts received via outside field salespersons, telephone and/or written correspondence. 
 
-Exceed measurable sales objectives and extend the Nokia brand at T-Mobile. 
-Collaborate with the Sales team to evaluate and develop business opportunities.
-You will be responsible for utilizing a consultative selling approach with key customer stakeholders to address their business needs across the Network Infrastructure IP and Optical Portfolio with a focus on IP routing, Switching, Data Center, Security, Packet Core, Optical Transport and Automation.
-Collaborate with Nokia peers on best practices and demonstrate best-in-class solutions across Nokia’s portfolio at T-Mobile. 
-Keep up to date with technology solutions, competing solutions and competitor strategies.
-Lead and support in-depth technical discussions and conduct product demonstrations, lab evaluations, and network trials to showcase Nokia’s innovative solutions.
-Serve as a subject-matter expert, engaging customers to present tailored technical solutions and articulating the associated value clearly.
-Build and manage relationships with customers at all organizational levels, facilitating both top-down and bottom-up sales initiatives.
-Identify customer requirements and effectively communicate insights, bill of material to internal pricing teams and CRM systems.
-Analyze internal and external business challenges to recommend best practices that enhance products, processes, and services.
-Provide comprehensive pre-sales and post-sales engineering support to ensure customer satisfaction and success.
-Travel up to 20% for customer engagements, collaborative strategy sessions.
- 
+In this role, you will be responsible for calibration equipment and software Inside Sales activity. You will partner with and support Fluke Calibration’s field sales team to improve customer excitement, sales opportunities, resulting revenue and support the long-term Fluke Calibration strategic plan. Our ideal candidate will be highly driven to serve customers and have technical skills for learning electrical, pressure, temperature or flow calibration solutions, software calibration solutions as well as SaaS product offerings. If you are Considering an opportunity start or build your sales career in a team with a long history of success, enabling customers through technology, this may be the position for you. 
 
- 
-Your skills and experience
-Your Skills and Experience: 
+Primary Responsibilities 
 
-At least 5 years of technical pre-sales experience, including leading customer engagements, meetings and internal strategies, in the telecommunications (IP, and/or Optical) industry 
-At least 5 years’ networking experience, including IP, Optical or data center-related technologies.
-In-depth knowledge of IP networking and architectures.
-Experience in building large networks.
-Expertise in routing protocols including OSPF, ISIS, BGP, MPLS.
-Understanding of 3GPP packet core interfaces and standards.
-Experience with networking automation standards and protocols.
-Candidates must have hands-on experience on major network vendor equipment.
-Demonstrated success in challenging customer-facing roles; ability to build positive relationships and serve as the primary technical face of Nokia
+ Facilitate the sales process through project management, tracking open sales orders, issue resolution and overall customer service and support 
+ Prospect, source and prioritize new sales opportunities by phone and email to achieve your sales goals by maximizing customer-facing time 
+ Build and Adapt individual communication approach by customer relationships to understand their needs and remain responsive to changing customer goals and challenges. 
+ Support Fluke Calibration Field sales to provide an excellent customer experience by providing timely and accurate quotations, technical information, adding funnel in CRM, moving opportunities through the funnel and contribute to top line growth by meeting or exceeding the North American calibration sales target.  
+ Provide customer follow-up activities on behalf of the field sales team, driving late stage opportunities through to a successful close for one or more of the product families (Electrical, Pressure, Flow, Temperature or Software products).  
+ Represent Fluke Calibration as calibration generalist to customers, representatives, sales support and the business unit in all sales-oriented activities to deliver an outstanding experience to Fluke Calibration customers.  
+ Demonstrate perseverance and diligence to overcome customer concerns and close sales opportunities 
+ Generate profitable growth through quota attainment.  
+Working Conditions 
+
+Sales are made primarily through phone and internet contacts, or through specialized website and social media. Standard office conditions flexible, work environment and possibility for working remote. Additional language proficiency is a plus. 
+
+Basic Qualifications 
+
+Associate or bachelor degree in Engineering, Computer Science, another related field or equivalent experience 
+Previous experience in a customer facing role with comfort spending 50% or more of the day working with customers over the phone 
+Excellent listening and communication skills to capture and address customer needs 
+Preferred Qualifications 
+
+2+ Years of related experience  
+Metrology related experience with test, measurement, calibration or technical related experience 
+Experience using a customer relationship management tools (CRM), i.e., Microsoft Dynamics CRM 
+Experience selling hardware solutions/understanding of capital equipment purchasing process 
