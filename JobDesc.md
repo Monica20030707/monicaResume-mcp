@@ -1,29 +1,24 @@
-Minimum qualifications:
-Bachelor's degree or equivalent practical experience.
-10 years of experience in a sales role in the enterprise software or cloud space.
+Trestle is a technology company based in Bellevue, Washington, building the next generation of identity data products. Our APIs help businesses improve customer onboarding, lead management, and call operations through accurate validation, verification, and enrichment. Enterprise customers like Twilio, ActiveProspect, and Best Buy trust us to handle 500M+ queries per month. We provide the most comprehensive data coverage, low-latency APIs, and best-in-class customer service.
 
-Preferred qualifications:
-Experience with core infrastructure, enterprise, and cloud technologies.
-Experience with Databases technology stacks and deployment options in the cloud.
-Experience with articulating and selling the value of Database as a cloud service to customers.
-Ability to plan, pitch, and execute a start to finish business and customer transformation strategy aligned.
-Ability to build influential relationships and work in a cross-functional environment.
-Excellent communication, presentation, strategic, and problem-solving skills.
-About the job
-The Google Cloud Platform team helps customers transform and build what's next for their business — all with technology built in the cloud. Our products are developed for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. Our teams are dedicated to helping our customers — developers, small and large businesses, educational institutions and government agencies — see the benefits of our technology come to life. As part of an entrepreneurial team in this rapidly growing business, you will play a key role in understanding the needs of our customers and help shape the future of businesses of all sizes use technology to connect with customers, employees and partners.
+Our founders bring deep identity data expertise, having helped grow a startup to an $850M acquisition. Today, Trestle is profitable with over a thousand business customers and massive growth potential, backed by top investors and entrepreneurs with decades of experience building industry-leading technology companies.
 
-As a Go-to-Market Sales Specialist, you will be leading go-to-market strategies and business engagements, managing focused business campaigns, and providing feedback to Product and Global Solutions teams to inform our product solutions roadmap. You will serve as a solution executive within the direct enterprise business organization. You will be the trusted advisor to C-level and their executives to help shape their cloud and Databases strategy, and enable digital transformation. You will focus on helping customers improve their productivity with our products to make their organizations more productive, collaborative, and available to their customers.
+What You’ll Do
 
-Google Cloud accelerates every organization’s ability to digitally transform its business and industry. We deliver enterprise-grade solutions that leverage Google’s cutting-edge technology, and tools that help developers build more sustainably. Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to enable growth and solve their most critical business problems.
+As a Sales/Solution Engineer at Trestle, you’ll be a vital link between our sales, customer success, and product teams. You will use your technical expertise to help prospects and customers understand the value of our identity data solutions. You will also partner closely with the product teams to analyze different data sets that can help improve the coverage and efficacy of the identity data products from Trestle. Your responsibilities will include conducting in-depth data analyses, developing proof of concepts (POCs), and providing technical support to ensure customer success from the initial sale through implementation and beyond.
 
+Key Responsibilities
 
-The US base salary range for this full-time position is $138,000-$200,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.
+Proof-of-Concept (POC) and Data Testing: Design and execute data-driven POCs to demonstrate how our identity data solutions can solve a customer’s specific business challenges. This involves analyzing customer data, using our solution to generate insights, and presenting the findings.
+Product and Data Set Analysis: Collaborate closely with the product team to analyze various data sets and contribute to the design and development of new data solutions. You will provide valuable market feedback and technical insights to help shape our product roadmap.
+Technical Problem-Solving and Debugging: Act as the primary technical point of contact for customers, troubleshooting and debugging issues that arise during POCs. Ability to understand needs of its technical product portfolio, relate them to customer pain points and use various statistical approaches to identify opportunities to improve and build the product.
+Customer Success Engineering: Partner with the customer success team to ensure smooth onboarding and ongoing success. Provide technical guidance, conduct training, and help customers optimize their use of our data solutions. Analyze log data and other technical information to identify and resolve problems. 
+Data-Driven Storytelling: Design and deliver compelling, data-driven presentations to a variety of customer audiences, from technical experts to business executives. You’ll act as a storyteller, translating complex data analysis and POC results into a clear narrative that demonstrates the tangible business value and insights our solution provides.
+Sales and Technical Support: Conduct compelling product demonstrations, answer in-depth technical questions, and serve as the subject matter expert on our platform’s capabilities and integrations.
+Required Qualifications
 
-Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google.
-
-Responsibilities
-Deliver against quota and achieve goals while forecasting and reporting territory’s business.
-Consult with our customers to identify appropriate Google Databases solutions, joint development, or engineering opportunities.
-Work with Product Management teams to accelerate market adoption and solution alignment with enterprise customer requirements.
-Build relationships with customers as a subject matter expert and trusted advisor, managing business cycles, identifying solution use cases, and collaborating long-term strategic direction of accounts.
-Scale capability, execution, and experience through Product, Engineering, and Partner teams, and drive customer success through prescriptive activation of internal and external teams.
+3-5 years of experience in sales engineering, solutions engineering, or a similar technical role, preferably within the B2B SaaS or data industry.
+Strong proficiency in data analysis, with experience using tools such as SQL, Python, and Excel to manipulate, analyze, and visualize data.
+A deep understanding of data concepts, including data pipelines, APIs, and cloud technologies (AWS, Azure, or GCP). Experience with analyzing log data and debugging technical issues is essential.
+Experience with basic machine learning concepts and statistical modeling, particularly regression models, is a strong plus. While not a core requirement, a foundational understanding of these techniques will help you identify additional value for customers and collaborate more effectively with our product and data science teams. 
+Excellent verbal and written communication skills, with the ability to explain complex technical concepts to both technical and non-technical audiences.
+Exceptional analytical and problem-solving skills, with a knack for understanding a customer’s business challenges and translating them into data-driven solutions.

@@ -1,0 +1,13 @@
+TO RECUITING TEAM,
+
+I am a recent Computer Science graduate, and I am excited to apply for the Sales/Solution Engineer role at Trestle. I’ve been following Trestle’s growth in the identity data space, and your commitment to helping businesses like Twilio and Best Buy optimize their operations through high-coverage, low-latency APIs really stands out to me. Being based in Bellevue myself, I’d love to contribute to a local team building the next generation of data products.
+
+In my current role as a Sales Specialist at Verizon, I’ve learned that closing a deal requires more than just a pitch — it requires deep technical empathy. I consistently exceed my sales targets by acting as a trusted advisor, translating complex infrastructure concepts like signal propagation and network topology into clear business value for customers. I believe that getting a technical solution working is not enough — making it stable, intuitive, and maintainable is what matters. This mindset is exactly what I bring when designing data-driven Proof of Concepts or troubleshooting API integrations for prospective clients.
+
+I approach data analysis with a storyteller’s mindset. Whether I’m using Python to architect a real-time financial dashboard or leveraging SQL to educate students on relational database design as a Teaching Assistant, I focus on extracting actionable insights from complex sets. I am comfortable working across the stack, from debugging AWS serverless pipelines to collaborating with product teams on data coverage improvements. I thrive in roles where I can bridge the gap between technical complexity and customer success.
+
+Thank you for considering my application. I’d love the chance to bring my curiosity, persistence, and hands-on verification mindset to Trestle. I don’t come from a flashy background, but I prove myself by shipping reliable work and learning fast. I’m excited to grow and contribute on a team doing meaningful work. Please feel free to contact me via email or phone should you have any questions or require additional information.
+
+With Gratitude,
+
+THUY NGUYEN
