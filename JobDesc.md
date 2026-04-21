@@ -1,29 +1,34 @@
-Minimum qualifications:
-Bachelor's degree in Computer Science, Electrical Engineering, Math or related quantitative field, or equivalent practical experience in software development.
-2 years of experience in full-stack software development.
-Experience with front end languages (e.g. JavaScript or TypeScript).
-Experience with backend languages (e.g. Java, Python, or C++).
-Experience working with database technologies (e.g. SQL, NoSQL).
+Join the Network Infrastructure IP and Optical Sales Engineer team on the T-Mobile account, where you will thrive in a dynamic environment working on cutting edge technology. Your technical expertise and customer first mentality will directly influence customer buying decisions and help power T-Mobile’s and Nokia’s success.   You’ll engage with external clients, understand their business strategies, and position our cutting-edge solutions to drive impactful results. Embrace a consultative selling approach that focuses on future technologies, all while being part of a motivated team dedicated to making Nokia the go-to IP and Optical solutions partner for T-Mobile.   Enjoy a competitive sales incentive plan and contribute to transformative projects that make a real difference!
 
-Preferred qualifications:
-Experience with unit testing, agile project development, and bug and change management systems.
-Ability to provide effective technical solutions to business challenges.
-Ability to be flexible/adaptable in exercising judgment in a dynamic environment and to prioritize and manage tasks efficiently.
-About the job
-gTech Ads is responsible for all support and media and technical services for customers big and small across our entire Ad products stack. We help our customers get the most out of our Ad and Publisher products and guide them when they need help. We provide a range of services from enabling better self help and in-product support, to providing better support through interactions, setting up accounts and implementing ad campaigns, and providing media solutions for customers business and marketing needs and providing complex technical and measurement solutions along with consultative support for our large customers. These solutions range from bespoke and customized ones for our customers to scalable support for millions of customers worldwide. Based on the evolving needs of our ads customers, we partner with Sales, Product and Engineering teams within Google to develop better solutions, tools, and services to improve our products and enhance our client experience. As a cross-functional and global team, we ensure our customers get the best return on investment with Google and we remain a trusted partner.
+ 
 
-gTech’s Tools, Automation and Infra (TAI) team leverages deep user insights and gen AI technology to improve or automate Google's Ads customer support experiences. TAI team partners closely with gTech ads support teams, product teams, and engineering teams to simplify our Ads support products and build the productivity tools ecosystem for gTech users. We are leaders of the customer experience, advocating for big-picture visions, feature requests, and offering product improvements backed by data-driven insights. Our work enables gTech teams to deliver support to our customers.
+Your responsibilities
+ Your Responsibilities: 
 
-Google creates products and services that make the world a better place, and gTech’s role is to help bring them to life. Our teams of trusted advisors support customers globally. Our solutions are rooted in our technical skill, product expertise, and a thorough understanding of our customers’ complex needs. Whether the answer is a bespoke solution to solve a unique problem, or a new tool that can scale across Google, everything we do aims to ensure our customers benefit from the full potential of Google products.
+Exceed measurable sales objectives and extend the Nokia brand at T-Mobile. 
+Collaborate with the Sales team to evaluate and develop business opportunities.
+You will be responsible for utilizing a consultative selling approach with key customer stakeholders to address their business needs across the Network Infrastructure IP and Optical Portfolio with a focus on IP routing, Switching, Data Center, Security, Packet Core, Optical Transport and Automation.
+Collaborate with Nokia peers on best practices and demonstrate best-in-class solutions across Nokia’s portfolio at T-Mobile. 
+Keep up to date with technology solutions, competing solutions and competitor strategies.
+Lead and support in-depth technical discussions and conduct product demonstrations, lab evaluations, and network trials to showcase Nokia’s innovative solutions.
+Serve as a subject-matter expert, engaging customers to present tailored technical solutions and articulating the associated value clearly.
+Build and manage relationships with customers at all organizational levels, facilitating both top-down and bottom-up sales initiatives.
+Identify customer requirements and effectively communicate insights, bill of material to internal pricing teams and CRM systems.
+Analyze internal and external business challenges to recommend best practices that enhance products, processes, and services.
+Provide comprehensive pre-sales and post-sales engineering support to ensure customer satisfaction and success.
+Travel up to 20% for customer engagements, collaborative strategy sessions.
+ 
 
-To learn more about gTech, check out our video.
+ 
+Your skills and experience
+Your Skills and Experience: 
 
-The US base salary range for this full-time position is $105,000-$149,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.
-
-Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google.
-Responsibilities
-Design, build, deploy, and improve scalable full-stack web applications using software development tools. Ensure reliable backends, build pipelines to aggregate data from multiple sources, implement responsive front-ends, and enhance the performance of existing tools and services.
-Analyze problems and develop solutions, while identifying dependencies and resolving issues to drive implementation.
-Make technical contributions, including writing and reviewing design documents, tests, and code (e.g., JavaScript, Python, TypeScript, SQL).
-Provide subject-matter expertise and utilizing comprehensive knowledge of Google's relevant technologies, principles, practices, and coding standards.
-Collaborate with cross-functional users and stakeholders to identify pain points and devise innovative technical solutions.
+At least 5 years of technical pre-sales experience, including leading customer engagements, meetings and internal strategies, in the telecommunications (IP, and/or Optical) industry 
+At least 5 years’ networking experience, including IP, Optical or data center-related technologies.
+In-depth knowledge of IP networking and architectures.
+Experience in building large networks.
+Expertise in routing protocols including OSPF, ISIS, BGP, MPLS.
+Understanding of 3GPP packet core interfaces and standards.
+Experience with networking automation standards and protocols.
+Candidates must have hands-on experience on major network vendor equipment.
+Demonstrated success in challenging customer-facing roles; ability to build positive relationships and serve as the primary technical face of Nokia
