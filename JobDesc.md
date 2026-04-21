@@ -1,33 +1,29 @@
-Job Overview 
+Minimum qualifications:
+Bachelor's degree or equivalent practical experience.
+10 years of experience in a sales role in the enterprise software or cloud space.
 
-Fluke Calibration is looking for an Inside Sales Account Manager for our calibration hardware and software solutions as well as our innovative SaaS products.  
+Preferred qualifications:
+Experience with core infrastructure, enterprise, and cloud technologies.
+Experience with Databases technology stacks and deployment options in the cloud.
+Experience with articulating and selling the value of Database as a cloud service to customers.
+Ability to plan, pitch, and execute a start to finish business and customer transformation strategy aligned.
+Ability to build influential relationships and work in a cross-functional environment.
+Excellent communication, presentation, strategic, and problem-solving skills.
+About the job
+The Google Cloud Platform team helps customers transform and build what's next for their business — all with technology built in the cloud. Our products are developed for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. Our teams are dedicated to helping our customers — developers, small and large businesses, educational institutions and government agencies — see the benefits of our technology come to life. As part of an entrepreneurial team in this rapidly growing business, you will play a key role in understanding the needs of our customers and help shape the future of businesses of all sizes use technology to connect with customers, employees and partners.
 
-Inside Sales Account Managers are responsible for facilitating the sales process to generate new sales opportunities or upsell of company products via telephone, email or other electronic communication. You will oversee responses to customer order and quotation requests for all levels of accounts received via outside field salespersons, telephone and/or written correspondence. 
+As a Go-to-Market Sales Specialist, you will be leading go-to-market strategies and business engagements, managing focused business campaigns, and providing feedback to Product and Global Solutions teams to inform our product solutions roadmap. You will serve as a solution executive within the direct enterprise business organization. You will be the trusted advisor to C-level and their executives to help shape their cloud and Databases strategy, and enable digital transformation. You will focus on helping customers improve their productivity with our products to make their organizations more productive, collaborative, and available to their customers.
 
-In this role, you will be responsible for calibration equipment and software Inside Sales activity. You will partner with and support Fluke Calibration’s field sales team to improve customer excitement, sales opportunities, resulting revenue and support the long-term Fluke Calibration strategic plan. Our ideal candidate will be highly driven to serve customers and have technical skills for learning electrical, pressure, temperature or flow calibration solutions, software calibration solutions as well as SaaS product offerings. If you are Considering an opportunity start or build your sales career in a team with a long history of success, enabling customers through technology, this may be the position for you. 
+Google Cloud accelerates every organization’s ability to digitally transform its business and industry. We deliver enterprise-grade solutions that leverage Google’s cutting-edge technology, and tools that help developers build more sustainably. Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to enable growth and solve their most critical business problems.
 
-Primary Responsibilities 
 
- Facilitate the sales process through project management, tracking open sales orders, issue resolution and overall customer service and support 
- Prospect, source and prioritize new sales opportunities by phone and email to achieve your sales goals by maximizing customer-facing time 
- Build and Adapt individual communication approach by customer relationships to understand their needs and remain responsive to changing customer goals and challenges. 
- Support Fluke Calibration Field sales to provide an excellent customer experience by providing timely and accurate quotations, technical information, adding funnel in CRM, moving opportunities through the funnel and contribute to top line growth by meeting or exceeding the North American calibration sales target.  
- Provide customer follow-up activities on behalf of the field sales team, driving late stage opportunities through to a successful close for one or more of the product families (Electrical, Pressure, Flow, Temperature or Software products).  
- Represent Fluke Calibration as calibration generalist to customers, representatives, sales support and the business unit in all sales-oriented activities to deliver an outstanding experience to Fluke Calibration customers.  
- Demonstrate perseverance and diligence to overcome customer concerns and close sales opportunities 
- Generate profitable growth through quota attainment.  
-Working Conditions 
+The US base salary range for this full-time position is $138,000-$200,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.
 
-Sales are made primarily through phone and internet contacts, or through specialized website and social media. Standard office conditions flexible, work environment and possibility for working remote. Additional language proficiency is a plus. 
+Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google.
 
-Basic Qualifications 
-
-Associate or bachelor degree in Engineering, Computer Science, another related field or equivalent experience 
-Previous experience in a customer facing role with comfort spending 50% or more of the day working with customers over the phone 
-Excellent listening and communication skills to capture and address customer needs 
-Preferred Qualifications 
-
-2+ Years of related experience  
-Metrology related experience with test, measurement, calibration or technical related experience 
-Experience using a customer relationship management tools (CRM), i.e., Microsoft Dynamics CRM 
-Experience selling hardware solutions/understanding of capital equipment purchasing process 
+Responsibilities
+Deliver against quota and achieve goals while forecasting and reporting territory’s business.
+Consult with our customers to identify appropriate Google Databases solutions, joint development, or engineering opportunities.
+Work with Product Management teams to accelerate market adoption and solution alignment with enterprise customer requirements.
+Build relationships with customers as a subject matter expert and trusted advisor, managing business cycles, identifying solution use cases, and collaborating long-term strategic direction of accounts.
+Scale capability, execution, and experience through Product, Engineering, and Partner teams, and drive customer success through prescriptive activation of internal and external teams.
