@@ -1,67 +1,50 @@
-Join Our Team
+ About the Role
+We are seeking a motivated Associate Solutions Engineer to join our team. In this role, you will partner with Sales, Customer Success, and Engineering teams to support prospective and existing customers by demonstrating the value of Okta’s identity and access management solutions. This is an ideal opportunity for someone with a strong technical foundation, early career experience, and a passion for customer engagement.
 
-If you love the thrill of securing the U.S. electric grid, enabling all manufacturing in the country, and the energy of a fast-moving train — this is the place for you. We train hard, grow together, and lead with purpose. Every transformer we build is custom, every challenge unique, and every team member essential.
+Key Responsibilities
+Partner with Account Executives to support the sales cycle through technical discovery, product demonstrations, and solution design
+Build and deliver compelling demos showcasing Okta’s capabilities tailored to customer needs
+Assist in responding to technical questions, RFPs, and security questionnaires
+Develop proof-of-concepts (POCs) and solution architectures for customer use cases
+Collaborate with customers to understand business and technical requirements
+Translate complex technical concepts into clear, business-relevant value propositions
+Work cross-functionally with Product, Engineering, and Customer Success teams to ensure alignment
+Stay current with identity, security, and cloud technology trends
+Basic Qualifications
+1–2 years of experience in a technical, customer-facing role (e.g., Solutions Engineering, Sales Engineering, Technical Support, or Consulting)
+Background in software development or hands-on coding experience (e.g., JavaScript, Python, Java, or similar)
+Understanding of APIs, RESTful services, and web technologies (HTTP, JSON, OAuth, etc.)
+Strong communication and presentation skills with the ability to engage both technical and non-technical audiences
+Bachelor’s degree in Computer Science, Engineering, or a related field (or equivalent experience)
+Preferred Qualifications
+Familiarity with identity and access management concepts (SSO, MFA, OAuth, SAML, etc.)
+Experience working with cloud platforms (AWS, Azure, or GCP)
+Exposure to enterprise SaaS environments and security best practices
+Ability to troubleshoot technical issues and think critically under pressure
+P24805
 
-We’re looking for those ready to lead, fueled by commitment, and driven by impact. We are growing so fast that all our available roles are not yet posted, so let us know if you are interested and we will follow-up.
+SSP2CM
 
+ 
+The OTE range for this position for candidates located in the San Francisco Bay area is between:: $148,000 USD - $203,000 USD
 
+Below is the annual On Target Compensation (OTE) range for candidates located in California (excluding San Francisco Bay Area), Colorado, Illinois, New York and Washington. Your actual OTE, which is inclusive of base salary and incentive compensation, will depend on factors such as your skills, qualifications, experience, and work location. In addition, Okta offers equity (where applicable) and benefits, including health, dental and vision insurance, 401(k), flexible spending account, and paid leave (including PTO and parental leave) in accordance with our applicable plans and policies. To learn more about our Total Rewards program please visit: https://rewards.okta.com/us. 
 
-Position Summary
-
-Virginia Transformer Corporation, a leading distribution and power transformer manufacturer, has an immediate opening for a seasoned Sales Engineer for Construction & Industrial Market, who has a proven track-record of sales growth.
-
-This position is accountable for achieving all sales goals for the assigned market, including generation of new inquiries, securing new orders and maintaining sales margins in accordance with the overall policies and objectives of the Company.
-
-
-
-Essential Functions
-
-
-
-Execute sales growth strategy for the C&I market
-Increase sales, profitability, hit rate, and market share and customer satisfaction, meeting all company’s goals and objectives
-Identify and penetrate new growing / emerging market segments
-Develop and strengthen all key accounts
-Utilizing all available channel partners and other resources, develop and maintain a robust inquiry pipeline that provides a foundation for future quote and booking activity. Track and analyze pipeline regularly and adjust methods to maximize inquiry to quote conversion
-Work with application engineers to prepare and deliver timely, high-quality, accurate, effective quotation to all customers
-Achieve order booking goal by continuously monitoring outstanding quotes and taking necessary actions (visits, pricing, etc.) to enhance hit rate while meeting budgeted profit and plant loading targets.
-Work with sales rep network to ensure achievement of their sales goals – inquiry generation and follow-up, support customer visits, product training, quote closure and bid feedback. Measure sales rep performance and train or upgrade reps as necessary to maximize their performance.
-Work with project managers to ensure open communication and timely resolution of issues that support company’s commercial goals. Provide guidance to the C&I project managers to maintain all projects stay on track, customers remained informed during the order execution to achieve high level of customer satisfaction.
-Facilitate negotiation activities of all major opportunities
-Provide and maintain timely, quality inputs to the quotation data system and customer management tools for the assigned market(s).
-Define and continuously maintain critical market intelligence from a market, customer and competitor view for the US C&I market
-Work with the marketing team to create compelling sales collateral that highlights the value propositions/differentiators
-
-
-Skills and Qualifications
-
-
-
-Bachelor’s degree or equivalent, preferably in Engineering or equivalent technical field
-Minimum 3 years of technical sales experience, preferably in C&I market including metal & mining customers.
-Strong knowledge/experience with medium / high voltage electrical equipment, preferably with medium voltage distribution, power transformers, field service transformer testing and commissioning services
-Experience in working with channel partners (manufacturer’s representatives, EPCs/contractors and distributors)
-Strong written/verbal communication and presentation skills.
-Demonstrated track-record of growing assigned market segments year-over-year
-Ability to make cold calls
-Ability to travel 40-50% of the time
-Legally authorized to work in the United States without company sponsorship
-
-
-Territory: Construction & Industrial Market for West US region
+The annual OTE range for this position for candidates located in California (excluding San Francisco Bay Area), Colorado, Illinois, New York, and Washington is between:: $132,000 USD - $198,000 USD
 
  
 
-Responsibilities
+The Okta Experience
 
-Clearly articulate technical capabilities and give technical demonstrations
-Partner with the sales team to generate leads
-Find and maintain prospective clients
-Provide general technical support to clients
+Supporting Your Well-Being 
+Driving Social Impact 
+Developing Talent and Fostering Connection + Community
+We are intentional about connection. Our global community, spanning over 20 offices worldwide, is united by a drive to innovate. Your journey begins with an immersive, in-person onboarding experience designed to accelerate your impact and connect you to our mission and team from day one.
 
+Okta is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, marital status, age, physical or mental disability, or status as a protected veteran. We also consider for employment qualified applicants with arrest and convictions records, consistent with applicable laws.
 
-Qualifications
+If reasonable accommodation is needed to complete any part of the job application, interview process, or onboarding please use this Form to request an accommodation.
 
-Ability to discuss highly technical concepts with prospective leads
-Willingness to travel
-Strong verbal, written, and interpersonal skills
+Notice for New York City Applicants & Employees: Okta may use Automated Employment Decision Tools (AEDT), as defined by New York City Local Law 144, that use artificial intelligence, machine learning, or other automated processes to assist in our recruitment and hiring process. In accordance with NYC Local Law 144, if you are an applicant or employee residing in New York City, please click here to view our full NYC AEDT Notice.
+
+Okta is committed to complying with applicable data privacy and security laws and regulations. For more information, please see our Personnel and Job Candidate Privacy Notice at https://www.okta.com/legal/personnel-policy/.
