@@ -1,39 +1,40 @@
-The Sales Engineer I supports the Substation Division (SSD) by preparing technical and commercial proposals, assisting with bid development, and facilitating order entry for substation products and services. This role partners closely with sales, customers, and internal teams to ensure accurate, competitive, and compliant proposals from initial RFQ through project handoff.
+A Field Application Engineer promotes the latest technologies within the Automated Material Handling industry to customers. They develop strong relationships with the industrial and distribution clients in a geographical area and provides them with exceptional material handling and automation solutions to meet their business requirements. This role allows you to work with some of the latest technologies in the ever-changing material handling field including robotics, mobile robotics, autonomous vehicles, AGV’s, and more.
 
-What You’ll Do
 
-Support Proposal Development
 
-Identify and support bid opportunities in collaboration with MEPPI sales teams, manufacturers’ representatives, and industry contacts
-Prepare and submit technical and commercial proposals in response to customer RFQs
-Coordinate with Mitsubishi Electric (MELCO), overseas factories, suppliers, and customers to clarify scope and requirements
+This person will work hybrid in the Seattle, WA 98134 area. 
 
-Drive Bid & Review Process
 
-Develop proposal materials, including technical documentation and commercial content
-Create commercial terms review sheets and obtain approvals from Limits of Authority (LOA) stakeholders
-Organize and support bid review meetings and presentations for internal alignment and customer negotiations
 
-Order Management & Project Handoff
+Job Functions
 
-Confirm customer orders align with proposal scope, pricing, and terms
-Enter orders and coordinate turnover to the Project Group
-Identify and document all contract requirements, deliverables, and commitments
+Develop strong relationships with our customers through timely, regular visits
+Assess needs and present solutions tailored to customer specifications
+Sell a wide variety of products and services to meet your customer's needs
+Collaborate with other Toyota Automated Logistics entities to provide the best solution to the customer
+Provide professional sales quotes in a timely manner
+Master business technology (AutoCad, CRM, Power Point presentations, etc.)
+Pursue leads from our Web Site and suppliers
+Maintain customer database information current in our CRM
+Communicate strategic information regarding suppliers, customers, and competition
+Network with business contacts within the territory and industry
+Master product information through training and personal efforts
 
-Maintain Documentation & Communication
 
-Maintain accurate electronic and hardcopy bid files in accordance with SSD standards
-Conduct technical presentations to customers on MEPPI products and solutions
-Collaborate across divisions and with external partners to support SSD goals and maintain a professional company image
+Travel Requirements: 
 
-What You’ll Bring
+25% overnight travel (expenses paid by Toyota Automated Logistics) 
+Must maintain a valid drivers license
 
-Education: Bachelor’s degree in Electrical or Mechanical Engineering, or equivalent experience 
-Experience: 0–2 years of experience (internships or co-op experience preferred)
-Technical Skills:
-Familiarity with proposal development and engineering documentation
-Intermediate Microsoft Office skills (Excel, Word, PowerPoint)
-Business & Communication Skills:
-Basic understanding of negotiation techniques and contract terms
-Strong interpersonal and communication skills to work with customers and internal teams
-Analytical and problem-solving mindset with attention to detail
+
+Preferred Skills and Required Qualifications 
+
+Must be eligible to work in the US long term without sponsorship 
+Bachelor's degree in an Engineering discipline (Mechanical or MET preferred)
+2+ years work engineering work experience outside of academia 
+Technical Sales experience needed, industrial sector preferred
+Material handling automation design and sales experience
+Strong presentation 
+AutoCad experience a plus
+Entrepreneurial and competitive personality
+Employees must follow all information security policies, protect confidential data, complete required training, and report any suspected security incidents to support our information security controls.
