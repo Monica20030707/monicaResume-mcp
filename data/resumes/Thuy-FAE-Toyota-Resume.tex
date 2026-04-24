@@ -11,7 +11,7 @@ right=0.5in]{geometry}              % specify right page margin
 \usepackage{enumitem}               % enable lists for bullet points: itemize and \item
 \usepackage[colorlinks=true, linkcolor=black, urlcolor=blue]{hyperref}    % format hyperlinks
 \usepackage{titlesec}               % enable section title customization
-aggedright                        % disable text justification
+aggedright                        % disable text justification
 \pagestyle{empty}                   % disable page numbering
 \usepackage{comment}                % block comment
 
@@ -20,10 +20,10 @@ right=0.5in]{geometry}              % specify right page margin
 \pdfgentounicode=1
 
 % format section headings: bolding, size, white space above and below
-	itleformat{\section}{\bfseries\large}{}{0pt}{}[\vspace{1pt}	itlerule\vspace{-6.5pt}]
+\titleformat{\section}{\bfseries\large}{}{0pt}{}[\vspace{1pt}\titlerule\vspace{-6.5pt}]
 
 % format bullet points: size, white space above and below, white space between bullets
-enewcommand\labelitemi{$\vcenter{\hbox{\small$\bullet$}}$}
+\renewcommand\labelitemi{$\vcenter{\hbox{\small$\bullet$}}$}
 \setlist[itemize]{itemsep=-2pt, leftmargin=12pt, topsep=6pt} %%% Test various topsep values to fix vertical spacing errors
 
 % resume starts here
