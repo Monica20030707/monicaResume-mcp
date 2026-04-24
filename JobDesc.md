@@ -1,42 +1,38 @@
-Secure Every Identity, from AI to Human
 
-Identity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.
+Do you thrive in fast-paced environments and enjoy hands-on technical work? Are you passionate about technology and helping customers succeed? Join Evolv's Technical Sales & Solutions (TS&S) team as an Associate Solutions Engineer focused on deployments. In this role, you'll be on the front lines—installing systems, training operators, and supporting go-lives—while also helping certify and train channel partners. You'll additionally contribute to site surveys and pre-sales activities like pilots and demos. 
 
-This is an opportunity to do career-defining work. We're all in on this mission. If you are too, let's talk.
+Evolv is a mission-driven company dedicated to making a real difference in society—saving lives and improving experiences wherever people gather. You'll play a critical role in ensuring smooth deployments and exceptional customer experiences, bridging the gap between technical execution and customer success. 
 
- The Solutions Engineer Team
-We believe Solutions Engineers at Okta are involved in all stages of the customer’s digital transformation.  Solutions Engineers are experienced in using presentations, email, phone, and social media to connect with customers virtually and in person. We are looking for great teammates who can build and deliver sales presentations and customized product demonstrations to educate Okta’s Customers (from developers to product managers to C-level executives) on best practices throughout their cloud security technology journey. We believe Okta’s Solutions Engineers empathize with Customers and quickly discern their true technical needs by asking detailed, clarifying questions while presenting solutions that specifically address those needs. Okta Solution Engineers have the rare combination of technical acumen and business insight; in a career where you can utilize both. As a Solutions Engineer at Okta, you will further develop each of these skills by advising a diverse set of customers on the value they will gain by using Okta’s Identity Platform.
+Success in the Role: What performance outcomes will you work towards completing over the first 12 months? 
 
-The Solutions Engineer Opportunity
+Within the First 30 days: 
 
-Reporting to the Senior Manager, Solutions Engineering, the Solutions Engineer is a functional business consultant who will partner with Commercial Account Executives and have  a passion for technology and the advanced ability to develop, position, and demonstrate product-specific solutions during sales cycles, while achieving quarterly and annual sales goals for an assigned territory.
+Certify: Achieve Professional Service Technician certifications on all Evolv Express generations and Expedite. 
+Participate & Qualify: Join live customer installations to understand a real-world deployment. 
+Install Independently: By Day 30, be able to install the full suite of Evolv systems independently, following TS&S safety, quality, and documentation standards. 
+30 Days to Three Months: 
 
-What you’ll be doing 
+Troubleshooting Proficiency: Build confidence in minor installation troubleshooting (e.g., configuration, connectivity, and setup validations) so that routine issues are quickly resolved on-site. 
+Training Excellence: Become a professional at delivering operator training across our core verticals (education, healthcare, sports & entertainment), adapting content to audience and environment. 
+GoLive Support: Support go lives from start to finish, ensuring operators, supervisors, and stakeholders are prepared. 
+Deployments to Standard: Learn how to exit a deployment site to the Evolv standard, including completing the post deployment survey/QA checklist and handing off notes to CS/Support. 
+Own Small Deployments: By Month 3, be able to execute the entire deployment process solo for installations up to 4 systems. 
+Between 3 to 6 months: 
 
+PreSales Foundations: Develop working competency in site surveys, ConOps (Concept of Operations) creation, and presales activities including pilots, demos, and PoCs. 
+PreSales Certification: Earn Professional Certification covering core presales activities and documentation standards. 
+Apply PreSales to Deployments: By Month Six, confidently conduct minor presales tasks when needed, run site surveys independently, and draft ConOps—with a strong understanding of how presales inputs improve installation quality and customer outcomes. 
+Between 6 to 12 Months: 
 
-Work alongside the Corporate/Expansion (employee size 300-1249) sales team as the technical and domain expert of a customer-facing sales team to help Customers understand the value of Okta’s solutions
-Understand customer challenges and business issues, and provide product demonstrations to align our solutions with customer needs
-Answer product feature and technical questions from customers, partners, and Okta colleagues
-Plan and deliver Proof Of Concepts for customers who have more complex use cases, collaborating with other Okta engineering teams as needed
-Provide feedback to product management about product enhancements that can address customer needs and provide additional value
-Share and learn best practices and reusable assets with other Solutions Engineers to enhance the quality and efficiency of the team
-Stay current on competitive analysis and market differentiation
-Support marketing events, including executive briefings, conferences, user groups, and trade shows
- 
+Channel Enablement: Learn and apply channel partner certification processes for deployment:  
+Create professional installers across all Evolv products. 
+Train partners to be effective operator trainers who meet Evolv standards. 
+Field Leadership: By Month 12, demonstrate the capability to serve as the onsite lead for major deployments when needed—owning plan, execution, quality, safety, and stakeholder communications. 
+Raise the Bar: Consistently train channel partners to the Evolv standard, model best practices, and act as a field leader others look to as the benchmark for deployment excellence. 
+The Work: What type of work will you be doing? What assignments, requirements, or skills will you be performing on a regular basis?  
 
-What you’ll bring to the role
+Deployment Process 
 
-5+ years of pre-sales engineering experience, selling SaaS products.
-A passion to serve the Customer, demonstrated in a customer-facing role, such as consulting or support, but ideally in a pre-sales capacity.
-An ability to quickly communicate complex ideas around a technical topic, ideally on the fly, using a whiteboard.
-Experience with at least one standard network security protocol. (eg. OAuth, OAuth2, SAML, LDAP)
-Hands-on experience in one or more of the following areas: web (JavaScript, HTML, frontend frameworks) development, mobile (iOS, Android) development, backend (Java, C#, Node.js, Python, PHP, Ruby) development, IP-based real-time communications.
-An understanding of core security concerns within a typical application. (password hashing, SSL/TLS, encryption at rest, XSS, XSRF)
-Exceptional communicator.
-Confidently dispensing knowledge to highly-skilled and experienced audiences.
-Typically, 25% travel.
-A bachelor's degree in Engineering, Computer Science, MIS, or a comparable field is preferred.
-You might also have (not mandatory):
-AI & Emerging Tech: Expertise with Agentic AI and LLM-based workflows. You understand the use cases for AI agents, both internal and external, and have familiarity with MCP servers.
-Diagramming experience for user journey flows, complex architecture diagrams, etc.
-Experience in the IAM space
+Installation: Execute full system installations, including site preparation, equipment setup, configuration, and validation to Evolv standards. 
+Training: Deliver operator and administrator training tailored to customer verticals, ensuring smooth adoption and confidence in system use. 
+Go-Live Support: Provide on-site support during initial live operations, troubleshoot minor issues, and confirm readiness before handoff. 
