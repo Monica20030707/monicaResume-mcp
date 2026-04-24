@@ -1,47 +1,39 @@
-General Summary:
+The Sales Engineer I supports the Substation Division (SSD) by preparing technical and commercial proposals, assisting with bid development, and facilitating order entry for substation products and services. This role partners closely with sales, customers, and internal teams to ensure accurate, competitive, and compliant proposals from initial RFQ through project handoff.
 
-Are you ready to combine the fast-paced energy of an innovative startup with the resources and stability of a global tech leader? This opportunity blends both worlds into one. Edge Impulse has joined forces with the Industrial Embedded IoT division of Qualcomm, and we are growing our team because Edge AI is an important part of Qualcommʼs diversification roadmap.
+What You’ll Do
 
-Edge Impulse streamlines the creation of AI and machine learning models for edge hardware, enabling devices to make decisions and generate insight where data is gathered. Powerful automations make it easier to build valuable datasets and develop advanced AI for edge devices from MCUs to CPUs to NPUs & GPUs. The ease of use and versatility that Edge Impulse provides supports customers launching AI-empowered devices globally to solve the planet's biggest problems with novel high-tech solutions. Used by industrial organizations, health and wearables companies, as well as top silicon vendors, Edge Impulse has become the trusted ML platform for enterprises and developers alike. We are growing!
+Support Proposal Development
 
-This technical pre-sales engineering opportunity works with our North American customers to build and optimize their data management and machine learning strategy. Focus on device-aware machine learning, data onboarding, curation, tuning, and extensibility. Edge Impulse empowers enterprise development teams to rapidly research & develop industry-specific Edge AI solutions and launch successful AI-powered products.
+Identify and support bid opportunities in collaboration with MEPPI sales teams, manufacturers’ representatives, and industry contacts
+Prepare and submit technical and commercial proposals in response to customer RFQs
+Coordinate with Mitsubishi Electric (MELCO), overseas factories, suppliers, and customers to clarify scope and requirements
 
-Are you excited about Edge AI? Want to design data pipelines and embedded machine learning solutions for next-generation intelligent products & devices going to market? This is an opportunity to gain experience working across multiple industries, use cases, and technical domains. If this sounds like your next career move, then we want to talk with you.
+Drive Bid & Review Process
 
-Primary Responsibilities
+Develop proposal materials, including technical documentation and commercial content
+Create commercial terms review sheets and obtain approvals from Limits of Authority (LOA) stakeholders
+Organize and support bid review meetings and presentations for internal alignment and customer negotiations
 
-· Guide and collaborate with prospective customers throughout North America as a trusted technical advisor to design and optimize their data management, machine learning workflow, and model deployment with Edge Impulse.
+Order Management & Project Handoff
 
-· Contribute to sales & marketing activities by participating in events, visiting prospects, and performing presentations, and demonstrations.
+Confirm customer orders align with proposal scope, pricing, and terms
+Enter orders and coordinate turnover to the Project Group
+Identify and document all contract requirements, deliverables, and commitments
 
-· Work with engineering and account management teams to envision machine learning solutions and solve technical challenges for intelligent devices in industries such as industrial automation, automotive, digital health, and more.
+Maintain Documentation & Communication
 
-· Develop transformation, processing, training, and deployment code to create machine learning models from large datasets and deploy to resource-constrained devices.
+Maintain accurate electronic and hardcopy bid files in accordance with SSD standards
+Conduct technical presentations to customers on MEPPI products and solutions
+Collaborate across divisions and with external partners to support SSD goals and maintain a professional company image
 
-This position is eligible to work remotely in the U.S.
+What You’ll Bring
 
-#EdgeImpulse
-
-Minimum Qualifications:
-
-• Bachelor's degree in Engineering, Information Systems, Computer Science, or related field and 4+ years of Software Applications Engineering, Software Development experience, or related work experience.
-OR
-Master's degree in Engineering, Information Systems, Computer Science, or related field and 3+ years of Software Applications Engineering, Software Development experience, or related work experience.
-OR
-PhD in Engineering, Information Systems, Computer Science, or related field and 2+ years of Software Applications Engineering, Software Development experience, or related work experience.
-
-• 2+ years of experience with Programming Language such as C, C++, Java, Python, etc.
-• 1+ year of experience with debugging techniques.
-Preferred Qualifications:
-
-· Track record of multi-disciplinary problem solving and working across domains, teams, and companies in the US & NA region to develop complex technical solutions.
-
-· Experience developing embedded or cloud software (python, C/C, or equivalent) with exposure to Linux or RTOSs.
-
-· Experience with data analysis & machine learning, including Python ML & data libraries (e.g. TensorFlow, Keras, PyTorch, NumPy, Pandas, or equivalent).
-
-· Experience developing, launching, or maintaining technical products in relevant commercial industries (e.g. industrial, medical, automotive, IoT, or related markets).
-
-· Track record of teaming, leading, and consulting to drive ambitious technical projects to success in lean distributed organizations.
-
-· Fostering a growth mindset with a demonstrated history of learning, adapting, improving, and growing individually, as a team, and with your customers.
+Education: Bachelor’s degree in Electrical or Mechanical Engineering, or equivalent experience 
+Experience: 0–2 years of experience (internships or co-op experience preferred)
+Technical Skills:
+Familiarity with proposal development and engineering documentation
+Intermediate Microsoft Office skills (Excel, Word, PowerPoint)
+Business & Communication Skills:
+Basic understanding of negotiation techniques and contract terms
+Strong interpersonal and communication skills to work with customers and internal teams
+Analytical and problem-solving mindset with attention to detail
