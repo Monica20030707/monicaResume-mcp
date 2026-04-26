@@ -1,38 +1,37 @@
+THE OPPORTUNITY
 
-Do you thrive in fast-paced environments and enjoy hands-on technical work? Are you passionate about technology and helping customers succeed? Join Evolv's Technical Sales & Solutions (TS&S) team as an Associate Solutions Engineer focused on deployments. In this role, you'll be on the front lines—installing systems, training operators, and supporting go-lives—while also helping certify and train channel partners. You'll additionally contribute to site surveys and pre-sales activities like pilots and demos. 
+We are searching for a highly skilled Associate Customer Success Engineer to play a key role in optimizing our customers' utilization and return on investment in Cyera. This position offers an exciting chance to join a thriving organization and contribute to the forefront of data security, making a significant impact on the protection of data for numerous global enterprises. As part of this role, you can expect to travel between 25-50% annually, enabling you to engage directly with clients and enhance their overall experience.
 
-Evolv is a mission-driven company dedicated to making a real difference in society—saving lives and improving experiences wherever people gather. You'll play a critical role in ensuring smooth deployments and exceptional customer experiences, bridging the gap between technical execution and customer success. 
 
-Success in the Role: What performance outcomes will you work towards completing over the first 12 months? 
 
-Within the First 30 days: 
+RESPONSIBILITIES:
 
-Certify: Achieve Professional Service Technician certifications on all Evolv Express generations and Expedite. 
-Participate & Qualify: Join live customer installations to understand a real-world deployment. 
-Install Independently: By Day 30, be able to install the full suite of Evolv systems independently, following TS&S safety, quality, and documentation standards. 
-30 Days to Three Months: 
+As an Associate Customer Success Engineer, you will play a crucial role in ensuring customer satisfaction and success by:
 
-Troubleshooting Proficiency: Build confidence in minor installation troubleshooting (e.g., configuration, connectivity, and setup validations) so that routine issues are quickly resolved on-site. 
-Training Excellence: Become a professional at delivering operator training across our core verticals (education, healthcare, sports & entertainment), adapting content to audience and environment. 
-GoLive Support: Support go lives from start to finish, ensuring operators, supervisors, and stakeholders are prepared. 
-Deployments to Standard: Learn how to exit a deployment site to the Evolv standard, including completing the post deployment survey/QA checklist and handing off notes to CS/Support. 
-Own Small Deployments: By Month 3, be able to execute the entire deployment process solo for installations up to 4 systems. 
-Between 3 to 6 months: 
+Serving as the primary technical expert on the Cyera Platform, demonstrating in-depth knowledge and expertise.
+Establishing yourself as a trusted advisor to customers at all levels, from practitioners to executives.
+Driving customer adoption through effective onboarding and training processes.
+Gaining a deep understanding of customers' requirements, challenges, and desired business outcomes, and then designing and delivering customized use cases that align with their goals using a consultative approach.
+Proactively ensuring that customers are realizing the full value of their investment and maximizing their return on investment by consistently driving sustained adoption of Cyera's platform. You will act as the leader for ongoing engagement and expansion, helping customers achieve their business and technology objectives.
+Proactively identifying and resolving any obstacles or blockers that may impede customer success, collaborating with peers to address them promptly.
+Advocating for the customer's voice and feedback, actively influencing Cyera's roadmap and product development.
+Utilizing self-paced training resources to support customer education and promote knowledge growth throughout their journey.
+Troubleshooting and resolving technical issues impacting customers, ensuring smooth operation and seamless experiences.
+Monitoring and reporting on the overall well-being of customers, tracking key health and usage indicators.
+Collaborating with customers to develop joint success plans.
+Documenting and sharing best practices both internally and externally to foster knowledge sharing and continuous improvement.
+Conducting Quarterly Business Reviews with customers, evaluating progress, and identifying areas for further improvement and collaboration.
+Requirements
+REQUIRED QUALIFICATIONS:
 
-PreSales Foundations: Develop working competency in site surveys, ConOps (Concept of Operations) creation, and presales activities including pilots, demos, and PoCs. 
-PreSales Certification: Earn Professional Certification covering core presales activities and documentation standards. 
-Apply PreSales to Deployments: By Month Six, confidently conduct minor presales tasks when needed, run site surveys independently, and draft ConOps—with a strong understanding of how presales inputs improve installation quality and customer outcomes. 
-Between 6 to 12 Months: 
-
-Channel Enablement: Learn and apply channel partner certification processes for deployment:  
-Create professional installers across all Evolv products. 
-Train partners to be effective operator trainers who meet Evolv standards. 
-Field Leadership: By Month 12, demonstrate the capability to serve as the onsite lead for major deployments when needed—owning plan, execution, quality, safety, and stakeholder communications. 
-Raise the Bar: Consistently train channel partners to the Evolv standard, model best practices, and act as a field leader others look to as the benchmark for deployment excellence. 
-The Work: What type of work will you be doing? What assignments, requirements, or skills will you be performing on a regular basis?  
-
-Deployment Process 
-
-Installation: Execute full system installations, including site preparation, equipment setup, configuration, and validation to Evolv standards. 
-Training: Deliver operator and administrator training tailored to customer verticals, ensuring smooth adoption and confidence in system use. 
-Go-Live Support: Provide on-site support during initial live operations, troubleshoot minor issues, and confirm readiness before handoff. 
+Associate’s degree or equivalent experience required. Bachelor’s degree in Computer Science or similar experience a plus
+Strong project management skills, enabling you to effectively plan, organize, and execute multiple projects simultaneously while maintaining a strong attention to detail
+A self-starter who thrives in an ambiguous, fast-paced, and deadline-oriented startup environment.
+A results-oriented mindset, with a proven track record of driving revenue growth, ensuring customer satisfaction, promoting feature adoption, and maximizing customer retention.
+Proficiency in SQL and scripting languages (e.g., Python or equivalent)
+Familiarity with APIs and web services
+A self-motivated, proactive, and innovative team player who consistently strives to inspire customer loyalty.
+Excellent interpersonal and customer relations skills, particularly when it comes to building and nurturing strategic relationships.
+A clear and concise verbal and written communicator, capable of conveying complex information effectively.
+Proficiency in leading both executive meetings and technical workshops, demonstrating confidence and expertise.
+Ability to work autonomously, tackling even the most intricate challenges, and successfully completing tasks that may lack comprehensive documentation. They will actively participate in projects aligned with their current skill set, seeking assistance primarily for more complex initiatives or issues.
