@@ -1,25 +1,25 @@
-What’s the role?
+The Field Sales Technical Associate is a full-time, customer-facing support role designed to augment top-performing sales professionals in the field. Acting as a high-impact apprentice, this role accelerates order generation by executing technical pre-sales activities—including customer visits, data gathering, and quote preparation—under the direct mentorship of a senior service sales representative. This role is foundational for building future sales or operational leaders by developing technical and commercial acumen in real-world settings. Success will be measured by incremental sales enabled, accuracy of pre-sales documentation, and demonstrated growth in technical and customer-facing capabilities. This role is part of the Flex Plan initiative and will collaborate with the Control Tower to prioritize high-potential opportunities and execute field tasks efficiently. Top performers may advance into sales, TSM, FOM, TOM, or service operations roles as part of our leadership development track.
 
-As a Solutions Engineer, you will be a key member of the Dynatrace sales engine and will be responsible for providing high‑quality technical support to customers and internal teams across North America.
+RESPONSIBILITIES:
 
-This is for individuals either early in or starting their Solutions Engineering career and align with the Solutions Engineer profile who are motivated to grow into the full scope, expectations, and impact of the role through hands‑on experience and mentorship. Prior experience in a sales or pre‑sales role is not required, but curiosity, strong technical fundamentals, and the ability to communicate clearly with customers are essential.
+Attend customer sites with the senior sales representative to gather technical measurements and scope service opportunities.
+Draft and assist in the preparation of customer quotes using field data.
+Learn to identify sales opportunities during customer interactions.
+Support sales pipeline documentation and CRM data hygiene.
+Participate in territory planning sessions and prioritize leads with input from the Control Tower team.
+Continuously develop knowledge of cranes, components, and service offerings.
+Perform other duties as assigned in support of sales growth and technical training.
 
-In this role, you will partner with Sales, Customer Success, Product, and Engineering teams to deliver compelling demonstrations, support technical evaluations, and help customers understand Dynatrace’s unique approach to advanced observability and application performance.
+Qualifications
 
-This is a fully remote role, with optional hybrid office access for those who prefer a mix of remote and in‑office work.
+REQUIRED SKILLS & COMPETENCIES:
 
-Responsibilities
+Strong mechanical or technical aptitude with a willingness to learn sales processes.
+Excellent communication and interpersonal skills with both customers and internal teams.
+Proactive, organized, and self-directed under mentorship.
+Able to interpret basic technical diagrams and specifications (training provided).
+High integrity, curiosity, and commitment to follow-through.
+EDUCATION & EXPERIENCE:
 
-Act as a technical expert on the Dynatrace platform, supporting customer engagements across discovery, evaluation, and solution design
-Execute and support live and remote product demonstrations that highlight Dynatrace’s differentiated value
-Provide technical guidance in the Discovery, Solution Evaluation, and Solution Proposal stages of the opportunity sales cycle.
-Participate in and support proof‑of‑concept (PoC) engagements, working closely with customers and internal teams
-Partner with a large Sales team to identify and support new sales opportunities and expansions within existing accounts
-Assist with RFIs, RFPs, and technical documentation, learning how potential clients evaluate solutions
-Build strong technical relationships with customers and prospects, positioning Dynatrace as a trusted partner
-Gather, qualify and provide feedback from customers to Product Management to improve Dynatrace’s market share and meet the market needs.
-Collaborate across teams including Product, Engineering, Expert Services, Customer Success, and Marketing
-Build best practices and share knowledge the team to continuously develop and enhance both your personal and team capabilities.
-Create and modify Dynatrace template presentations, in order to attend the specific demands of each customer.
-Continuously develop technical, presentation, and customer‑facing skills through structured enablement and mentorship
-Position might be filled at a higher level based on candidate experience.
+1–3 years of relevant field experience in industrial maintenance, technical support, or customer service OR recent graduate of a technical program with demonstrated aptitude.
+Prior exposure to mechanical/electrical systems or industrial environments strongly preferred.
