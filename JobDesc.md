@@ -1,29 +1,38 @@
-Powered by Harness AI and the Software Delivery Knowledge Graph, the Harness Platform applies deep context and intelligent automation across the software delivery lifecycle with governance and policy-driven controls embedded throughout the platform. 
+Molex is seeking a highly motivated and proactive Sales Engineer to join our accomplished sales team in the Bay Area. In this role, the Sales Engineer will oversee designated business units within this client account and assume responsibility for driving profitable growth by generating new demand and maintaining existing business. This position offers significant autonomy and serves as the primary liaison between Molex and the customer, providing education regarding the value Molex delivers. The Sales Engineer will also collaborate with various internal stakeholders, including members of the Global Sales & Marketing team, Product Management, Engineering, Manufacturing, Quality, and Finance, to ensure effective support and service. 
 
-Over the past year, Harness powered over 185M deployments, 82M builds, 18T flag evaluations, 8M security scans, 9.1B optimized tests, 3T protected API calls, and helped manage $2.8B in cloud spend — enabling customers like United Airlines, Morningstar, and Choice Hotels to accelerate releases by up to 75%, reduce cloud costs by up to 60%, and achieve 10x DevOps efficiency. 
 
-With a global team across 26 offices and 25 countries, Harness is shaping the future of AI software delivery — and we’re looking for exceptional talent to help us move even faster.
 
-Position Summary
+What You Will Do In Your Role 
 
-The Sales Engineer lives and works in the intersection between sales and engineering. The ideal candidate must be able to articulate technology and product positioning at the executive, business and technical levels. Sales Engineers are the primary technical support for the sales force and are responsible for actively driving and managing the technology evaluation stage of the sales process. They are there to ensure success with all Harness customers and strategize with their sales counterparts to steer customers to a commercial relationship.
-About The Role
+Become a subject matter expert on Molex capabilities and product portfolio 
+Develop and maintain strong relationships with technical and commercial influencers at the customer and internally. 
+Manage assigned portfolio to achieve revenue/profit growth targets and demand creation pipeline goals 
+Track and document these actions and results in our Customer Relationship Management tool. 
+Identify strategic business opportunities and present business cases to internal stakeholders to gain the necessary support to execute. 
+Track revenue and profitability of the assigned portfolio and ensure the business is captured accurately across all Molex systems. 
 
-World class presentation skills in delivering presentations/demos of our platform
-Able to work with customers directly to debug common errors
-Ability to tie business problems to technical solutions
-Capable of understanding and articulating technology value propositions
-Drive complex technical engagements with customers to prove the value of Harness solutions 
-About You
 
-You will be responsible for delivering a great product demonstration which tells a story of how our software provides value to our customer
-You will be responsible for representing the product to customers and at field events such as conferences, seminars, etc.
-You will remain knowledgeable and up-to-date on changes and developments on our technologies
-You either actively develop software, have a prior background as a developer, or worked with developers in a DevOps role  
-Strong cloud knowledge, you worked with infrastructure automation such as Terraform
-You are able to respond to functional and technical elements of RFIs/RFPs
-You are able to convey customer requirements to Engineering teams
-You are able to travel throughout a sales territory with minimal restrictions and occasionally on short notice
-Location
+Skills & Abilities 
 
-This role will be remote, based in the Denver area
+Self-motivated and curious 
+Strong interpersonal skills to build relationships and network 
+Effective communicator face-to-face, remotely via phone/Microsoft teams, and via email 
+Organization, attention to detail, and timely follow-through 
+Time management and ability to address multiple priorities simultaneously and balance workload with minimal direct supervision 
+Ability to work through ambiguity to deliver the desired outcome 
+Ability to map complex technical requirements to capabilities and products and develop a customer engagement strategy 
+
+
+The Experience You Will Bring 
+
+Requirements: 
+
+Customer facing experience in a sales/account manager or equivalent technical sales role 
+Experience in applying a vast set of product knowledge to include a high level understanding of design and application to address customer needs 
+Experience in managing sales within a complex, multi-unit support structure to include product leaders and commercial excellence capabilities 
+
+
+What Will Put You Ahead: 
+
+Experience calling on OEMs, with a proven track record of design wins 
+Prior experience in electronics industry 
