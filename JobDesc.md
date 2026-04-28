@@ -1,38 +1,32 @@
-Molex is seeking a highly motivated and proactive Sales Engineer to join our accomplished sales team in the Bay Area. In this role, the Sales Engineer will oversee designated business units within this client account and assume responsibility for driving profitable growth by generating new demand and maintaining existing business. This position offers significant autonomy and serves as the primary liaison between Molex and the customer, providing education regarding the value Molex delivers. The Sales Engineer will also collaborate with various internal stakeholders, including members of the Global Sales & Marketing team, Product Management, Engineering, Manufacturing, Quality, and Finance, to ensure effective support and service. 
+We don’t just sell things. We offer solutions to tomorrow’s challenges. Our sales approach begins by identifying customer demands before they become challenges. We’re committed to delivering customer success through our comprehensive expertise in software and technology.
 
+Honeywell is looking for a Solutions Architect/Pre-Sales Engineer who will provide primary technical pre- sales support to one or more assigned account representatives throughout the sales cycle with the objective of achieving monthly, quarterly and annual quota assignments. The Solutions Architect (SA) will use his/her broad subject-matter expertise to influence customers toward Honeywell Productivity Solutions & Services (PSS). The SA will support device integration, arrange testing to ensure customer acceptance, and coordinate integration activities with various internal and/or external support groups. The SA must be self-motivated with a proven track record of delivering results in software/technology sales and consulting. Additionally, the SA will consult prospective users on product capability and may provide valuable input for product development. The Honeywell SA is a “go-to” person who bridges the gap between technology, Honeywell product strategy, and integration into the customer’s environment. The selected candidate must be able to travel up to 75%.
 
+Responsibilities
+35% Engage in customer-facing activities
+10% Present technical sales briefings to customers
+10% Help coordinate engineering support
+10% Give feedback to product development needs
+35% Support the North American Sales Team from a technical
+This position is incentive plan eligible. 
 
-What You Will Do In Your Role 
+Qualifications
+YOU MUST HAVE:
 
-Become a subject matter expert on Molex capabilities and product portfolio 
-Develop and maintain strong relationships with technical and commercial influencers at the customer and internally. 
-Manage assigned portfolio to achieve revenue/profit growth targets and demand creation pipeline goals 
-Track and document these actions and results in our Customer Relationship Management tool. 
-Identify strategic business opportunities and present business cases to internal stakeholders to gain the necessary support to execute. 
-Track revenue and profitability of the assigned portfolio and ensure the business is captured accurately across all Molex systems. 
+Bachelor’s Degree in a technology or business discipline
+3+ years in customer sales support activities, analyzing customer business needs, and designing solutions to address client needs.
+ 
 
+WE VALUE:
 
-Skills & Abilities 
+Working knowledge of network connectivity
+Software development experience
+Strong project management skills
+Demonstrated ability to develop and foster strong customer relationships
+Self-motivated, hardworking, results orientated and problem solver with a positive outlook
+Strong verbal, written and presentation skills
+The ability to adapt to changing schedules and customer requirements
+Understanding of Enterprise level solutions
+ 
 
-Self-motivated and curious 
-Strong interpersonal skills to build relationships and network 
-Effective communicator face-to-face, remotely via phone/Microsoft teams, and via email 
-Organization, attention to detail, and timely follow-through 
-Time management and ability to address multiple priorities simultaneously and balance workload with minimal direct supervision 
-Ability to work through ambiguity to deliver the desired outcome 
-Ability to map complex technical requirements to capabilities and products and develop a customer engagement strategy 
-
-
-The Experience You Will Bring 
-
-Requirements: 
-
-Customer facing experience in a sales/account manager or equivalent technical sales role 
-Experience in applying a vast set of product knowledge to include a high level understanding of design and application to address customer needs 
-Experience in managing sales within a complex, multi-unit support structure to include product leaders and commercial excellence capabilities 
-
-
-What Will Put You Ahead: 
-
-Experience calling on OEMs, with a proven track record of design wins 
-Prior experience in electronics industry 
+The annual base salary range for this position is $108,000 - $135,000. Please note that this salary information serves as a general guideline. Honeywell considers various factors when extending an offer, including but not limited to the scope and responsibilities of the position, the candidate's work experience, education and training, key skills, as well as market and business considerations.
