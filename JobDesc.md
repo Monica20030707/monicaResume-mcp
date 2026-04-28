@@ -1,29 +1,30 @@
-Perforce is a community of collaborative experts, problem solvers, and possibility seekers who believe work should be both challenging and fun. We are proud to inspire creativity, foster belonging, support collaboration, and encourage wellness. At Perforce, you’ll work with and learn from some of the best and brightest in business. Before you know it, you’ll be in the middle of a rewarding career at a company headed in one direction: upward.
+Sonatype is the software supply chain management company. We're on a mission to change how the world innovates by making software development easier. From running the world's largest repository of Java open source components (Maven Central) to inventing componentized software development, and then software supply chain management, to creating the only solution that stops malicious open-source malware in its tracks, we're constantly leading the industry while helping thousands of customers manage open source every day.
 
- 
+Already used by 15 million developers, we have lofty goals for our technology to be in the hands of every engineering team. And, we need you to do that. Join us !
 
-With a global footprint spanning more than 80 countries and including over 75% of the Fortune 100, Perforce Software, Inc. is trusted by the world’s leading brands to deliver solutions for the toughest challenges. The best run DevOps teams in the world choose Perforce.
+Learn more at www.sonatype.com .
 
-Position Summary:
-Our Sales Engineering leader at Perforce is hiring a Senior Sales Engineer to join the Delphix team. We are looking for an individual who has the ability to partner with US-Northwest (WA/OR) Delphix Sales Executives to provide customers with technical information to help customers make the decision to purchase the Delphix platform. This position would help a company highlight the abilities Delphix has in securing sensitive data as well as virtualizing data and providing the ability for testing teams, developers and analysts the ability to rewind or refresh their own copies of data or refresh that data in minutes. This position provides many opportunities to work with customers showcasing the Delphix platform.
+A Sales Engineer’s role involves partnering with account managers to help prospective customers discover, learn and implement a DevSecOps approach which increases the speed, security, and quality of their software.
 
-Responsibilities:
+Bringing curiosity and commercial thinking to customer engagements, you will apply outstanding technical skills to solve customer problems with Sonatype’s complex and innovative solutions.
 
+Understanding modern application development, and how risks surface in applications today our Senior Sales Engineers work with enterprise architects, security officers, developers, and DevOps managers, to help them do things better.
 
-Day to day responsibilities include presenting and demonstrating details about the Delphix platform including adapting the demonstration based on the customers needs, providing information and documentation to customers to help them understand details of the platform, and to help customers understand the ROI. Additionally, the sales engineer will help to complete requests for information. 
-Build and sustain customer relationships throughout the sales process
-Serve as the technical lead in pre-sales engagements, from discovery through technical close
-Conduct technical deep dives and answer in-depth product/architecture questions
-Scope, manage, and conduct Workshops or Proof of Value engagements to prove the value of the Delphix Solution. 
-Ability to convey the Business Value to the customer in an articulate manner
+Who You Are And What You'll Do
 
+Take a consultative approach to understand our customer’s current software development practices and identify opportunities to improve them with Sonatype’s solutions. 
+Provide technical recommendations on how to improve their Software Supply Chain and DevSecOps practices using Sonatype solutions. 
+Deliver compelling software demonstrations, customer proof-of-value (POV) engagements, and reference architectures showcasing Sonatype's solution value. 
+Act as a resource to educate your sales colleagues on relevant product knowledge. 
+Assist in completing RFP/RFIs with sales teams and other technical resources at Sonatype. 
+Work closely with sales and technical colleagues to achieve a sales quota. 
+Communicate important customer product feedback to Sonatype product management. 
+Opportunities to attend and present at meetups and trade shows to build presence and awareness and share experiences. 
+Become a trusted DevSecOps technical advisor to customers and the community. 
+Keep on top of the latest trends in the SDLC tooling landscape. 
 
+What You Bring
 
-Requirements:
-
-
-Bachelors degree in computer information systems or computer technology related degree
-3 -5 years experience in a technology presales role. Preferred experience in software presales
-2-5 years experience in test data management, building development or test systems, or experience as developer, test engineer or data management
-Experience in data management, database administration, software development or testing. 
-AI Fluency - Level 2: Skilled Prompter (Advanced Foundation / Early Proficient) - Crafts effective, outcome‑oriented prompts, iterates to improve quality and speed, and validates AI outputs against business context and expectations. 
+Minimum of 3+ years of relevant pre-sales experience.
+Familiarity with tooling used in the SDLC, including VCS/SCMs (e.g., git, svn, etc.), modern build tools (e.g., Jenkins,GitHub Actions, AzureDevOps, etc), package managers (e.g., Maven, Gradle, Nuget, NPM, etc.), artifact repositories (e.g., Nexus), continuous delivery technologies, container technologies (e.g., Docker, Kubernetes, etc.) 
+Great Interpersonal and customer-facing skills. 
