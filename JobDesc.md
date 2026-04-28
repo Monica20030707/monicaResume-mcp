@@ -1,61 +1,29 @@
-As a part of AT&T’s B2B Sales Development Program, you’ll join a world-class team shaping the future of business connectivity. Our Sales teams are the foundation of our company – they offer millions of customers access to integrated solutions that drive connectivity. Leverage your best sales techniques, uncover leads and spark innovation in areas like fiber, wireless, cloud, IOT, cybersecurity, and more. With each deal closed, you’ll support our vision to lead the industry in connectivity, technology and community.
+Perforce is a community of collaborative experts, problem solvers, and possibility seekers who believe work should be both challenging and fun. We are proud to inspire creativity, foster belonging, support collaboration, and encourage wellness. At Perforce, you’ll work with and learn from some of the best and brightest in business. Before you know it, you’ll be in the middle of a rewarding career at a company headed in one direction: upward.
 
-What you’ll do:
+ 
 
-Learning hub: Start your journey at the iconic AT&T Discovery District in Dallas, TX, where you’ll acquire deep insights into cutting-edge sales strategies and innovative solutions.
+With a global footprint spanning more than 80 countries and including over 75% of the Fortune 100, Perforce Software, Inc. is trusted by the world’s leading brands to deliver solutions for the toughest challenges. The best run DevOps teams in the world choose Perforce.
 
-Comprehensive training: Participate in a paid, 4-month program featuring dynamic instructor-led training and immersive learning experiences designed to sharpen your sales skills and prepare for quota-bearing sales roles such as:
+Position Summary:
+Our Sales Engineering leader at Perforce is hiring a Senior Sales Engineer to join the Delphix team. We are looking for an individual who has the ability to partner with US-Northwest (WA/OR) Delphix Sales Executives to provide customers with technical information to help customers make the decision to purchase the Delphix platform. This position would help a company highlight the abilities Delphix has in securing sensitive data as well as virtualizing data and providing the ability for testing teams, developers and analysts the ability to rewind or refresh their own copies of data or refresh that data in minutes. This position provides many opportunities to work with customers showcasing the Delphix platform.
 
-Lead-to-Close Sales Responsibility: Actively hunt for new business within your assigned territory through external networks and cold calling, meeting or exceeding weekly quotas for cold calls and door knocks.
+Responsibilities:
 
-Client Engagement: Understand the communication and technology needs of small and mid-sized business customers. Present tailored growth opportunities and efficiencies to both current and potential clients.
 
-Consultative Selling: Utilize consultative selling skills to overcome objections, identify key trends, uncover customer needs, and leverage industry knowledge to find and close sales opportunities.
+Day to day responsibilities include presenting and demonstrating details about the Delphix platform including adapting the demonstration based on the customers needs, providing information and documentation to customers to help them understand details of the platform, and to help customers understand the ROI. Additionally, the sales engineer will help to complete requests for information. 
+Build and sustain customer relationships throughout the sales process
+Serve as the technical lead in pre-sales engagements, from discovery through technical close
+Conduct technical deep dives and answer in-depth product/architecture questions
+Scope, manage, and conduct Workshops or Proof of Value engagements to prove the value of the Delphix Solution. 
+Ability to convey the Business Value to the customer in an articulate manner
 
-Proposal Development: Present products and services that can benefit customers.
 
-Technology utilization: Leverage industry-leading technology to deliver exceptional results and drive customer success in your assigned market.
 
-What you’ll need:
+Requirements:
 
-Degree requirements: Bachelor’s Degree required; must have graduated within the last 3 years.
 
-Experience: sales-related experience / degree preferred
-
-Valid driver’s license: Valid driver’s license required due to the nature of the role.
-
-Relocation flexibility: Willingness and ability to relocate within the U.S. as needed.
-
-What you’ll bring: 
-
-Career ambition: Strong desire to launch and grow a successful career in sales.
-
-Sales experience: Preferred experience in cold calling and a Demonstrated ability to meet and/or exceed assigned sales targets.
-
-Hunter mindset: A relentless drive to seek out leads and close deals, coupled with resiliency and perseverance.
-
-Networking and negotiation skills: Strong ability to network and negotiate effectively.
-
-Program Highlights:
-
-Our best-in-class program is designed to set you up for success—and reward your hard work every step of the way. Here’s what you can look forward to:
-
-Monthly Stipend: Receive a $1,000 monthly stipend throughout the 4-month program to support you as you focus on learning and growth.
-
-Graduation Bonus: Celebrate your achievement with a $2,000 bonus upon successful program completion.
-
-Relocation Bonuses: Potential relocation bonuses may be available in certain circumstances to assist with your move.
-
-Placement & Career Opportunities: Upon program completion, you’ll be placed in an outside sales role within AT&T Business, aligned with your geographic preference whenever possible. Final placement depends on market availability.
-
-Compensation:
-
-In Program Months 1 & 2: Earn an annualized base salary of $57,000 during foundational training.
-
-In Program Months 3 & 4: Transition to a sales quota and commission structure with a base salary of $48,300 plus the opportunity to earn up to $17,000 annually in commissions, bringing total compensation for these months to $65,300.
-
-Post Program:
-
-You will transition to the Western Region (California, Colorado, Washington, Oregon, Arizona) joining our expanding AT&T Territory sales team and unlocking exceptional earning potential! Please note: region is guaranteed, city is subject to business needs.
-
-Our compensation package features a competitive base salary plus a performance-based commission structure. At 100% of your sales target, annual earnings typically range from $93,300 to $117,500. Commission earnings are capped at 500% of target, allowing for an annual earning potential of $225,000 or more for high achievers.
+Bachelors degree in computer information systems or computer technology related degree
+3 -5 years experience in a technology presales role. Preferred experience in software presales
+2-5 years experience in test data management, building development or test systems, or experience as developer, test engineer or data management
+Experience in data management, database administration, software development or testing. 
+AI Fluency - Level 2: Skilled Prompter (Advanced Foundation / Early Proficient) - Crafts effective, outcome‑oriented prompts, iterates to improve quality and speed, and validates AI outputs against business context and expectations. 
