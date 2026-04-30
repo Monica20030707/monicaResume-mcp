@@ -1,6 +1,6 @@
 name: "Stock Ratio Tracker"
 dates: "N/A"
-link: "https://github.com/Monica20030707/tradingDashboard-UI"
+link: "https://github.com/Monica20030707/Trading-Dashboard_UI"
 type: "personal"
 summary: >-
   A real-time trading dashboard that calculates and visualizes stock price ratios using JPMorgan Chase's Perspective library.

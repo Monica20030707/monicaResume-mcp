@@ -1,0 +1,50 @@
+name: "Resume Automation MCP"
+dates: "N/A"
+link: "https://github.com/Monica20030707/Tex_OrangeLeaf-mcp"
+type: "personal"
+summary: >-
+  An automated document generation system that programmatically produces tailored resumes and cover letters. 
+  It utilizes a versioned YAML data store and LLM-driven selection logic to inject relevant 
+  content into LaTeX templates, with automated compilation via GitHub Actions.
+
+tech_stack:
+  languages:
+    - "LaTeX"
+    - "YAML"
+    - "Markdown"
+  infrastructure:
+    - "GitHub Actions"
+    - "Git"
+  tools:
+    - "Gemini (LLM)"
+
+contributions:
+  - "Designed a decoupled architecture that separates professional data (YAML) from the presentation layer (LaTeX)."
+  - "Developed a content-matching algorithm that programmatically selects and formats the most relevant experiences based on job description analysis."
+  - "Built a CI/CD pipeline using GitHub Actions to automate LaTeX-to-PDF compilation and artifact management."
+
+bullets:
+  - "Developed an automated pipeline that generates tailored resumes and cover letters from a versioned YAML data store using LLM-driven content selection."
+  - "Engineered an automated CI/CD workflow using GitHub Actions to compile LaTeX source into production-ready PDFs upon every push."
+  - "Created a modular data-injection system that dynamically pivots resume content (technical, impact, leadership) to match specific role requirements."
+
+bullet_variants:
+  technical:
+    - "Architected a document generation system using LaTeX and YAML, implementing a strict separation of concerns between data storage and rendering."
+    - "Configured GitHub Actions workflows to automate LaTeX compilation and artifact management, ensuring consistent, environment-independent builds."
+  impact:
+    - "Reduced manual resume tailoring time by 90% by automating the data selection and document formatting process through an LLM-driven pipeline."
+    - "Established a versioned 'Source of Truth' for professional history, enabling instant iteration and consistent messaging across diverse job applications."
+  leadership:
+    - "Defined the technical architecture for automated resume generation, establishing standards for programmatic data management and document workflows."
+
+keywords:
+  - "Automation"
+  - "LaTeX"
+  - "CI/CD"
+  - "GitHub Actions"
+  - "YAML"
+  - "LLM"
+  - "Prompt Engineering"
+  - "Resume Tailoring"
+  - "Document Generation"

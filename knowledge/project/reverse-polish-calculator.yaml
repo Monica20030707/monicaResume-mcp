@@ -1,6 +1,6 @@
 name: "Reverse-Polish Calculator"
 dates: "N/A"
-link: "https://github.com/Monica20030707/reverse-Polish_calculator"
+link: "https://github.com/Monica20030707/ANTLR_ReversePolishCalculator"
 type: "academic"
 summary: >-
   A compiler-focused calculator that evaluates reverse-polish expressions using ASTs and the Visitor pattern.

@@ -1,30 +1,31 @@
-Sonatype is the software supply chain management company. We're on a mission to change how the world innovates by making software development easier. From running the world's largest repository of Java open source components (Maven Central) to inventing componentized software development, and then software supply chain management, to creating the only solution that stops malicious open-source malware in its tracks, we're constantly leading the industry while helping thousands of customers manage open source every day.
+About the job
+About GlossGenius
 
-Already used by 15 million developers, we have lofty goals for our technology to be in the hands of every engineering team. And, we need you to do that. Join us !
+GlossGenius is building an ecosystem enabling entrepreneurs to succeed. We empower small business owners to focus on being creators, not admins, by offering a range of business management tools including booking and scheduling, marketing, analytics, payment processing and much more.
 
-Learn more at www.sonatype.com .
+Over 100,000 small business owners have chosen to rely on GlossGenius every day to run their entire set of business operations. Joining its powerful, intuitive platform with its vibrant, distinguished brand, GlossGenius is the ideal combination of a fintech, SMB software, and consumer company all in one.
 
-A Sales Engineer’s role involves partnering with account managers to help prospective customers discover, learn and implement a DevSecOps approach which increases the speed, security, and quality of their software.
+About the Role
 
-Bringing curiosity and commercial thinking to customer engagements, you will apply outstanding technical skills to solve customer problems with Sonatype’s complex and innovative solutions.
+As an Account Executive, you’ll be at the forefront of our outbound sales efforts, focused on prospecting qualified leads and taking a consultative approach to showcasing why GlossGenius is the best choice. You will focus on selling to teams with 2+ service providers and ensuring that they are set up for success on the platform. 
 
-Understanding modern application development, and how risks surface in applications today our Senior Sales Engineers work with enterprise architects, security officers, developers, and DevOps managers, to help them do things better.
+You will report to the Sales Manager. This role is a remote position and can be based anywhere in the continental United States. For candidates based in the NYC area, we are operating in a hybrid environment.
 
-Who You Are And What You'll Do
+What You’ll Do
 
-Take a consultative approach to understand our customer’s current software development practices and identify opportunities to improve them with Sonatype’s solutions. 
-Provide technical recommendations on how to improve their Software Supply Chain and DevSecOps practices using Sonatype solutions. 
-Deliver compelling software demonstrations, customer proof-of-value (POV) engagements, and reference architectures showcasing Sonatype's solution value. 
-Act as a resource to educate your sales colleagues on relevant product knowledge. 
-Assist in completing RFP/RFIs with sales teams and other technical resources at Sonatype. 
-Work closely with sales and technical colleagues to achieve a sales quota. 
-Communicate important customer product feedback to Sonatype product management. 
-Opportunities to attend and present at meetups and trade shows to build presence and awareness and share experiences. 
-Become a trusted DevSecOps technical advisor to customers and the community. 
-Keep on top of the latest trends in the SDLC tooling landscape. 
+Manage the full sales cycle from outbound prospecting and qualification to closing deals 
+Use AI tools to research prospects, personalize outreach at scale, and streamline administrative tasks — operating with the efficiency of someone with far more experience by building AI into how you sell from day one
+Master diverse buyer engagement by quickly identifying critical pain points and tailoring your messaging to a broad range of stakeholders, from hands-on business owners to experienced operators
+Onboard new customers to the GlossGenius platform, setting them up for long-term success
+Champion customer insights by communicating & escalating feedback internally to cross functional business partners across marketing, product, product marketing, and ops
+Consistently exceed ambitious sales targets and KPIs, deliver exceptional value to prospects, and contribute to a high-performing sales culture
+What We’re Looking For
 
-What You Bring
-
-Minimum of 3+ years of relevant pre-sales experience.
-Familiarity with tooling used in the SDLC, including VCS/SCMs (e.g., git, svn, etc.), modern build tools (e.g., Jenkins,GitHub Actions, AzureDevOps, etc), package managers (e.g., Maven, Gradle, Nuget, NPM, etc.), artifact repositories (e.g., Nexus), continuous delivery technologies, container technologies (e.g., Docker, Kubernetes, etc.) 
-Great Interpersonal and customer-facing skills. 
+Bachelors Degree from an accredited institution
+0-2 years of sales experience
+Curiosity about and comfort with AI tools as part of your daily workflow — we're looking for sellers who see AI as a way to prospect smarter, craft better messaging, and focus their energy on the conversations that actually move deals forward
+Demonstrated ability to consistently meet or exceed goals (highlighted through competitive achievements, academic performance, collegiate athletics, or quantifiable results from projects/internships)
+A positive attitude, resilience, and a passion for continuous learning
+Excellent time-management skills with the ability to prioritize tasks appropriately
+An enthusiasm for cold-calling prospects and a willingness to explain GlossGenius's value propositions to business owners
+Metrics-driven approach with the ability to understand and track key performance indicator
