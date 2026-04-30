@@ -1,30 +1,29 @@
-The problems we solve demand creativity, rigor, and collaboration. The work is challenging, but deeply meaningful because every improvement we make has the potential to change a life.
+Inside Sales Engineer
 
-If you’re ready to contribute to something bigger than yourself and help transform the future of healthcare, you’ll find your purpose here.
+Durkee America Inc.Bellevue, WAFull-time | OnsiteSalary: $70,000–$75,000 per year
 
-Job Description
-Primary Function of Position
-The U.S. ION® Endoluminal Territory Associate reports to the U.S. ION® Endoluminal Program Manager (EPM). The ION® Endoluminal Territory Associate plays a critical role in the early adoption of the Ion® platform in expanding access to minimally invasive care for lung biopsy. This individual will be primarily focused on supporting early sustainable users and programs and the development of KOL’s and programs that can highlight the early clinical, economic and strategic value of Intuitive.
+Durkee America is a global leader in the design and manufacture of high-performance fabric air dispersion systems. Our Durkeesox product line is at the forefront of the HVAC industry, providing sustainable, efficient, and aesthetically superior alternatives to traditional metal ducting. To learn more about our products and solutions, please visit .
 
-Essential Job Duties
+Position Summary
 
-Provide procedural support to new users to promote safety and effective progression through their learning curves
-Support training activities to include in-services, training labs, attend first case series and development of teams and programs
-Become a clinical expert in the pulmonary oncology space
-Work alongside ESR’s to collaborate with senior hospital staff and key physicians in the development and execution of a plan to effectively integrate Ion® at new customer sites, ensuring ongoing commitment to and utilization of the system
-Facilitate critical user and procedural data capture to create effective QTI and benchmarking metrics
-Collaboration with daVinci local sales teams to ensure consistent alignment and communication with internal and external stakeholders
-Responsibly manage administrative tasks, SFDC management, submission of expense reports, etc.
+We are seeking an Inside Sales Engineer to join our Bellevue office. This role works closely with engineers, distributors, architects, manufacturer representatives, contractors, and internal production teams to support project design, pricing, submittals, and customer communication.
+
+The ideal candidate is detail-oriented, comfortable working with technical drawings, and able to communicate clearly with both customers and internal teams. Training will be provided for the right candidate.
+
+Key Responsibilities
+
+The Inside Sales Engineer will be trained to perform the following duties:
+
+Review mechanical HVAC drawings, schedules, specifications, and project applications.
+Work with engineers, clients, contractors, and sales managers throughout different stages of commercial and industrial building projects.
+Prepare project quotations and submittal packages.
+Work closely with the manufacturing team to coordinate project requirements, design details, order processing, delivery timelines, and after-sales support.
+Provide production support by coordinating with and guiding sewing staff to ensure products are completed accurately and in accordance with project drawings and specifications.
 Qualifications
-Required Skills and Experience
 
-Bachelor’s degree required
-A minimum of 1 year sales experience, leadership experience or clinical experience
-Demonstrated ability to manage complexity and work in an environment of change
-Effective communication and interpersonal skills
-Ability to excel in a high-energy, fast-paced environment
-Ability to travel up to 60% and located near a major airline hub
-Knowledge of the Pulmonology/Bronchoscopy space environment is a plus 
-Required Education and Training
-
-Bachelor’s degree required
+Degree in engineering or equivalent technical background.
+Strong written and verbal communication skills.
+Strong attention to detail.
+Ability to read and understand technical drawings and specifications.
+1–3 years of experience in inside sales, technical support, or a related field preferred.
+Must be authorized to work in the United States.
