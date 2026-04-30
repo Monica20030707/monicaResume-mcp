@@ -1,4 +1,4 @@
-# Tex_OrangeLeaf-mcp: Automated Resume Generation Pipeline
+# OrangeLeaf-mcp: Automated Resume Generation Pipeline
 
 This is a system for programmatically generating tailored resumes and cover letters. Instead of manual document editing, this project treats professional experience as a versioned data source and uses a CI/CD pipeline to output formatted PDFs.
 

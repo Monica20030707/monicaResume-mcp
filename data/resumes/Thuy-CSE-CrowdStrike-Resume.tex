@@ -1,0 +1,115 @@
+\documentclass[11pt]{article}       % set main text size
+\usepackage[letterpaper,            % set paper size to letterpaper. change to a4paper for resumes outside of North America
+top=0.5in,                          % specify top page margin
+bottom=0.5in,                       % specify bottom page margin
+left=0.5in,                         % specify left page margin
+right=0.5in]{geometry}              % specify right page margin
+                       
+\usepackage{XCharter}               % set font
+\usepackage[T1]{fontenc}            % output encoding
+\usepackage[utf8]{inputenc}         % input encoding
+\usepackage{enumitem}               % enable lists for bullet points: itemize and \item
+\usepackage[colorlinks=true, linkcolor=black, urlcolor=blue]{hyperref}    % format hyperlinks
+\usepackage{titlesec}               % enable section title customization
+\raggedright                        % disable text justification
+\pagestyle{empty}                   % disable page numbering
+\usepackage{comment}                % block comment
+
+% ensure PDF output will be all-Unicode and machine-readable
+\input{glyphtounicode}
+\pdfgentounicode=1
+
+% format section headings: bolding, size, white space above and below
+\titleformat{\section}{\bfseries\large}{}{0pt}{}[\vspace{1pt}\titlerule\vspace{-6.5pt}]
+
+% format bullet points: size, white space above and below, white space between bullets
+\renewcommand\labelitemi{$\vcenter{\hbox{\small$\bullet$}}$}
+\setlist[itemize]{itemsep=-2pt, leftmargin=12pt, topsep=6pt} %%% Test various topsep values to fix vertical spacing errors
+
+% resume starts here
+\begin{document}
+
+% name
+\centerline{\Huge Thuy Nguyen}
+
+\vspace{5pt}
+
+% contact information
+\centerline{\href{mailto:thuybohr@gmail.com}{thuybohr@gmail.com} | 206-423-9827 |
+\href{https://www.linkedin.com/in/thuy-nguyen-46505121b/}{linkedin.com/in/thuy-nguyen-46505121b}}
+
+\centerline{\href{https://github.com/Monica20030707}{github.com/Monica20030707} | 
+\href{https://monica20030707.github.io/}{monica20030707.github.io/}} 
+
+\vspace{-9pt}
+
+% education section
+\section*{Education}
+\textbf{Bellevue College} -- BS in Computer Science -- 3.6 GPA \hfill September 2021 -- June 2025\\
+\vspace{-9pt}
+\begin{itemize}
+  \item Award: Amazon Scholarship, Activities: Social Media Manager of Computer Science Club
+\end{itemize}
+
+\vspace{-18.5pt}
+
+% experience section
+\section*{Experience}
+
+\textbf{Sales Specialist,} {Verizon} -- Covington, WA \hfill November 2025 -- Current \\
+\vspace{-9pt}
+\begin{itemize}
+  \item De-escalated complex technical issues by explaining network topology, bandwidth optimization, and signal propagation to non-technical customers to drive sales.
+  \item Consistently surpassed monthly sales quotas by achieving 130\% of targets through technical product expertise and consultative solution-selling.
+  \item Conducted hardware diagnostics and firmware validation on mobile devices and networking equipment to ensure optimal performance and security readiness.
+\end{itemize}
+
+\textbf{Associate Full Stack Developer,} {Forge Tek Studios} -- Remote \hfill August 2025 -- Current 
+\vspace{-9pt}
+\begin{itemize}
+  \item Delivered a production-ready application that handled high traffic volumes with minimal infrastructure costs using serverless technologies on cloud platforms.
+  \item Architected a modular React frontend with a serverless backend, leveraging custom hooks and context for efficient state management and data integrity.
+  \item Owned the end-to-end development and deployment lifecycle, ensuring high standards for code quality, performance, and application security.
+\end{itemize}
+
+\textbf{Teaching Assistant,} {Bellevue College} -- Bellevue, WA \hfill April 2024 -- December 2024 \\
+\vspace{-9pt}
+\begin{itemize}
+  \item Provided in-depth technical coaching on relational schema design, query optimization, and Java unit testing patterns to a classroom of 40+ students.
+  \item Managed group labs and office hours, adapting technical communication styles to explain complex CS concepts to diverse audiences.
+  \item Mentored students on software engineering principles like documentation and testing as foundational security and stability practices.
+\end{itemize}
+
+\vspace{-18.5pt}
+
+% projects section
+\section*{Projects}
+
+\textbf{Automated Document Generation Pipeline}{ - Python, YAML, GitHub Actions} \hfill \href{https://github.com/Monica20030707/Tex_OrangeLeaf-mcp}{github.com} \\
+\vspace{-9pt}
+\begin{itemize}
+  \item Architected an automated pipeline using Python and YAML to dynamically tailor technical documentation based on targeted requirement analysis.
+  \item Configured CI/CD workflows with GitHub Actions to automate build processes and artifact management, ensuring consistent, environment-independent deployments.
+  \item Integrated LLM-driven logic to perform feature extraction and content mapping, reducing manual tailoring time by 90\%.
+\end{itemize}
+
+\textbf{Traffic Violation Detection System}{ - AWS, JavaScript, Event-Driven Architecture} \hfill \href{https://github.com/Monica20030707/AWS_rekonigition-N-read-database}{github.com} \\
+\vspace{-9pt}
+\begin{itemize}
+  \item Architected an event-driven serverless pipeline on AWS, integrating Rekognition for image analysis and SQS for decoupled, resilient message processing.
+  \item Implemented pattern matching with Regex to filter and route geographic data, triggering automated SES-based notification workflows.
+  \item Leveraged S3, EventBridge, and Lambda to build a scalable, cost-efficient solution for real-time data ingestion and processing.
+\end{itemize}
+
+\vspace{-18.5pt}
+
+
+% skills section
+\section*{Skills}
+\textbf{Languages:} Python, JavaScript, Java, SQL, PowerShell, Bash, TypeScript, LaTeX, YAML, HTML/CSS\\
+\textbf{Skills:} Pre-sales Engineering, Technical Troubleshooting, Cloud Architecture (AWS), CI/CD, Consulting, RESTful APIs\\
+\textbf{Tools:} Windows/macOS/Linux, GitHub Actions, Docker, React, Node.js, CRM, AWS Rekognition, SQS, EventBridge\\
+
+\vspace{-6.5pt}
+
+\end{document}

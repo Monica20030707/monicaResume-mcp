@@ -1,31 +1,43 @@
-About the job
-About GlossGenius
+About the Role:
 
-GlossGenius is building an ecosystem enabling entrepreneurs to succeed. We empower small business owners to focus on being creators, not admins, by offering a range of business management tools including booking and scheduling, marketing, analytics, payment processing and much more.
+CrowdStrike is seeking a Corporate Sales Engineer who is passionate about cybersecurity and ready to revolutionize the industry. In this role, you will master the art of articulating how traditional security solutions operate, identifying their limitations, and demonstrating CrowdStrike's next-generation endpoint technology as the solution to these challenges. Your expertise will help customers understand not just what's possible, but what's essential in modern cybersecurity.
 
-Over 100,000 small business owners have chosen to rely on GlossGenius every day to run their entire set of business operations. Joining its powerful, intuitive platform with its vibrant, distinguished brand, GlossGenius is the ideal combination of a fintech, SMB software, and consumer company all in one.
+Our Corporate Sales Engineers are critical team members serving our SMB and Mid-Market segments, focusing on both pre-sales and post-sales activities. Working closely with Account Executives to secure new business and Account Managers to grow existing relationships, you'll be instrumental in CrowdStrike's continued success. Based on your skills, experience, and performance during our interview process, we'll align you with the segment where you'll have the greatest impact.
 
-About the Role
+This position offers the flexibility of 100% remote work for candidates located within the United States.
 
-As an Account Executive, you’ll be at the forefront of our outbound sales efforts, focused on prospecting qualified leads and taking a consultative approach to showcasing why GlossGenius is the best choice. You will focus on selling to teams with 2+ service providers and ensuring that they are set up for success on the platform. 
+What You’ll Do:
 
-You will report to the Sales Manager. This role is a remote position and can be based anywhere in the continental United States. For candidates based in the NYC area, we are operating in a hybrid environment.
+Be the expert in endpoint security space – eg. AV, EDR, incident response, forensics, SIEM, firewall, HIPS/IDS, etc.
 
-What You’ll Do
+Comprehensive understanding of Windows, macOS, and Linux operating systems
 
-Manage the full sales cycle from outbound prospecting and qualification to closing deals 
-Use AI tools to research prospects, personalize outreach at scale, and streamline administrative tasks — operating with the efficiency of someone with far more experience by building AI into how you sell from day one
-Master diverse buyer engagement by quickly identifying critical pain points and tailoring your messaging to a broad range of stakeholders, from hands-on business owners to experienced operators
-Onboard new customers to the GlossGenius platform, setting them up for long-term success
-Champion customer insights by communicating & escalating feedback internally to cross functional business partners across marketing, product, product marketing, and ops
-Consistently exceed ambitious sales targets and KPIs, deliver exceptional value to prospects, and contribute to a high-performing sales culture
-What We’re Looking For
+Articulate basic security problems to a set of audiences
 
-Bachelors Degree from an accredited institution
-0-2 years of sales experience
-Curiosity about and comfort with AI tools as part of your daily workflow — we're looking for sellers who see AI as a way to prospect smarter, craft better messaging, and focus their energy on the conversations that actually move deals forward
-Demonstrated ability to consistently meet or exceed goals (highlighted through competitive achievements, academic performance, collegiate athletics, or quantifiable results from projects/internships)
-A positive attitude, resilience, and a passion for continuous learning
-Excellent time-management skills with the ability to prioritize tasks appropriately
-An enthusiasm for cold-calling prospects and a willingness to explain GlossGenius's value propositions to business owners
-Metrics-driven approach with the ability to understand and track key performance indicator
+Strong self-starter with the ability to work independently
+
+Work collaboratively with Sales, Marketing, Support, and Engineering; the Sales Engineer should be the technical bridge between CrowdStrike and prospects/customers
+
+Conduct demonstrations and proof of values with the ability to present technical concepts to a variety of external audiences up to C-level executives
+
+Effective time management and organizational skills a must
+
+What You’ll Need:
+
+Bachelor’s degree in technical studies with 1+ years of relevant experience in IT, security, system engineering/administration, or sales engineering
+
+Ability to travel minimally as required (potentially once a year for annual Sales Kickoff Event)
+
+Knowledge of malware, threat intelligence, and/or sandbox analysis.
+
+Ability to write and modify basic scripts. Preferred languages are PowerShell, Python, and Bash
+
+Experience with virtualization/VDI technologies
+
+Experience with large scale cloud platforms such as AWS, Azure, GCP, etc.
+
+Proficient understanding of Active Directory
+
+Customer facing experience and being comfortable leading presentations
+
+Certifications such as CEH, CISSP, OSCP, and SANS or participating in security events such as capture the flag is a bonus
