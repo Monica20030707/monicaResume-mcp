@@ -1,43 +1,23 @@
-About the Role:
+Here at Appian, we’re passionate about technology. We love making it, and we love using it. Joining Appian CIO will provide you with the opportunity to learn in an environment that values cross-functional collaboration and is committed to personal and professional growth. We want to revolutionize the way people work, and in doing so, we develop the Appian platform to be simple so our customers can thrive.
 
-CrowdStrike is seeking a Corporate Sales Engineer who is passionate about cybersecurity and ready to revolutionize the industry. In this role, you will master the art of articulating how traditional security solutions operate, identifying their limitations, and demonstrating CrowdStrike's next-generation endpoint technology as the solution to these challenges. Your expertise will help customers understand not just what's possible, but what's essential in modern cybersecurity.
+Our Solution Engineering team is obsessed with serving our customers. We are looking for an Associate Solution Engineer, a technical “Jack/Jill of All Trades” that loves figuring out “how things work.” As an Associate Solution Engineer, you’ll become an expert on the inner workings of the Appian platform and gain full-stack experience that will be valuable for any technical career. You’ll have the opportunity to work with every layer of the Appian platform; from data analysis to creative problem solving and you'll tackle the most challenging technical problems while mitigating all of our customers’ concerns. This role specializes in technical customer support for our clients that use Appian and while it is a very technical role, this is not a traditional software engineering position.
 
-Our Corporate Sales Engineers are critical team members serving our SMB and Mid-Market segments, focusing on both pre-sales and post-sales activities. Working closely with Account Executives to secure new business and Account Managers to grow existing relationships, you'll be instrumental in CrowdStrike's continued success. Based on your skills, experience, and performance during our interview process, we'll align you with the segment where you'll have the greatest impact.
+This role is based at our Headquarters in McLean, Virginia. Appian was built on a culture of in-person collaboration, which we believe is a key driver of our mission to be the best. Employees hired for this position are expected to be in the office 5 days a week to foster that culture and ensure we continue to thrive through shared ideas and teamwork. We believe being in the office provides more opportunities to come together and celebrate working with the exceptional people across Appian.
 
-This position offers the flexibility of 100% remote work for candidates located within the United States.
+To Be Successful In This Role, You Need
 
-What You’ll Do:
+To be excellent at problem solving and find creative solutions to some of our customer’s most complex technical concerns 
+To provide exceptional, world-class support (verbal/written) to our customers and our highest stakeholders around the globe 
+To tackle technical challenges and communicate your work across a variety of departments 
+To have a strong interest in software development (but not wanting to focus on coding all day) 
+To have the desire to work closely with our customers to help lead continual improvement in the availability, performance, functionality and security of our platform 
+To have an interest in data analytics 
+To have an interest or experience in programming/scripting languages(e.g. Java, Perl, Ruby, C#, PHP) 
+To have an interest in or experience with RDBMS platforms (e.g. MySql, Oracle, SQL Server) 
+To have an interest in or experience with systems administration (e.g. Linux, Windows) 
 
-Be the expert in endpoint security space – eg. AV, EDR, incident response, forensics, SIEM, firewall, HIPS/IDS, etc.
+Basic Qualifications
 
-Comprehensive understanding of Windows, macOS, and Linux operating systems
-
-Articulate basic security problems to a set of audiences
-
-Strong self-starter with the ability to work independently
-
-Work collaboratively with Sales, Marketing, Support, and Engineering; the Sales Engineer should be the technical bridge between CrowdStrike and prospects/customers
-
-Conduct demonstrations and proof of values with the ability to present technical concepts to a variety of external audiences up to C-level executives
-
-Effective time management and organizational skills a must
-
-What You’ll Need:
-
-Bachelor’s degree in technical studies with 1+ years of relevant experience in IT, security, system engineering/administration, or sales engineering
-
-Ability to travel minimally as required (potentially once a year for annual Sales Kickoff Event)
-
-Knowledge of malware, threat intelligence, and/or sandbox analysis.
-
-Ability to write and modify basic scripts. Preferred languages are PowerShell, Python, and Bash
-
-Experience with virtualization/VDI technologies
-
-Experience with large scale cloud platforms such as AWS, Azure, GCP, etc.
-
-Proficient understanding of Active Directory
-
-Customer facing experience and being comfortable leading presentations
-
-Certifications such as CEH, CISSP, OSCP, and SANS or participating in security events such as capture the flag is a bonus
+Bachelor's degree in any an Engineering discipline, Information Technology, or similar degree program 
+Provide after business hours support for proper handoff with our other regions as needed 
+Flexibility to provide after hours weekend support for up to 14 weeks per year - Up to 1 quarter per year working this adjusted schedule may be required (Sunday-Thursday or Tuesday-Saturday) 
