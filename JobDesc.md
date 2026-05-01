@@ -1,29 +1,22 @@
-Inside Sales Engineer
+As a modern technology company, our Slalom Technologists are disrupting the market and bringing to life the art of the possible for our clients. We have a passion for building strategies, solutions, and creative products to help our clients solve their most complex and interesting business problems. We surround our technologists with interesting challenges, innovative minds, and emerging technologies.
 
-Durkee America Inc.Bellevue, WAFull-time | OnsiteSalary: $70,000–$75,000 per year
+As part of Slalom’s Microsoft Cloud Team, you’ll lead within the Azure Infrastructure practice and partner across our six Microsoft solution areas (Microsoft 365, Security, Azure Infrastructure, Digital & App Innovation, Data & AI, and Business Applications). You’ll collaborate closely with Delivery, Sales, Talent Acquisition, and our Microsoft field/partner teams to create client impact while growing a healthy, high‑performing practice community.
 
-Durkee America is a global leader in the design and manufacture of high-performance fabric air dispersion systems. Our Durkeesox product line is at the forefront of the HVAC industry, providing sustainable, efficient, and aesthetically superior alternatives to traditional metal ducting. To learn more about our products and solutions, please visit .
+Title: Consultant or Senior Consultant
 
-Position Summary
+What You’ll Do
 
-We are seeking an Inside Sales Engineer to join our Bellevue office. This role works closely with engineers, distributors, architects, manufacturer representatives, contractors, and internal production teams to support project design, pricing, submittals, and customer communication.
+ Conduct customer workshops to identify the business processes for digital transformation and the accompanying requirements
+ Create data intake forms with Power Apps (Model Driven, Canvas or Power Pages Portal) with attendant workflows and validation
+ Build AI-centric solutions with AI Builder, Copilot Studio, and Azure Foundry
+ Integrate data from other sources with Power Automate and other tools
+ Persist data using Dataverse, SharePoint, SQL or other databases
 
-The ideal candidate is detail-oriented, comfortable working with technical drawings, and able to communicate clearly with both customers and internal teams. Training will be provided for the right candidate.
+What You’ll Bring
 
-Key Responsibilities
-
-The Inside Sales Engineer will be trained to perform the following duties:
-
-Review mechanical HVAC drawings, schedules, specifications, and project applications.
-Work with engineers, clients, contractors, and sales managers throughout different stages of commercial and industrial building projects.
-Prepare project quotations and submittal packages.
-Work closely with the manufacturing team to coordinate project requirements, design details, order processing, delivery timelines, and after-sales support.
-Provide production support by coordinating with and guiding sewing staff to ensure products are completed accurately and in accordance with project drawings and specifications.
-Qualifications
-
-Degree in engineering or equivalent technical background.
-Strong written and verbal communication skills.
-Strong attention to detail.
-Ability to read and understand technical drawings and specifications.
-1–3 years of experience in inside sales, technical support, or a related field preferred.
-Must be authorized to work in the United States.
+ Experience with Copilot Studio is a plus
+ Familiar with custom code extension for Power Platform is a plus (e.g. PCF, Client-side Scripting, .Net Plug-ins, Custom connectors)
+ Familiarity with agile software delivery methodologies such as Scrum
+ Excellent client-facing written and oral communications skills
+ Strong business acumen
+ Self-driven individual with a bias for action
