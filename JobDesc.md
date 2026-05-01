@@ -1,36 +1,27 @@
+The Associate Sales Representative position is responsible for revenue generation in an assigned territory, product category or in assigned accounts. This includes identifying and closing new business. This position will sell a diverse line of medical diagnostic products to Hospitals, Dr. Offices and Clinics. The Associate Sales Representatives (ASR) will demonstrate Baxter's market strength in vital signs, cardiology, connectivity, physical assessment, and core blood pressure categories. Once engaged with a customer or prospect, the ASR will optimally understand customer business issues by using excellent listening and interpersonal skills, demonstrate how these issues can be solved and the outstanding benefits of solving them with Baxter's products and services.
 
-About The Role
+Home Base/Territory- This is a home-based opportunity with someone living in the Greater Seattle or Greater Portland area.
+Travel- Up to 20% travel may be required in this position, including overnight travel.
 
-As a member of our Sales team, your commitment to excellence and passion for helping people succeed are the foundations for your career growth at PitchBook! With our customers’ success comes our success, and we are dedicated to providing them with the highest level of service and expertise.
+What You'll Be Doing
 
-At the core of our business is our commitment to understanding our clients' needs, challenges and opportunities. As a member of our team, you'll be at the forefront of emerging trends and technologies by working closely with clients to position our products and services in a way that helps them achieve their goals. You will enjoy access to extensive training and development opportunities, including ongoing coaching and mentorship from experienced sales professionals. We are committed to helping you achieve your personal and professional goals, and we can’t wait for you to join the team!
+Call on current and prospective Acute and Primary Care customers in your assigned territory.
+Partner with account executives, area vice presidents, clinical consultants, sales engineers, solution architects, corporate and strategic accounts, and product management to offer customers end to end solutions.
+Sell the complete line of Welch Allyn products and systems, mostly via Phone, Email and Virtually with call points in, but not limited to, C-suite, nursing administration, cardiology, radiology, respiratory care, medical/surgical floors, emergency departments, clinical informatics, IT, biomed and materials management.
+Responsible for full sales cycle execution, including opportunity prioritization, accurate forecasting, qualification of smaller dollar sales opportunities and or in small hospitals and primary care locations.
+This role will include extensive prospecting, lead qualification and opportunity generation. This role may also schedule demos for Baxter's Account Executives.
+Apply business intelligence and sales analysis tools and reports to lead and improve opportunities.
+Complete all administrative aspects of the role including extensive work and updates in Salesforce.com.
+Other duties may be assigned.
 
-PitchBook's Sales Team drives growth through new enterprise client acquisition. Our Market Development Representatives are the first point of contact for most of our new business opportunities and begin the full-funnel sales cycle that culminates in contract execution facilitated by our business development representatives. This is a highly visible team that makes a direct and significant impact on our business by working closely with clients to position our products and services in a way that helps them achieve their goals.
+What You'll Bring
 
-PitchBook's Market Development Representatives work diligently to engage and convert inbound leads into new sales opportunities for our SMB Sales Team. MDRs contribute to the delivery of overall sales goals by engaging warm leads through consistent outreach by way of phone, email, and LinkedIn to book product demos.
+Bachelor’s Degree or equivalent experience.
+Prior sales experience preferred but not required, preferable selling medical and/or capital equipment.
+A solid understanding of Windows- based programs including Word and Excel skills as well as CRM or Salesforce.com experience is strongly preferred. Strong organizational and interpersonal skills, the ability to work well independently.
+Ability to understand the needs of, and influence, personnel ranging from nurses to C-level decision makers.
+Strong analytical skills to optimally supervise sales activity, develop sales plans, understand local market and competitive trends, and complete the analysis of sales deals.
+Possess strong written and verbal communication skills.
+The ability to structure sales deals, collaborate with team members, & reach pivotal steps in the sales cycle.
 
-Primary Job Responsibilities
-
-Achieve outlined goals and key performance indicators while upholding values and providing an excellent experience for prospective customers 
-Book qualified product demonstrations for our sales team 
-Connect with leads through written and verbal communication 
-Utilize tool stack as instructed to work through lead pipeline and maintain accurate records 
-Act as a consultant and take the time to understand your prospects needs and business priorities to address appropriately 
-Conduct thorough discovery both pre-call and during call 
-Complete company and team assigned training 
-Support the vision and values of the company through role modeling and encouraging desired behaviors 
-Participate in various company initiatives and projects as requested 
-
-Skills And Qualifications
-
-Bachelor’s degree 
-Prior sales internship experience preferred but not necessary 
-Prior experience with tools such as Salesforce, Outreach, and LeanData/BookIt preferred but not necessary 
-Demonstrate fearless curiosity and operate with a strong sense of urgency to deliver results 
-Maintain prioritization and organization based on team strategy and goals 
-Possess strong negotiation skills to effectively book inbound leads 
-Excellent verbal and written communication skills 
-A self-starter with a competitive spirit but also team oriented 
-Interested in the capital markets 
-Proficiency with the Microsoft Office suite including in-depth knowledge of Outlook, Word, and Excel with the ability to pick up new systems and software easily 
-Must be authorized to work in the United States without the need for visa sponsorship now or in the future
+The estimated base pay range for this position is $53,600 - $73,700
