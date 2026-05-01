@@ -1,40 +1,48 @@
-Where Technical Expertise Meets Customer Impact - Join Us as a Solutions Engineer
+Teal Communications, Inc. (“Teal”) is a software company that offers a cloud-native “Network Orchestration Service” built to connect Physical AI & IoT devices to data networks globally. Teal has been recognized by Inc. 5000 as one of the fastest growing private companies in the United States (#1 in Seattle-Metro and Washington State and #9 Software Company).
 
- 
+The Solutions Associate will support our sales team as a core technical resource - helping drive the technical win by clearly communicating how TEAL’s connectivity and eSIM solutions address customer needs. You’ll work closely with Account Executives to run effective discovery, support demos and evaluations, and help customers move from questions to confidence.
 
-The Solution Engineer is an integral member of our B2B customer account team, specializing in applying Shure's innovative AV and IT solutions to address client needs. This role is responsible for generating demand through prospecting, qualifying, educating, and proposing tailored solutions that support our clients’ evolving requirements. Success in this position requires strong communication and teamwork, foundational technical knowledge of AV/IT systems, experience in relationship-based sales, and a commitment to achieving business growth objectives.
+You’ll also partner cross-functionally with Customer Support, Product, and Engineering by bringing structure to customer feedback, assisting with investigations, and helping ensure customer-impacting issues and requests are clearly captured and routed.
 
+You’ll engage with innovative companies across industries—from EV charging and drones to smart metering and telematics—and help translate technical requirements into practical solutions.
 
-This is a growth-oriented position focused on developing technical and customer-facing skills, actively supporting senior team members, and building expertise in AV/IT solutions through hands-on experience and continuous learning.
+The ideal candidate is a proactive problem-solver who can bridge customer technical teams and commercial goals. You should be comfortable learning quickly, communicating clearly, and moving between customer conversations, light technical troubleshooting, and internal coordination.
 
- 
+Key Responsibilities
 
-This role is based in the Phoenix, AZ area. If you are interested in similar roles in other metropolitan areas across the U.S., please view our openings at www.shure.com/careers 
+Technical Sales Partnership
 
-Responsibilities
-Identify and Target Prospects: Research and identify potential B2B customers who could benefit from Shure’s AV and IT solutions.
-Lead Generation: Develop and implement strategies to generate leads through various channels, including webinars, social media, and industry events.
-Market Research: Stay updated on industry trends, competitor activities, and customer needs to refine prospecting approaches.
-Qualify projects and determine their potential readiness to benefit from Shure’s solutions.
-Customer Needs Analysis: Understand and document customer business challenges and needs through active listening and strategic questioning.
-Product Education: Educate prospects about Shure's products and solutions, demonstrating how our offerings can address their AV and IT requirements effectively.
-Solution Proposal: Develop tailored proposals that clearly outline the benefits and value of Shure’s AV and IT solutions for each customer.
-Sales Targets: Meet or exceed assigned sales targets and KPIs through effective management of the sales cycle (Opportunity tracking in Salesforce).
-Team Collaboration: Work closely with the sales team, marketing department, customer success, and technical experts to ensure cohesive and comprehensive customer experiences.
-Reporting: Maintain accurate and up-to-date records of prospect interactions, sales activities, and performance metrics using Salesforce CRM tools.
-Represent Shure at Industry events and conferences
-Support customized end-user engagement activations. 
-Qualifications
-Bachelor’s degree in Engineering, Marketing, Communications, or a related field.
-0-2 years of experience using skills as a professional with a comprehensive technical knowledge of audio principles and products. 
-Experience providing audio technical support, audio design, and audio equipment set-up.
-Background or experience with 1-2 of the following: integration, conferencing, or networking.
-Understanding of industry practices and/or company policies and procedures.
-Excellent communication and presentation skills.
-Enjoy meeting and dealing with new people.
-Knowledge of audio DSP technology.
-Expert troubleshooting skills.
-Ability to learn new technologies.
-Ability to handle multiple assignments, work independently, and see projects through to successful completion.
-Detail-oriented, well-organized, and good time management skills.
-50% travel annually – including some weekends – is required.
+ Partner with Account Executives to support new business and revenue goals
+ Participate in technical discovery calls to understand customer use cases, requirements, and constraints
+ Document discovery outcomes and help translate requirements into next steps (demo plan, PoC plan, technical validation items)
+
+Solution Design & Architecture
+
+ Support solution design using our eSIM, connectivity, and management platform (including APIs)
+ Create and maintain solution artifacts such as architecture diagrams, data flows, and technical write-ups that map TEAL’s solution to the customer’s needs
+ Collaborate with senior technical resources to validate approach, assumptions, and integration requirements
+
+Demonstration & Proof of Concept (PoC)
+
+ Deliver compelling product demonstrations, leveraging standard demo assets and tailoring to customer context with guidance and collaboration
+ Support customer PoCs by coordinating technical steps, assisting with setup, tracking progress, and helping ensure a successful evaluation
+ Gather and summarize PoC feedback for internal teams (Sales, Product, Engineering)
+
+Cross-Functional Technical Expertise
+
+ Partner with Customer Support and Engineering to investigate, reproduce, and resolve customer-reported technical issues—owning clear communication and structured handoffs
+ Act as the “voice of the customer” by providing actionable feedback to Product and Engineering to influence roadmap and improvements
+ Support technical responses for RFPs, RFIs, and security questionnaires (with guidance for more complex sections)
+
+Required Skills & Experience
+
+ 1–3+ years in a customer-facing technical role, such as Solutions Engineering, Sales Engineering, Technical Account Management, Implementation, or Technical Support
+ Working knowledge of APIs and integrations (REST/JSON), with the ability to run tests (e.g., Postman), troubleshoot basic requests, and explain concepts to mixed technical audiences
+ Strong problem-solving and troubleshooting skills, with the ability to break down issues across systems and communicate findings clearly
+ Excellent communication and presentation skills, with the ability to simplify technical topics for business stakeholders
+ Ability to manage multiple threads of work across sales cycles, customer requests, and internal stakeholders in a fast-moving environment
+
+Preferred Qualifications
+
+ Familiarity with the cellular and mobile ecosystem (MNOs, MVNOs, relevant standards and network concepts)
+ Exposure to eSIM concepts and provisioning flows, or demonstrated ability to learn new technical domains quickly
